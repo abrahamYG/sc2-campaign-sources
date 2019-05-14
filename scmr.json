@@ -61,16 +61,8 @@
 		{
 			"name":"SCMR Campaign Launcher",
 			"description":"Launcher",
-			"destination":"Maps/Antioch Remastered/Antioch Campaign Launcher.SC2Map",
-			"fileEntry":"Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Antioch Campaign Launcher.SC2Map",
-			"source":"https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
-			"sourceFormat": "zip"
-			
-		},{
-			"name":"1-1",
-			"description":"Launcher",
-			"destination":"Maps/Antioch Remastered/Episode 1/Antioch 1-1.SC2Map",
-			"fileEntry":"Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 1/Antioch 1-1.SC2Map",
+			"destination":"Maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+			"fileEntry":"Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
 			"source":"https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
 			"sourceFormat": "zip"
 			
