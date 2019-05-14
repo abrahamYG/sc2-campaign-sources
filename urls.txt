@@ -1,0 +1,206 @@
+
+SCMR
+Jones313
+	https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip
+
+
+Annihilation
+	https://edge.forgecdn.net/files/2636/531/AnnihilationPack1.zip
+	https://www.sc2mapster.com/projects/starcraft-ii-annihilation-campaign/files/2636532/download
+	https://edge.forgecdn.net/files/2636/532/AnnihilationPack2.zip
+	https://www.sc2mapster.com/projects/starcraft-ii-annihilation-campaign/files/2636533/download
+	https://edge.forgecdn.net/files/2636/533/AnnihilationPack3.zip
+	https://www.sc2mapster.com/projects/starcraft-ii-annihilation-campaign/files/2636534/download
+	https://edge.forgecdn.net/files/2636/534/AnnihilationPack04.zip
+	https://www.sc2mapster.com/projects/starcraft-ii-annihilation-campaign/files/2636536/download
+	https://edge.forgecdn.net/files/2636/536/AnnihilationPack05.zip
+	https://www.sc2mapster.com/projects/starcraft-ii-annihilation-campaign/files/2636537/download
+	https://edge.forgecdn.net/files/2636/537/Annihilation21.zip
+	https://www.sc2mapster.com/projects/starcraft-ii-annihilation-campaign/files/2636538/download
+	https://edge.forgecdn.net/files/2636/538/Annihilation22.zip
+	https://www.sc2mapster.com/projects/starcraft-ii-annihilation-campaign/files/2636540/download
+	https://edge.forgecdn.net/files/2636/540/Annihilation23.zip
+	https://www.sc2mapster.com/projects/starcraft-ii-annihilation-campaign/files/2650491/download
+	https://edge.forgecdn.net/files/2650/491/Annihilation24.zip
+
+
+[Campaign] Wrath of the Tal'darim
+	https://edge.forgecdn.net/files/2358/636/WotT_Intro.zip
+	https://edge.forgecdn.net/files/2362/438/WotT_Mission1.zip
+	https://edge.forgecdn.net/files/2362/525/WotT_Mission2.zip
+	https://edge.forgecdn.net/files/2363/877/WotT_Mission3.zip
+	https://edge.forgecdn.net/files/2397/97/WotT Launcher.zip
+	https://edge.forgecdn.net/files/2397/104/WotT Mission 04.zip
+	https://edge.forgecdn.net/files/2500/999/WotT Mission 05.zip
+
+
+The Hammer of Dawn [Revamp]
+	https://edge.forgecdn.net/files/2697/578/HoDLauncherV1.zip
+	https://edge.forgecdn.net/files/2697/598/HoDModsV1.zip
+	https://edge.forgecdn.net/files/2697/618/HoDCinematic01V1.zip
+	https://edge.forgecdn.net/files/2698/246/HoDPrologueV1.b.zip
+	https://edge.forgecdn.net/files/2698/250/HoDMission01V1.zip
+	https://edge.forgecdn.net/files/2698/262/HoDMission02V1.zip
+	https://edge.forgecdn.net/files/2698/286/HoDMission03V1.zip
+
+
+Perfect Soldiers
+EivindL
+	https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip
+	https://edge.forgecdn.net/files/2368/588/AmberSun.zip
+	https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip
+
+foreach ($Uri in $Uris){(Invoke-WebRequest -Uri $Uri -MaximumRedirection 0).Headers.Location}
+
+The Hammer of Dawn - [Campaign]
+EDHRIANO
+	https://www.sc2mapster.com/projects/hammer-dawn/files/2514653/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/957013/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/935774/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/924058/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/922881/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/922391/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/922045/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/922039/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/921888/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/921156/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/920623/download
+	https://www.sc2mapster.com/projects/hammer-dawn/files/920549/download
+
+
+Noir : Automata
+Automata - Update24thsept	https://www.sc2mapster.com/projects/noir-automata/files/2620496/download
+06 In the Hunt - Update	https://www.sc2mapster.com/projects/noir-automata/files/2619666/download
+03 Perfect Soldier - Update	https://www.sc2mapster.com/projects/noir-automata/files/2548476/download
+01 Redsnow - Update	https://www.sc2mapster.com/projects/noir-automata/files/2529481/download
+Noir Automata - Complete	https://www.sc2mapster.com/projects/noir-automata/files/2528966/download
+NAMODS - Purifiers	https://www.sc2mapster.com/projects/noir-automata/files/2393114/download
+
+
+
+Noir : Evolution
+Noir : Evolution V.2b	https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download
+Memory : Alexei Stukov [1st release]	https://www.sc2mapster.com/projects/noir-evolution/files/2556381/download
+Memoir : Queen of Blades [2nd release]	https://www.sc2mapster.com/projects/noir-evolution/files/2517059/download
+undefined
+
+
+Noir : Ascension
+Prologue - Home Coming V.3	https://www.sc2mapster.com/projects/noir-ascension/files/2701833/download
+Epilogue : Lingering Truth [1st release]	https://www.sc2mapster.com/projects/noir-ascension/files/2633114/download
+Mission Launcher V7	https://www.sc2mapster.com/projects/noir-ascension/files/2632995/download
+02 Path of Ascension V2	https://www.sc2mapster.com/projects/noir-ascension/files/2620845/download
+04 Highway to Hell	https://www.sc2mapster.com/projects/noir-ascension/files/2596732/download
+Mods Ascension V5	https://www.sc2mapster.com/projects/noir-ascension/files/2596170/download
+03 Rak'shir V2	https://www.sc2mapster.com/projects/noir-ascension/files/2582869/download
+01 Departure V2	https://www.sc2mapster.com/projects/noir-ascension/files/2578523/download
+Memory : Forbidden Truth	https://www.sc2mapster.com/projects/noir-ascension/files/2546603/download
+
+
+Starcraft 2: Odyssey Campaign
+CooperHawkesOdyssey
+
+Odyssey Campaign Act I 08-14 + Launcher	https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546824/download
+Odyssey Campaign Act I 01-07 + Launcher	https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546502/download
+
+
+
+[Campaign] Ascension of Duran Reimagined
+bummknallpeng
+Ascension of Duran Reimagined v0.6	https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2702074/download
+
+
+[Campaign] Shadow of the Past
+Zeralan
+
+Mission 4 v.1.3	https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2701868/download
+Cinematic 1 - Twilight Council v.1.1	https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2694757/download
+Mission 3 v.1.5	https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2692812/download
+Mission 2 v.1.1	https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2692295/download
+Mission 1 v.1.1	https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2692293/download
+SotP_Launcher v.1.1	https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2692290/download
+undefined
+
+
+[Campaign] Race with Destiny
+Zeralan
+
+RwD_Launcher v.1.1	https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2681447/download
+Mission 6	https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674789/download
+Mission 5 (Part_2)	https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674788/download
+Mission 5 (Part_1)	https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674787/download
+Mission 4	https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674786/download
+Mission 3	https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674785/download
+Mission 2	https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674784/download
+Mission 1	https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674783/download
+
+
+
+StarCraft Reawakening
+
+Zarxiel93
+DEFILERRULEZ
+Enslavers 2: Dark Vengeance	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2700016/download
+Enslavers	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2695389/download
+Launcer (english)	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2689655/download
+Launcher	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2689612/download
+The Fall (english)	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2676853/download
+The Fall	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2676840/download
+Mods	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2675723/download
+Rebel Yell (english)	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2664263/download
+Rebel Yell	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2664251/download
+Queen of Blades (english)	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2661613/download
+Queen of Blades	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2661610/download
+The Stand (english)	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2661496/download
+The Stand	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2661493/download
+Overmind (english)	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2661424/download
+Overmind	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2661422/download
+Rebel Yell (English)	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2661369/download
+Loomings	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2588908/download
+Loomings (italian sub)	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2574994/download
+The Iron Fist (english)	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2573296/download
+The Iron Fist	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2573276/download
+Mods (english sounds)	https://www.sc2mapster.com/projects/starcraft-reawakening/files/2469116/download
+undefined
+
+
+Marauders! The Campaign
+
+Marauders - Thrasher no Thrashing	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2685697/download
+Marauders - Teach Me how to Jerk	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2685696/download
+Maporino! - Avalanche	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2621664/download
+Marauders - Kaboom Baby Part 1	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2597383/download
+Marauders - The Doom Train	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2590028/download
+Marauders - Loan Sharks	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2590027/download
+Marauders - Hackarena	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2590013/download
+Marauders - Maximum Overdrive	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2565806/download
+Marauders - Hackarena Part 2	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2565386/download
+Marauders - The Great Roach Migration	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2565385/download
+Marauders - Offensive Defense	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2561677/download
+Marauders - Technoblaster	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2558908/download
+Marauders - Bane of Existence	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2558906/download
+Marauders - Superstar	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2552554/download
+Marauders - Central	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2541861/download
+Marauders - Birth of a Legend Part 2	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2525899/download
+Marauders - Birth of a Legend Part 1	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2521934/download
+Marauders - Cold as Ice	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2509392/download
+Marauders - Origins	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2509388/download
+Marauders - Queen of Banes	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/2509384/download
+Marauders - Initiation	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/923170/download
+Marauders - Kaboom Baby Part 3	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/914550/download
+Marauders - Kaboom Baby Part 2	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/914549/download
+Marauders - Incognito	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/914548/download
+Marauders - Team BAMF	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/914546/download
+Marauders - Technoblaster	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/914545/download
+Marauders - Rising Tide	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/914544/download
+Marauders - The Mechanic	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/914543/download
+Marauders - Marauding	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/914542/download
+Marauders - Firejumpers	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/907891/download
+Marauders - Sea Service	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/907890/download
+Marauders - Orbital Drop	https://www.sc2mapster.com/projects/marauders-orbital-drop/files/907889/download
+undefined
+
+
+
+Starcraft: Enslavers Redux
+
