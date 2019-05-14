@@ -1,0 +1,274 @@
+{
+	"id": "perfect-soldiers",
+	"name": "Perfect Soldiers",
+	"shortName": "Perfect Soldiers",
+	"installed":false,
+	"summmary": "This is the first release of a StarCraft 2 remake of the seminal StarCraft custom campaign known as the Antioch Chronicles.",
+	"thumbnail": "https://media.forgecdn.net/avatars/thumbnails/109/517/62/62/636380323898546882.jpeg",
+	"description": "# PERFECT SOLDIERS\n_News: the nuke bug has now been fixed._\n\nPerfect Soldiers is a 30-mission trilogy campaign consisting of 3 parts: Crimson Moon, Amber Sun and Aureolin Eclipse. The campaigns were not designed with sequels in mind, and yet sequels they acquired anyway, and now they're all gathered here together so that players can easily access them at the same place.\n\nAt the time of writing, this is an incomplete project. Crimson Moon and Amber Sun are done and ready to play, but Aureolin Eclipse needs its last missions finished. Those that are ready can be downloaded on this page. Also, note that the project may be subject to alterations even after all the missions are done.\n\nThough this is primarily a terran campaign, there are some missions in Aureolin Eclipse that let you play as protoss.\n\n## Story\nPerfect Soldiers has a dark, twisty story that's full of memorable scenes and moments, populated by characters that you will both care for and hate. The campaign begins at the intersection of two plotlines: a group of miners that have travelled to the remote world of Roverville in search for fortune, and a Crimson Moon assassin on the hunt for a dangerous terrorist threatening to bring chaos to the sector. As the story progresses, more and more characters enter... until the final showdown in Aureolin Eclipse's last mission.\n\n\n## Missions\n### Crimson Moon\n* Roverville\n  * Quarinius\n  * A Future Uncertain\n  * The Black Khan\n  * The Shortest Straw\n  * Veil of Frost\n  * Graveyard of Memories\n  * Assume the Position\n  * Perfect Soldiers\n  * Under a Crimson Moon\n### Amber Sun\n  * The Overlord Hunt\n  * Bayo\n  * The Khaal-Ro\n  * Alzadhar\n  * Homecoming\n  * A Rose with Thorns\n  * Desert Dogs\n  * The Pragmatist\n  * Assassins in the Fog\n  * Back to Square One\n### Aureolin Eclipse\n  * Yojimbo\n  * Bad Company\n  * All-Clear Signal\n  * Ossos\n  * Borealis\n  * Memories of a Mercenary\n  * The Mercenary and the Pragmatist\n  * Valley of Blood\n  * Winter Warriors\n  * Old Acquaintances\n\n\n## Shout-outs\nThough the project is all mine, I'd like to extend my thanks to the following:\n\n* Tyneara and the rest of the Custom Campaign Initiative for helping build a campaign community.\n* The creators of the SC1 remake campaigns, from where I found the inspiration to using custom music and making atmospheric intros.\n* OneTwoSC, for his Youtube video of how to make a snow tileset.\n* Terhonator, for his mission launcher.\n* The guys over at the Map Art Thread on the Team Liquid forums, for much visual inspiration.\n* Jayborino, for his playthroughs on YouTube and endless support.\n* All my testers, for their willingness to play the bugged, unfinished versions of the maps.\n* Last, but certainly not least: everyone who plays the campaign, and everyone who gives constructive feedback!",
+	"author": "EivindL",
+	"lastUpdated": "2019-03-28",
+	"screenshots": [
+		{
+			"src":"https://media.forgecdn.net/attachments/160/22/kelmorianspecimens.jpg"
+		},
+		{
+			"src":"https://media.forgecdn.net/attachments/160/18/comparison1-4_1_.png"
+		}
+	],
+	"patchNotes":[
+		{
+			"version":"v1.00",
+			"date":"2019-03-28",
+			"notes":" * Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n * Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		}
+	],
+	"mods":[],
+	"maps": [
+		{
+			"name":"Crimson Moon - Roverville",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Crimson Moon - Quarinius",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Crimson Moon - A Future Uncertain",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Crimson Moon - The Black Khan",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Crimson Moon - The Shortest Straw",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Crimson Moon - Veil of Frost",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Crimson Moon - Graveyard of Memories",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Crimson Moon - Assume the Position",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Crimson Moon - Perfect Soldiers",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Crimson Moon - Under a Crimson Moon",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+			"sourceFormat": "zip"
+		},
+		
+		{
+			"name":"Amber Sun - The Overlord Hunt",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Amber Sun - Bayo",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Amber Sun - The Khaal-Ro",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Amber Sun - Alzadhar",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Amber Sun - Homecoming",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Amber Sun - A Rose with Thorns",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Amber Sun - Desert Dogs",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Amber Sun - The Pragmatist",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Amber Sun - Assassins in the Fog",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Amber Sun - Back to Square One",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+			"sourceFormat": "zip"
+		},
+		
+		{
+			"name":"Aureolin Eclipse - Yojimbo",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Aureolin Eclipse - Bad Company",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Aureolin Eclipse - All-Clear Signal",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Aureolin Eclipse - Ossos",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Aureolin Eclipse - Borealis",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Aureolin Eclipse - Memories of a Mercenary",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Aureolin Eclipse - The Mercenary and the Pragmatist",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Aureolin Eclipse - Valley of Blood",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Aureolin Eclipse - Winter Warriors",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"Aureolin Eclipse - Old Acquaintances",
+			"description":"",
+			"destination":"",
+			"fileEntry":"",
+			"source":"https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+			"sourceFormat": "zip"
+		}
+	]
+	
+}
+
+
