@@ -1,0 +1,95 @@
+{
+	"id": "annihilation",
+	"name": "Starcraft: Annihilation",
+	"shortName": "Annihilation",
+	"installed":false,
+	"summmary": "This is the first release of a StarCraft 2 remake of the seminal StarCraft custom campaign known as the Antioch Chronicles.",
+	"thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/284/62/62/636178329999424773.png",
+	"description": "# Introduction:\nThis is my first serious map project for StarCraft II. I've always enjoyed the campaign aspect of StarCraft and have played through both the Wings of Liberty and Heart of the Swarm campaigns several times, along with a multitude of different campaigns made by the public. I therefore decided it was time to create my own.\n\nAnnihilation is a 24 mission campaign with three different story perspectives that will intertwine into one final conclusion. Featuring high-quality terrain, lots of different characters as well as a wide variety of mission scenarios, this campaign, featuring 4 difficulty levels, will hopefully create an enjoyable experience for players of every skill level.\n\nLink to the official Map Feedback thread can be found here.\n\n# Features:\n* Three seperate storylines intersecting and coming together into one final conclusion.\n* Play as both Terran, Zerg and Protoss.\n* Heavy focus on quality terrain and environments.\n* Custom soundtracks and several interesting Hero units.\n* 24 missions pitting you up against many different challenges and mission scenarios.\n* A total of 14 boss battles pitting you up against a variety of different tacticts and strategies.\n\n# Story:\nIt all starts with Investigator Maxwell Reeves of the Spec-Ops: Infiltration Program, who sets surface on the planet Callithus IV to assist the Terran settlers with what initially appears to be a minor Zerg problem. However, they soon realize that events has been set in motion that will potentially change the fate of the universe, and it will be up to the different clans to work together against stopping this threat.\n\n# Missions:\n* **Annihilation 01:** Mindless Creatures - **Completed (RELEASE)**\n* **Annihilation 02:** An Unfriendly Ally - **Completed (RELEASE)**\n* **Annihilation 03:** The Idu'ran - **Completed (RELEASE)**\n* **Annihilation 04:** Fallen Brethren - **Completed (RELEASE)**\n* **Annihilation 05:** Departure - **Completed (RELEASE)**\n* **Annihilation 06:** The Daggerfang - **Completed (RELEASE)**\n* **Annihilation 07:** Homecoming - **Completed (RELEASE)**\n* **Annihilation 08:** The Wandering Shadow - **Completed (RELEASE)**\n* **Annihilation 09:** Bio-Weapons - **Completed (RELEASE)**\n* **Annihilation 10:** Newfound Enemies - **Completed (RELEASE)**\n* **Annihilation 11:** Ussorus - **Completed (RELEASE)**\n* **Annihilation 12:** Reawakening - **Completed (RELEASE)**\n* **Annihilation 13:** Facility 14A - **Completed (RELEASE)**\n* **Annihilation 14:** The First Step - **Completed (RELEASE)**\n* **Annihilation 15:** Entrance Into Risk - **Completed (RELEASE)**\n* **Annihilation 16:** The Breach - **Completed (RELEASE)**\n* **Annihilation 17:** Last Stand - **Completed (RELEASE)**\n* **Annihilation 18:** A Major Downfall - **Completed (RELEASE)**\n* **Annihilation 19:** Planetary Incursion - **Completed (RELEASE)**\n* **Annihilation 20:** Sentient Reality - **Completed (RELEASE)**\n* **Annihilation 21:** Mysterious Revelations - **Completed (RELEASE)**\n* **Annihilation 22:** The United Forces - **Completed (RELEASE)**\n* **Annihilation 23:** Frontal Push - **Completed (RELEASE)**\n* **Annihilation 24:** Edge of Annihilation - **Completed (RELEASE)**\n\n# Difficulty Levels:\nThis campaign contains 4 difficulty levels, ranging from Casual, Normal, Hard and Brutal. Your success in completing the individual missions on these difficulties greatly depends on your level of skill.\n\n* **Casual:** A difficulty requiring little to no multitasking and micro skills, featuring less enemies and focus on story.\n* **Normal:** A difficulty requiring minor multitasking and micro skills, featuring fewer enemies and focus on story and minor challenges.\n* **Hard:** A difficulty requiring good multitasking and micro skills, featuring a high number enemies and focus on challenges and entertainment.\n* **Brutal:** A difficulty requiring great multitasking and micro skills, featuring tremendously more enemies and heavy focus on challenge.\n\n# Music\nYou may notice some of the music in the campaign are not from StarCraft, in fact, I focused heavily on the use of soundtracks to bring the campaign to life. If you wish to see a full list of all the tracks confirmed to be used, click here.\n\n# Credits:\n* Special thanks to the respected composers of the various different music soundtracks used in this campaign.\n* Special thanks to Thrikodias for the awesome custom models and units used in this campaign.\n* Special thanks to VastanX for creating the unique models for various Hero units used in this campaign.\n* Special thanks to all those who play and provide useful feedback to help improve these maps.\n* Special thanks to users JayborinoPlays, deltronLive, Redlerred7 xMasterKD and Palnai for playing and providing entertainment and feedback for this campaign.\n\n# Patch Notes:\nCurrent changes are planned for the campaign:\n\n* **A24**: Fixed an issue causing the Annihilator to get the wrong shield values with each wave on certain difficulties.\n* **A24**: Fixed an issue causing the Spec-Ops: Assault Division to become invulnerable and remain on the map if they were called down more than once.\n* **A24**: Reduced the amount of screen shaking during the final escape section.\n* **A24**: Increased the size of the Annihilator's \"Total Annihilation\" ability marker prior to casting.\n* **A24**: Fixed an issue causing the Annihilator's retreat trigger to bug out.\n* **A24**: Every enemy Planetary Fortress destroyed now increases the damage that the Annihilator takes by 20%.\n* **A24**: Reduced the Annihilator's armor value from 5 to 3.",
+	"author": "Mass Recall Team",
+	"lastUpdated": "2019-03-28",
+	"screenshots": [
+		{
+			"src":"https://media.forgecdn.net/attachments/160/22/kelmorianspecimens.jpg"
+		},
+		{
+			"src":"https://media.forgecdn.net/attachments/160/18/comparison1-4_1_.png"
+		}
+	],
+	"patchNotes":[
+		{
+			"version":"v1.00",
+			"date":"2019-03-28",
+			"notes":" * Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n * Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		}
+	],
+	"mods":[],
+	"maps": [
+		{
+			"name":"WotT Launcher",
+			"description":"",
+			"destination":"Maps/WotT Campaign/WotT Launcher.SC2Map",
+			"fileEntry":"WotT Campaign/WotT Launcher.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2397/97/WotT Launcher.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"00 - Intro",
+			"description":"",
+			"destination":"Maps/WotT Campaign/WotT Intro.SC2Map",
+			"fileEntry":"WotT Campaign/WotT Intro.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2358/636/WotT_Intro.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"01 - Awakened Evil",
+			"description":"",
+			"destination":"Maps/WotT Campaign/WotT 01.SC2Map",
+			"fileEntry":"WotT Campaign/WotT 01.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2362/438/WotT_Mission1.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"02 - Echoes of Death",
+			"description":"",
+			"destination":"Maps/WotT Campaign/WotT 02.SC2Map",
+			"fileEntry":"WotT Campaign/WotT 02.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2362/525/WotT_Mission2.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"03 - Temple of the Damned",
+			"description":"",
+			"destination":"Maps/WotT Campaign/WotT 03.SC2Map",
+			"fileEntry":"WotT Campaign/WotT 03.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2363/877/WotT_Mission3.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"04 - Path to Power",
+			"description":"",
+			"destination":"Maps/WotT Campaign/WotT 04.SC2Map",
+			"fileEntry":"WotT Campaign/WotT 04.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2397/104/WotT Mission 04.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"05 - Forgotten Whisper ",
+			"description":"",
+			"destination":"Maps/WotT Campaign/WotT 05.SC2Map",
+			"fileEntry":"WotT Campaign/WotT 05.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2500/999/WotT Mission 05.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"06 - Coming End ",
+			"description":"",
+			"destination":"Maps/WotT Campaign/WotT Launcher.SC2Map",
+			"fileEntry":"WotT Campaign/WotT Launcher.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2397/97/WotT Launcher.zip",
+			"sourceFormat": "zip"
+		}
+
+	]
+	
+}
