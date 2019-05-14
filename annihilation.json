@@ -1,0 +1,223 @@
+{
+	"id": "annihilation",
+	"name": "Starcraft: Annihilation",
+	"shortName": "Annihilation",
+	"installed":false,
+	"summmary": "This is the first release of a StarCraft 2 remake of the seminal StarCraft custom campaign known as the Antioch Chronicles.",
+	"thumbnail": "https://media.forgecdn.net/avatars/thumbnails/83/616/62/62/636189625320433882.jpeg",
+	"description": "# Starcraft: Mass Recall\n\n**Starcraft: Mass Recall** is a project that recreates the classic Starcraft and Brood War gameplay as well as the entire single-player campaigns within the Starcraft 2 engine.  Mass Recall contains 68 maps, 59 from the original Brood War game, 3 that were hidden or deleted on various Starcraft supports, and 6 from the 1998 demo campaign.\n\nDo not hesitate to leave feedback or suggestions in the comments below.\nAlso check out: \n\n* [our project thread at TeamLiquid](http://www.teamliquid.net/forum/starcraft-2/303166-starcraft-mass-recall-sc1-campaigns-on-sc2-thread)\n* [a commentated playthrough by Jayborino (v6.x, hard difficulty)](https://www.youtube.com/playlist?list=PLMmfhvBzj4FB3tsiNV3d7B2K_9Imbtg6B)\n* a playthrough by professional Starcraft 2 player Crank (HotS version, hard difficulty)\n\n# Top News (Apr 3, 2019):\n\n## BRUTAL DIFFICULTY ENTHUSIASTS WANTED\n\nReports of our demise have been greatly exaggerated. It's taken too long for sure, but we're getting close to releasing the rest of the campaigns for the latest 7.X overhaul of the mod. We are now looking for testers for the brutal difficulty setting of the upcoming Brood War episodes 4-6, as well as the extra campaign \"Loomings\" aka \"Precursor\".\n\nBe advised: this difficulty is meant to be unforgiving and won't be for everyone. You should expect to have a hard time. We would hope you have previous experience in Starcraft 2 at the very least, preferably also in Mass Recall or Brood War. Having completed or even played some of MR on hard or brutal difficulty is certainly a plus. The latest available versions of episodes 1-3 include a brutal difficulty setting, in case you want to try a map or two to get a better idea of what this is.\n\n\nWe're looking to have you test one of the four campaigns mentioned above. We won't expect you to grind through every map from start to finish, so don't fret. Naturally, we would appreciate some level of feedback afterwards to answer these questions:\n\n* Are there maps that don't give you a chance? (you get crushed early on, you've tried a couple of times and don't see any significant mistakes in your play)\n* Are there maps where you run out of steam? (you can make it to 15-20 minutes but can't seem to make any progress with the resources available to you in the early/mid-game)\n* Are there wild difficulty swings within maps? (for example, no room for error in the first 10-15 minutes, afterwards the AI doesn't pose any threat)\n* Are there difficulty swings within the campaign? (some maps being noticeably easier/harder than others)\n* Are there any other issues affecting gameplay?\n\nAgain, we're evaluating the brutal difficulty here specifically. If you're interested, send me a PM and state your preferred race/campaign, if any. I'll get back to you with more details sometime this week. That is to say I might not respond right away but if we're already full, I'll try to notify you ASAP.\n\n## Jan 1st, 2019\n\nStarcraft: Mass Recall 7.0 is live!  We are proud to release the first 3 episodes of Starcraft in Mass Recall for the new 7.0 version!  This updated version is the latest and most complete Mass Recall experience to date which includes a slew of new Starcraft: Remastered features including remastered briefings rooms, loading images, story cinematics, improved FMV cinematics, enhanced audio tracks, and more.   You can download the project under \"Files\" and follow instructions for loading.  \n\nStay tuned for the Brood War episodes being released as well as updated \"Extra\" campaigns, including Loomings, Stukov Series, and the custom remake of Enslavers in Enslavers: Redux!",
+	"author": "Mass Recall Team",
+	"lastUpdated": "2019-03-28",
+	"screenshots": [
+		{
+			"src":"https://media.forgecdn.net/attachments/160/22/kelmorianspecimens.jpg"
+		},
+		{
+			"src":"https://media.forgecdn.net/attachments/160/18/comparison1-4_1_.png"
+		}
+	],
+	"patchNotes":[
+		{
+			"version":"v1.00",
+			"date":"2019-03-28",
+			"notes":" * Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n * Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+		}
+	],
+	"mods":[],
+	"maps": [
+		{
+			"name":"01 - MindlessCreatures",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation01MindlessCreatures.SC2Map",
+			"fileEntry":"AnnihilationPack1/Annihilation01MindlessCreatures.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/531/AnnihilationPack1.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"02 - AnUnfriendlyAlly",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation02AnUnfriendlyAlly.SC2Map",
+			"fileEntry":"AnnihilationPack1/Annihilation02AnUnfriendlyAlly.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/531/AnnihilationPack1.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"03 - TheIduran",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation03TheIduran.SC2Map",
+			"fileEntry":"AnnihilationPack1/Annihilation03TheIduran.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/531/AnnihilationPack1.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"04 - FallenBrethren",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation04FallenBrethren.SC2Map",
+			"fileEntry":"AnnihilationPack1/Annihilation04FallenBrethren.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/531/AnnihilationPack1.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"05 - Departure",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation05Departure.SC2Map",
+			"fileEntry":"AnnihilationPack2/Annihilation05Departure.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/532/AnnihilationPack2.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"06 - TheDaggerfang",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation06TheDaggerfang.SC2Map",
+			"fileEntry":"AnnihilationPack2/Annihilation06TheDaggerfang.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/532/AnnihilationPack2.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"07 - Homecoming",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation07Homecoming.SC2Map",
+			"fileEntry":"AnnihilationPack2/Annihilation07Homecoming.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/532/AnnihilationPack2.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"08 - TheWanderingShadow",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation08TheWanderingShadow.SC2Map",
+			"fileEntry":"AnnihilationPack2/Annihilation08TheWanderingShadow.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/532/AnnihilationPack2.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"09 - BioWeapons",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation09BioWeapons.SC2Map",
+			"fileEntry":"AnnihilationPack3/Annihilation09BioWeapons.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/533/AnnihilationPack3.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"10 - NewfoundEnemies",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation10NewfoundEnemies.SC2Map",
+			"fileEntry":"AnnihilationPack3/Annihilation10NewfoundEnemies.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/533/AnnihilationPack3.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"11 - Ussorus",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation11Ussorus.SC2Map",
+			"fileEntry":"AnnihilationPack3/Annihilation11Ussorus.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/533/AnnihilationPack3.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"12 - Reawakening",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation12Reawakening.SC2Map",
+			"fileEntry":"AnnihilationPack3/Annihilation12Reawakening.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/533/AnnihilationPack3.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"13 - Facility14A",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation13Facility14A.SC2Map",
+			"fileEntry":"AnnihilationPack04/Annihilation13Facility14A.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/534/AnnihilationPack04.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"14 - TheFirstStep",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation14TheFirstStep.SC2Map",
+			"fileEntry":"AnnihilationPack04/Annihilation14TheFirstStep.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/534/AnnihilationPack04.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"15 - EntranceIntoRisk",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation15EntranceIntoRisk.SC2Map",
+			"fileEntry":"AnnihilationPack04/Annihilation15EntranceIntoRisk.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/534/AnnihilationPack04.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"16 - TheBreach",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation16TheBreach.SC2Map",
+			"fileEntry":"AnnihilationPack04/Annihilation16TheBreach.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/534/AnnihilationPack04.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"17 - LastStand",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation17LastStand.SC2Map",
+			"fileEntry":"AnnihilationPack05/Annihilation17LastStand.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/536/AnnihilationPack05.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"18 - AMajorDownfall",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation18AMajorDownfall.SC2Map",
+			"fileEntry":"AnnihilationPack05/Annihilation18AMajorDownfall.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/536/AnnihilationPack05.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"19 - PlanetaryIncursion",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation19PlanetaryIncursion.SC2Map",
+			"fileEntry":"AnnihilationPack05/Annihilation19PlanetaryIncursion.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/536/AnnihilationPack05.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"20 - SentientReality",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation20SentientReality.SC2Map",
+			"fileEntry":"AnnihilationPack05/Annihilation20SentientReality.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/536/AnnihilationPack05.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"21 - MysteriousRevelations",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation21MysteriousRevelations.SC2Map",
+			"fileEntry":"Annihilation21/Annihilation21MysteriousRevelations.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/537/Annihilation21.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"22 - TheUnitedForces",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation22TheUnitedForces.SC2Map",
+			"fileEntry":"Annihilation22/Annihilation22TheUnitedForces.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/538/Annihilation22.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"23 - FrontalPush",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation23FrontalPush.SC2Map",
+			"fileEntry":"Annihilation23/Annihilation23FrontalPush.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2636/540/Annihilation23.zip",
+			"sourceFormat": "zip"
+		},
+		{
+			"name":"24 - EdgeOfAnnihilation",
+			"description":"Launcher",
+			"destination":"Maps/Annihilation24EdgeOfAnnihilation.SC2Map",
+			"fileEntry":"Annihilation24/Annihilation24EdgeOfAnnihilation.SC2Map",
+			"source":"https://edge.forgecdn.net/files/2650/491/Annihilation24.zip",
+			"sourceFormat": "zip"
+		}
+
+	]
+	
+}
