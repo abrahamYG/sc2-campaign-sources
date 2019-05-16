@@ -1,0 +1,28 @@
+{
+    "id": "battlestations",
+    "name": "BattleStations",
+    "shortName": "BattleStations",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/589/62/62/636178322506024463.jpg",
+    "description": "Single player campaign FPS test. I am using some story mode sets and units along with the low res multilayer units. This is a very alpha map which I am using to learn. Thank you to all the dedicated SC fans who have contributed to this effort. Please PM me if you are interested in working on a collaborative project. <br>\n\n==**Unit Selection**==<br>\n\n![Unit Selection](<http://static.sc2mapster.com/content/images/24/991/Screenshot2010-09-05_03_20_42.jpg>)<br>\n\n==**Incoming Transmission**==<br>\n\n![Incoming Transmission](<http://static.sc2mapster.com/content/images/24/990/Screenshot2010-09-05_03_20_37.jpg>)<br>\n\n==**Repel Zerg Boarding Party**==<br>\n\n![Repel Zerg Boarding Party](<http://static.sc2mapster.com/content/images/24/992/Screenshot2010-09-05_03_21_26.jpg>)\n\n",
+    "author": "_ForgeUser4926752",
+    "lastUpdated": "2010-09-05T06:26:32.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/241/Screenshot2010-09-05_03_20_37.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/243/Screenshot2010-09-05_03_20_42.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/244/Screenshot2010-09-05_03_21_26.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/245/Terrain_001.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

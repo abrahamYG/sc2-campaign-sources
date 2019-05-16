@@ -1,0 +1,28 @@
+{
+    "id": "chronicles-mike",
+    "name": "Chronicles of Mike",
+    "shortName": "Chronicles of Mike",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/703/62/62/636178323371710435.JPG",
+    "description": "This is gonna be a Terran Campaign about a Marine named Mike who has stolen some Prototype Items from the Dominion and was then exiled on a Jungle Planet. Very WIP basic storyline. Map 1 is in development. Version 0.07 Released Fixed all the transmissions and some of the unit errors. Started the Protoss Temple section. Expect Part 2 in the next map update.",
+    "author": "_ForgeUser4387210",
+    "lastUpdated": "2010-05-03T17:14:08.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/583/ChroniclesOfMike_1_.JPG"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/586/chroniclesofmikeshot2.JPG"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/589/ChroniclesOfMikeMedic.JPG"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/591/ChroniclesOfMikeTemple.JPG"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

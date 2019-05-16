@@ -1,0 +1,46 @@
+{
+    "id": "brood-war-dark-vengeance-remake",
+    "name": "SC1 Enslavers & Dark Vengeance Remake",
+    "shortName": "SC1 Enslavers & Dark Vengeance Remake",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/790/62/62/636178323913866883.jpg",
+    "description": "This is a remake map of Enslavers and Dark Vengeance campaign from Starcraft 1.\n\n**\\- The map has been updated with the latest mod by [Starcraft Mass Recall Team](<http://www.sc2mapster.com/maps/starcraft-mass-recall/>)**\n\nDownload\n\n[Enslavers & Dark Vengeance](<http://www.sc2mapster.com/maps/brood-war-dark-vengeance-remake/files/43-enslavers-dark-vengeance-map-file/>)\n\nhow to play\n\n1\\. Extract map and mod files. (Download the latest mod file from [Here](<http://www.sc2mapster.com/maps/starcraft-mass-recall/files/>) \\- SCMRmod)\n\n2\\. Paste mod file to 'Mods' folder in Starcraft 2 directory.\n\n3\\. Test document maps or just simply drag them on starcraft 2.exe icon.\n\nPlay order\n\nEnslavers\n\n1 -> 2 -> (You have destroyed the cerebrate) 3a\n\n1 -> 2 -> (You have rescued Protoss) 2b -> 3b\n\nDark Vengeance\n\n1 -> 2 -> 3 -> (You have recovered Khadarin crystal in mission 03) 4a -> 5a\n\n1 -> 2 -> 3 -> (You have destroyed Command centers in mission 03) 4b -> 5b\n\n",
+    "author": "_ForgeUser13630955",
+    "lastUpdated": "2014-08-29T17:07:14.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/794/Screenshot2014-02-24_01_32_01.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/795/Screenshot2014-02-24_01_29_32.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/799/Screenshot2014-02-24_01_18_57.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/801/Screenshot2014-02-24_01_34_55.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/802/Screenshot2014-03-09_04_04_52.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/805/Screenshot2014-03-09_04_08_54.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/809/Screenshot2014-03-09_04_09_20.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/812/Screenshot2014-03-09_04_13_03.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/814/Screenshot2014-03-09_04_18_00.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/816/Screenshot2014-03-27_02_22_00.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

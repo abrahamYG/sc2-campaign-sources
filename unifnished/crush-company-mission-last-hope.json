@@ -1,0 +1,40 @@
+{
+    "id": "crush-company-mission-last-hope",
+    "name": "Crush Company - The Last Hope",
+    "shortName": "Crush Company - The Last Hope",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/79/793/62/62/636178315835064203.Jpg",
+    "description": "<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/s9id-qUSyL8?wmode=transparent\" height=\"358\" width=\"638\"></iframe>\n\n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/OCIS5_ZYmGw?wmode=transparent\" height=\"358\" width=\"638\"></iframe>\n\n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/N9xtH8Ixn-Q?wmode=transparent\" height=\"358\" width=\"638\"></iframe>\n\n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/VrmrVO9kwdM?wmode=transparent\" height=\"358\" width=\"638\"></iframe>\n\n**Introduction**\n\nThis is the first of a campaign made by Enclave Studio. It's based on old arcade games of Beat'Em Up style like Golden Axe or Double Dragon.<br>\n\n You can choose between 4 heroes + 2 secret heroes unlocable discovering some secrets inside the map. Each one will have unique weapons and combos. Some of them will be limited by pickable items (like grenades or missile barrage) or by special game mechanics (like weapon heat or rage).<br>\n\n It will be composed by 13 levels but you can play only 7 of them for each game, depending on the choiches you make at intersections.<br>\n\n Like in all this kind of games there is a special AI (Artificial Idiocy xD) where monsters move stupidly soo you can dodge them. Even their attacks can be dodged moving away.\n\n**Features**\n\n\\- Full phisic functions (3D collisions, jumps and projectile gravity)<br>\n\n \\- Custom Artificial Intelligence and abilities for monsters<br>\n\n \\- Secret areas and characters<br>\n\n \\- 1 to 4 players cooperative gameplay balanced on the amount of players<br>\n\n \\- 6 pickable heroes\n\n**Heroes**\n\nMARINE\n\n\\- Chaingun<br>\n\n \\- Flamethrower (limited)<br>\n\n \\- Grenade (item)<br>\n\n \\- Flee\n\nMARAUDOR\n\n\\- Missile<br>\n\n \\- Void Ray (limited)<br>\n\n \\- Missle Barrage (item)<br>\n\n \\- Defend\n\nZEALOT\n\n\\- Psi-Blade<br>\n\n \\- Warcry (limited)<br>\n\n \\- Leech Granade (item)<br>\n\n \\- Charge\n\nDARK TEMPLAR\n\n\\- Scythe<br>\n\n \\- Shockwave (limited)<br>\n\n \\- Psi-Shield (item)<br>\n\n \\- Blink\n\n",
+    "author": "bibendus",
+    "lastUpdated": "2010-06-07T12:21:59.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/153/614/Minimap.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/153/615/Screenshot001.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/153/616/Screenshot008.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/153/618/Screenshot012.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/153/619/Screenshot002.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/153/620/Screenshot004.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/153/621/Screenshot013.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/153/622/Screenshot016.Jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

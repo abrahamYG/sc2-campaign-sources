@@ -1,0 +1,19 @@
+{
+    "id": "call-ancestors-v0-1",
+    "name": "Call of Ancestors",
+    "shortName": "Call of Ancestors",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/776/62/62/636178323805649844.jpg",
+    "description": "## Call of Ancestors v1.2 is out. It features **FULL VOICEOVERS** for ingame cinematics and tons of fixes based on your sugesstions!!!\n\n**Plot: After learning that Terran mercenaries are desecrating one of their planet, young Protoss warrior Tarsalis lands on a planet and begins his quest to reach lost ruins. But unknown to him, his superiors have more sinister plan in place.**\n\nVersion notes: This v1.2 release of CoA map contains tons of changes here is the list:\n\n- New Loading text. \n- All voiceovers have increased volume now. \n- Fixed one big cutscene mixup. \n- Added more health, shields and speed for Tal'Adun. \n- Fixed names of Tarsalis weapons. \n- Archon beam of Tarsilas can only target Air units now. \n- Removed the range of Terran sensor tower. \n- Fixed ivanco's initialization area. \n- Stalkers have blink now. \n- Doubled the shield regeneration rate of Tarsilas and Tal'adun [regeneration wait time is stil same]. \n- Added tons more \"no walk\" zones over some areas and doodads. \n- Added more Terran forces in the north base. \n- Added more Terran forces in the Temple Entrance [they prevent rushing tactics]. \n- Added another Missile Turret detector near Siege tank [i will make detector out of him later]. \n- Beacons cant be selectable anymore. \n- Changed the name of \"Battle Cruiser Copy\" units. [Those units are still not responding to \"issue order - move to point\" order. Weird.] \n- Changed the flow of end cinematic, but its not done yet. \n\n<!-- -->\n\nTo do list:\n\n- skippable cinematics [but I will need help from you guys, point me out to some map that has that feature and I will look into it.] \n- explosions at the end of the map [sound & camera shake] \n- personalised sounds for Tarsilas [when moving & attacking] \n- work on map 2 and continuation of Tarslalis adventure \n\n<!-- -->\n\nCredits:\n\n- DieH@rd - all the coding and map making \n- Relja Trajković - sound engeneer, voice of Tal'Adun, voice of Fleet Command \n- Ivica Milarić - scenario work, voice of Tarsalis, voice of Ivanco \n- Ivan Zorkić - voice of Zealot, voice of Reely \n\n<!-- -->\n\nFew pictures from the map:\n\n[http://www.dodaj.rs/f/F/Su/RkorcBi/terrain-004.jpg](</linkout?remoteUrl=http%253a%252f%252fwww.dodaj.rs%252ff%252fF%252fSu%252fRkorcBi%252fterrain-004.jpg>)\n\n[http://www.dodaj.rs/f/3N/TT/4oAbHh41/temple.jpg](</linkout?remoteUrl=http%253a%252f%252fwww.dodaj.rs%252ff%252f3N%252fTT%252f4oAbHh41%252ftemple.jpg>)\n\n[http://www.dodaj.rs/f/V/FM/3VW9h9ki/ispredtemplea.jpg](</linkout?remoteUrl=http%253a%252f%252fwww.dodaj.rs%252ff%252fV%252fFM%252f3VW9h9ki%252fispredtemplea.jpg>)\n\n",
+    "author": "_ForgeUser4387110",
+    "lastUpdated": "2010-05-04T13:04:50.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/777/CallofAncestors_thumb.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

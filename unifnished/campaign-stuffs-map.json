@@ -1,0 +1,16 @@
+{
+    "id": "campaign-stuffs-map",
+    "name": "Campaign Stuffs Map",
+    "shortName": "Campaign Stuffs Map",
+    "installed": false,
+    "summmary": "",
+    "description": "this project will hopefully be a straight-arrow once i figure out some things, its initial goals will be to include the Campaign Units/Upgrades/Abiities and Structures to both Terran and Zerg spanning SC2 Wings of Liberty and Heart of the Swarm.\n\neventually when we have access to its data, i plan to include the same things for Legacy of the Void but that may be some time yet\n\nuntil then it will only specialize in Terran and Zerg, however i will still make Protoss playable even if its less-enticing..for those who really want to play Protoss even if they cant have all the fancy things for now like i would give to Terran and Zerg, but that will change once we get Legacy of the Void, but whether that is a year away or even 2, who knows\n\nwhile the project will be playable and up for showcase as soon as i finish all the changes for Terran and Zerg, i will not consider it truly Finished until Protoss can receive the same treatment via Legacy of the Void releasing, but i think its best to let the people who want to play it do so as soon as i finish the changes i can achieve now, rather than keep them waiting until the Protoss Expansion\n\n",
+    "author": "_ForgeUser12800721",
+    "lastUpdated": "2013-12-16T06:39:54.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

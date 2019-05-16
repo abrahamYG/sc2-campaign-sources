@@ -1,0 +1,16 @@
+{
+    "id": "char-valley-revised",
+    "name": "Char Valley Revised",
+    "shortName": "Char Valley Revised",
+    "installed": false,
+    "summmary": "",
+    "description": "Well, I'm back guys, and this time I've made a few tweaks to Char Valley, a map that I consider my first 'project'.\n\nThis map is based off of Agria Valley, but heavily modified. The spawn points are the same, and I made a modification to the Vespene Geysers and the Mineral Fields so they don't run out. If they do, either you love to mine, or you have an ungodly amount of workers. It's been months since I have worked on this map, so there are bound to be bugs and missing objects from here to Kingdom Come.\n\nFeatures:\n\n\\-Terran-\n\nThe Battlecruiser uses the Hyperion model from the cutscenes (credit for the model goes to UltiDrgn)\n\nFirebat uses the Merc model\n\nYou can train both Ghosts AND Spectres, as well as Firebats and Medics.\n\nYou can also train the Hercules drop ship and Wraith fighter from the Starport.\n\nThor... Thor is most definitely here. It uses the Odin model. It didn't really look as imposing as I thought with the regular Thor model.\n\nSpeaking of Factory units, you can also train Vultures, Predators, Goliaths and Diamondbacks if they appeal to you.\n\n\\-Zerg- (Here's where it may run into a few problems)\n\nIncreased the size of the Hydralisk. Did some comparisons. During the Mengsk's Betrayal cutscene, the Hydralisk towered over poor Kerrigan.\n\nThe Hydralisk no longer fires needles. He (or she) fires the green spit effect like it had in Starcraft 1 and Brood War.\n\nTurned the Brood Lord into the Guardian, it uses a ground only acid attack, and it morphs from Mutalisk.\n\nHydralisk Den was suposed to cost 150 minerals, but for some reason, it will only take 50 minerals and 50 gas, so if you can help with correcting that, I would appreciate it.\n\nBanelings have been removed. As much as I love Kurt and Husky's song, the addition of the units I have added have no room for suicide bombers. Infested Marines can be trained in the Infestation Pit, and Infestors are now removed.\n\nEvolve Muscular Augments has been added in the Hydralisk Den, but you need to click it only once.\n\n\\-Protoss-\n\nProbes can repair mechanical units.\n\nTook out the Dragoons I had, put Immortals back and added the Reaver (I completely forgot who the model belonged to, I apologize.) I plan on readding them in a later revision once I get feedback.\n\nThe Carrier uses Selendis' actor and Carrier model.\n\nZealots, Marines and Hydralisks take the same amount of time to build.\n\nCan train scout at the Stargate.\n\nObservers have been taken out.\n\nIf there are any mistakes, mix-ups or bugs, let me know and and I will jump right on it.\n\n",
+    "author": "_ForgeUser7733532",
+    "lastUpdated": "2013-01-04T19:01:46.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

@@ -1,0 +1,31 @@
+{
+    "id": "custom-campaign-initiative",
+    "name": "Custom Campaign Initiative",
+    "shortName": "Custom Campaign Initiative",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/96/529/62/62/636285220278603156.png",
+    "description": "<span style=\"font-family:arial,helvetica,sans-serif\">The Custom Campaign Initiative (CCI) is a centralization of authors and projects that are intended to mimic the Blizzard single-player campaign format.</span>\n\n<span style=\"font-size:18px;font-family:arial,helvetica,sans-serif\"><strong><a href=\"https://www.sc2mapster.com/projects/custom-campaign-initiative/pages/complete-custom-campaigns\" rel=\"nofollow\">List of Custom Campaigns (With descriptions)</a></strong></span>\n\n<span style=\"font-size:18px;font-family:arial,helvetica,sans-serif\"><strong><a href=\"https://www.sc2mapster.com/projects/custom-campaign-initiative/pages/list-of-custom-campaigns/list-of-custom-campaigns-tchosenone\" rel=\"nofollow\">List of Custom Campaigns (Based on project status)</a></strong></span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">Check other <a href=\"https://www.sc2mapster.com/projects/custom-campaign-initiative/pages/root-default-page\" rel=\"nofollow\">pages</a> of the CCI for tutorials and other stuff.</span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\"><strong>What level of quality is required for listed projects?<br></strong></span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">1) Mission can be played by using Starcraft II editor. Because this is Starcraft II editor community.<br></span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">2) Map and Mod files are available for download. Because we want to learn from other campaign projects.<br></span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">3) A series of at least two missions. Because one mission is not campaign.<br></span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">4) Missions are playable as single player. Because campaign scene is designed for single player.<br></span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">5) These two missions do not need to be up to date, polished and perfect, but playable with no show stoppers. Because we dont want to waste our time on very bad quality stuff.</span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">CCI authors will check these requirements before listing projects but CCI authors do not frequently check projects after listing.</span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\"><strong>How does the Custom Campaign Initiative work?</strong></span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">The CCI is a bunch of people who work on their own projects but want to list their work under one project. </span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">By listing all projects together each invidual project gains more downloads and whole Starcraft II campaign scene gets more attention.<br></span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">The CCI works like Wikipedia. All authors are allowed to edit pages. This project is linking page so files are not allowed directly on CCI.</span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\"><strong>How do I join the Custom Campaign Initiative?</strong></span>\n\n<span style=\"font-family:arial,helvetica,sans-serif\">If you are interested in becoming a part of the CCI send PM to Terhonator or other authors of this project.</span>\n\n\n\n**NEWS**\n\n**April 12th 2019**\n\nEdhriano has released a Revamp version of the Hammer of Dawn.\n\nYou can get it here :** [Main Page](<https://www.sc2mapster.com/projects/the-hammer-of-dawn-revamp>)**\n\n\n\n**27th Februari 2019**\n\nEdhriano has released a huge update for Noir : Evolution.\n\nYou can get it here :**[Update](<https://www.sc2mapster.com/projects/noir-evolution>)**\n\n**5th November 2018**\n\nEdhriano has released the final map of **[Noir : Ascension](<https://www.sc2mapster.com/projects/noir-ascension/files>)**, go and check it out.\n\nYou can leave feedback at **[the forum](<https://www.sc2mapster.com/forums/player-zone/map-feedback/232363-noir-ascension-custom-campaign-feedback>)**.\n\n**19th September 2018: <br>\n\n**CCI proudly presents [Starcraft: Time Splitters](<https://www.sc2mapster.com/projects/starcraft-time-splitters>) project made by WingedArchon.\n\n**September 15/18**\n\nJayborinoPlays has team up with DeltronLive and holding MAPORINO 2018 ! [Previously know as Mapcraft] . Read all about it here : [MAPORINO 2018](<https://www.sc2mapster.com/forums/general/general-chat/235077-announcement-maporino-2018>).\n\n**May 13/18<br>\n\n**MaskedImposter has released the final map of [Mapsters](<https://www.sc2mapster.com/projects/vespene-warlord>), Episode 6. He's also released a map made in the Mapsters universe made for a mapmaking contest. Check them both out!\n\n**May 5/18<br>\n\n**Team Antioch has released The Antioch Chronicles: Thoughts in Chaos. You can download it on [the project page](<https://www.sc2mapster.com/projects/thoughts-in-chaos>) and discuss it [on the forum.](<https://www.sc2mapster.com/forums/player-zone/map-feedback/233666-the-antioch-chronicles-thoughts-in-chaos>)\n\n\n\n[Archived News](<https://www.sc2mapster.com/projects/custom-campaign-initiative/pages/old-news>)\n\n\n\n",
+    "author": "terhonator86",
+    "lastUpdated": "2011-07-19T12:32:56.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/155/26/CCI_Logo_Small.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/29/CCI_LogoNEW.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/31/VrYwZFg.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/34/cci_logo.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/37/logo2.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

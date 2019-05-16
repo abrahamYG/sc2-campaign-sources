@@ -1,0 +1,31 @@
+{
+    "id": "death-haven",
+    "name": "Death Haven",
+    "shortName": "Death Haven",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/976/62/62/636178327291961202.png",
+    "description": "You are part of an elite Terran squad.\n\nYou have been sent to protect the mining town of Haven from approaching Zerg forces. Your superiors have made clear that no backup and no reinforcements can make it. It is up to you to make sure that all of the mines can be emptied, otherwise both you and the town may be 'wiped' from the Terran history books.\n\nPlay as Soldier, Medic, Scout, Engineer, or Sniper in this cooperative campaign-style map! Work together against waves of Zerg, protecting the base and completing bonus objectives. As you gain kills, you will earn higher ranks which unlock abilities, icons, and increase damage. As well, use money to purchase upgrades and defensive structures.\n\nRank and kills (per class you have played as) are saved between games. Zerg waves are randomized based on a difficulty quota and the time of the game, promising a different experience every time. Also included are special bosses which require strategy to combat.\n\n[http://www.youtube.com/watch?v=Zw3aWxHYGzo](<http://www.youtube.com/watch?v=Zw3aWxHYGzo>)\n\n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/Zw3aWxHYGzo?wmode=transparent\" height=\"358\" width=\"638\"></iframe>\n\n",
+    "author": "_ForgeUser4422931",
+    "lastUpdated": "2011-02-28T23:36:36.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/157/347/im2.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/349/im3.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/352/im4.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/353/im5.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/356/im1.png"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

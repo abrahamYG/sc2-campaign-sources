@@ -1,0 +1,16 @@
+{
+    "id": "campaign-lost-contact",
+    "name": "[Campaign] Lost Contact",
+    "shortName": "[Campaign] Lost Contact",
+    "installed": false,
+    "summmary": "",
+    "description": "Command Mick and his batallion, and investigate a Colony gone dark. Eliminate the threat at any cost.\n\nVictory: Eliminate all enemy threats.\n\nDefeat: Mick Dies\n\n",
+    "author": "_ForgeUser4348178",
+    "lastUpdated": "2010-05-02T02:12:36.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

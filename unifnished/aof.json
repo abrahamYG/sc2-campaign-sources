@@ -1,0 +1,19 @@
+{
+    "id": "aof",
+    "name": "SC Legacy Ep1 - Ashes of Freedom",
+    "shortName": "SC Legacy Ep1 - Ashes of Freedom",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/91/62/62/636178317884964260.jpg",
+    "description": "*StarCraft 1's Terran Campaign Re-Imagined*\n\n![mission 01 title](<http://designerdougm.com/images/wastelands_title.jpg>)\n\n## Overview\n\nAshes of Freedom is not a remake or port but in fact, a complete adaptation of the original StarCraft 1 Terran campaign \"Rebel Yell\" into a StarCraft 2 experience. The Legacy project is intended to capture the soul and feeling of the original game, while using Wings of Liberty's campaign as a benchmark for quality level design. As such, many levels will play out in a completely different way than their predecessors. There will also be the addition of new levels, as well as modifications to tech, units and the addition of new units.\n\n- StarCraft 1's Terran campaign re-imagined \n- Entirely new level designs \n- Addition of new levels \n- Bonus objectives with special upgrades \n- New and modified units \n- Adjusted Tech Trees \n- Same beloved story, new exposition \n\n<!-- -->\n\n## Work in Progress\n\nAshes of Freedom is a new project, and as such is currently under development. At this moment the campaign includes the first mission \"Wastelands.\" Please check back periodically for updates.\n\n## Download & Install\n\n1\\. Place both .SC2Map files in the folder \"Maps\" in your StarCraft II folder, under Program Files.\n\n- If you do not have a maps folder, create one inside of the StarCraft II folder, case sensitive: \"Maps\" \n\n<!-- -->\n\n2\\. Place \"Legacy.SC2Mod\" into your \"Mods\" folder found in your root StarCraft II directory.\n\n3\\. Create a shortcut for StarCraft II, go to the shortcut properties and in the Target field add: **\\-run \"Wastelands.SC2Map\" -difficulty #** or (depending on which level you wish to play) **\\-run \"Backwater Station.SC2Map\" -difficulty #** after the path to the .exe and the closing quotation. # should be 1-4 depending on the desired difficulty.\n\n1. Casual (New to RTS games) \n2. Normal (Somewhat familiar with RTS games) \n3. Hard (Confident StarCraft 2 player) \n4. Brutal (Very good StarCraft 2 player, looking for a challenge.) \n\n<!-- -->\n\n4\\. Run StarCraft II via the new shortcut. Enjoy.\n\nNote: Either map can be opened in the editor, however, playing the level through the editor lacks certain optimizations that may cause parts of the level to experience slowdown depending on your machine. Additionally, the map can be run by telling your computer to open the map with SC2.exe, however, it will default to normal difficulty, and cannot be altered. Blizzard support for custom campaigns is currently non-existant, so please bear with these simple instructions.\n\n## Media\n\n[![flickr screenshot gallery](<http://www.designerdougm.com/images/flickrSCL.jpg>)](</linkout?remoteUrl=http%253a%252f%252fwww.flickr.com%252fphotos%252fdesignerdougm%252fsets%252f72157626675097551%252fshow%252f>)\n\n## Feedback\n\n- Any feedback is absolutely appreciated \n- Negative feedback is especially appreciated \n- Please specify the difficulty you were playing \n- Feedback here or in the [forum thread](<http://forums.sc2mapster.com/player-zone/map-feedback/22620-ashes-of-freedom-sc1-reboot/#p1>) is best \n- Thank you very much!\n\n<!-- -->\n\n",
+    "author": "_ForgeUser6766876",
+    "lastUpdated": "2011-06-18T23:12:29.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/154/466/wastelands_mp.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

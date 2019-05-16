@@ -1,0 +1,19 @@
+{
+    "id": "defendandmine",
+    "name": "Desolate Defense",
+    "shortName": "Desolate Defense",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/338/62/62/636178320471232960.jpg",
+    "description": "You are the commander on a remote, mineral rich planet. The Zerg have just found the planet and have landed on it to acquire it's resources. You cannot allow this to happen. You must mine out the base while defending from Zerg attacks and collecting various artifacts that will grant you abilities that will help in your defense of the base.\n\nCurrently trying to get upgrades to work and add more zerg units. Trying to add a second artifact and hide the locations of the minerals/vespene on the map\n\nMost of the stuff that I'm hoping will be in the game haven't been added yet.\n\nI just tried to reinstall my SC2 because the Bnet thing said something about an invalid client version, and when I reinstalled, my map editor was gone :X Plus, I think I just screwed up all my SC2 stuff, as I think I lost the patches as well, so I can't do a thing. I'm such a failure.\n\n",
+    "author": "_ForgeUser4528143",
+    "lastUpdated": "2010-06-18T19:26:13.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/155/321/desolate_defense_v_.1_picture.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

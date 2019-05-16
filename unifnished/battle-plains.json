@@ -1,0 +1,19 @@
+{
+    "id": "battle-plains",
+    "name": "The Battle of the Plains",
+    "shortName": "The Battle of the Plains",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/79/775/62/62/636178315668072238.png",
+    "description": "The Battle of the plains is a fictional scenario that I have made myself based on Dynasty Warriors maps (large battlefields). It is a 6 player game that is a 3v3 battle. There are spawning points (Units spawn every 16 seconds at Spawning Gates) that allow you to enlarge your army and attack your enemies. If you lose your spawning gate, you will lose your unit spawn. Every player has 3 spawning gates. Battle across the dark and foggy terrain with low sight radius as ambushes can easily be planned.\n\n",
+    "author": "_ForgeUser4829778",
+    "lastUpdated": "2010-08-30T22:28:58.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/153/573/Mapimage.png"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

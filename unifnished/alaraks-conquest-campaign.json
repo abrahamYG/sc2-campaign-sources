@@ -1,0 +1,31 @@
+{
+    "id": "alaraks-conquest-campaign",
+    "name": "[Campaign] Alarak's Conquest",
+    "shortName": "[Campaign] Alarak's Conquest",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/101/108/62/62/636320563774784899.jpeg",
+    "description": "<span style=\"color:#f00\">IMPORTANT !!!</span>\n\n\n\n<span style=\"color:#f00\">This project is currently canceled, I find it hard to continue making it, because I do not have that much free time and mapmaking is really time consuming. It pains me a bit, since I've already created many unique units and thought through the story. I still have the ideas for the missions in my head, so if anyone would like to inspire or continue making this, I'd share them with you. Also if you want, you can test some unused purifier units and some heroes that are already in the mod. </span>\n\n\n\n<span style=\"color:#f00\">I'll be continuing making models for this community and maybe even making some missions from time to time in form of a new project named StarCraft2: The Untold Stories, which will contain multiple unique missions featuring lesser know StarCraft characters or completely new ones. However there will be little conection between individual maps, so it will be easier to just make one map at a time instead of a continuous campaign as it is hard having a story for 9-10 missions and publishing like 1-3 missions a year, it would take too long to finish. I think it will be better for me and for you if I'll just do a mission that has it's own story and ending and you won't have to wait for continuing.</span>\n\n\n\n<span style=\"color:#f00\">Hope you understand this and hope there wasn't anyone too hyped for the rest of Alarak's Conquest.</span>\n\n\n\n![Alarak's Conquest](<https://media.forgecdn.net/attachments/210/439/alarakcq.png> =668x208)\n\n\n\nFirst thing that i will upload here will be alpha version of Tal'darim mod for the campaign and test map for it. Missions will be added later, when i get time to make them. If you find any issues, please report them to me, also i welcome any feedback in comments. Enjoy playing !!! Also some units have custom voice acting.\n\n\n\nCredits for assets:\n\n\n\nTA\\_Devourer portrait - WingedArchon<br>\n\nMission Briefing (Campaign) triigers - CybrosX<br>\n\nNew Ascendant Portrait (recolored purifier high templar portrait), Tal'darim guardian - CybrosX / Narudek<br>\n\nTalon Disruptor (Eye of Slayn) - WingedArchon<br>\n\nTalon Crusader (Phalanx) - WingedArchon<br>\n\nAgonizer model / portrait (Dark female high templar), female Zealot - GhostNova91<br>\n\nSlayer Model (Tal'darim Stalker Collection) - SoulFilcher<br>\n\nTal'darim effects / dark shrine, purifier effects - herdal8<br>\n\nTal'darim ark shuttle, mothership core, arbiter, Scout, legionnaire, desolator, magnaguard - Hammer107<br>\n\nLOTV Clolarion, purifier void ray hero - Hammer107<br>\n\nUlrezaj (Blood hunter chief), purifier Karass, Purifier preserver, TA Devourer - Alleyvipersc2<br>\n\nAcolyte - GhostNova91<br>\n\nTal'darim Tempest Portrait, purifier Probe, purifier star relic - SoulFilcher<br>\n\nNerazim templar, Boros Warrior, Landranix, Arbiter Portrait (Frigate Portrait) - Cacho56<br>\n\nRed Nyon Portrait, Tal'darim build effect, Tal'darim Scout Portrait - Kazor132<br>\n\nTal'darim Observer, Warp Prism, Zealot, Carrier, probe portraits, Tal'darim shadow trail - Kazor132<br>\n\nLots of Ability and Unit icons - SoulFilcher<br>\n\nBeta Immortal quotes - SoulFilcher<br>\n\nArmored Votary (Vanguard Zealot / Armored zealot) - Hammer107 / TaylorMouse<br>\n\nStone Zealot Portrait, Xerana, sc1 photon cannon - Thrikodias<br>\n\nPurifier replicant / mothership core / mothership / mothership shield / mothership missile, instigator warp in - herdal8<br>\n\nDark Templar Female Portrait - Thrikodias / herdal8<br>\n\nShard Cannon - Thrikodias<br>\n\nXel'naga PsyDrone - Gradius<br>\n\nFortress roach - Scythelisk #587/seraphlio\n\n\n\nSome of the assets are not used yet, but i plan to use them. If you find any uncredited model that i forgot to credit, please tell me.\n\n\n\n![Spoil from the beggining of the campaign](<https://media-elerium.cursecdn.com/attachments/213/565/ac-screen1.png> =750x544)\n\n\n\n![Just a random screenshot](<https://media-elerium.cursecdn.com/attachments/213/564/ac-screen2.png> =1000x648)\n\n\n\n<span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/MdBfXcajD00?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span>\n\n\n\n[Campaign Feedback](<https://www.sc2mapster.com/forums/player-zone/map-feedback/229702-alaraks-conquest-custom-campaign-feedback>)\n\n",
+    "author": "dav3spectre",
+    "lastUpdated": "2018-03-21T12:05:09.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/210/438/sc2alarak.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/210/439/alarakcq.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/213/564/ac-screen2.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/213/565/ac-screen1.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/226/133/111.png"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

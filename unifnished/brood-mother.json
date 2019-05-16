@@ -1,0 +1,19 @@
+{
+    "id": "brood-mother",
+    "name": "Brood mother",
+    "shortName": "Brood mother",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/88/62/62/636178317873198613.jpg",
+    "description": "Follow Az'Khar, a Zerg Brood mother, as she attempts to flee Char and rebuild her Brood.\n\nBrood mother 01 - Egg Thief is currently in beta. No storyline yet but the egg collection/AI attack waves are setup. Please give it a go and tell me what you think! Is it fun? Is it confusing? Did you find any bugs? Anything really.\n\nFeedback and constructive criticism is gratefully received.\n\n## Mar 01 21:20 - new version\n\nAdded defences & units for player base.\n\nRemoved defences and units from hatcheries\n\nHatchery mobs rebuild\n\nAdded pings and events for AI egg collection\n\nLots of bug fixes for triggers involving egg collection\n\nChanged Leviathan embryos to use Lurker Cocoon model\n\n\\-Debe2233\n\n",
+    "author": "_ForgeUser3617122",
+    "lastUpdated": "2013-02-24T11:12:54.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/154/463/Zagara_SC2_Head2.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

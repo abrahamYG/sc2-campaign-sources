@@ -1,0 +1,22 @@
+{
+    "id": "chronicles-of-azeroth",
+    "name": "Chronicles of Azeroth",
+    "shortName": "Chronicles of Azeroth",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/155/523/62/62/636633207726293794.jpeg",
+    "description": "Chronicles of Azeroth team is working on the remake of the first two Warcraft games.\n\n\n\nMultiplayer maps for Warcraft 1 and Warcraft 2 are avaiable online by searching for coa or wc1/wc2 in Starcraft 2 custom games.\n\n\n\nFirst beta version of Warcraft 1 campaign is done.\n\n\n\n\n\n",
+    "author": "rommper",
+    "lastUpdated": "2018-05-31T23:35:42.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/230/10/screenshot2017-07-09_19_09_17.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/230/11/screenshot2017-10-06_12_52_00.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

@@ -1,0 +1,43 @@
+{
+    "id": "chapter-6-norad-ii-sc1-remake",
+    "name": "\"Chapter 6: NORAD II\" -SC1 Remake-",
+    "shortName": "\"Chapter 6: NORAD II\" -SC1 Remake-",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/124/62/62/636178328540786992.jpg",
+    "description": "This is a remake of the 6th Terran mission from the original Starcraft 1 campaign.\n\nEvery dialogue and original features are included, I mostly have to thank Jones313 for that.\n\nI have also used for it the SC1 mod made by Maverck, and I thank him too.\n\nI have worked mainly on the ambiance, the terrain, the music and cinematics.\n\nI have added some stuff to try improve the fun of the original mission, like bonus objectives, some sounds here or there, and some difficulty...\n\nSo, you know how it works, put the mod in your\" mod files\" in your starcraft 2 \"program files\", not in \"my document\", and the map in the \"map files\", then launch it.\n\nSo, enjoy, and please do not hesitate to tell me what you think about it.\n\n",
+    "author": "_ForgeUser6333587",
+    "lastUpdated": "2012-01-13T22:27:19.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/157/778/3.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/780/2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/782/1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/783/4.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/784/5.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/785/6.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/787/7.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/792/8.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/794/9.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

@@ -1,0 +1,79 @@
+{
+    "id": "campaign-umojans-job-working-tit",
+    "name": "SCII RS CAMPAIGN: SHADOWGUARD",
+    "shortName": "SCII RS CAMPAIGN: SHADOWGUARD",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/114/62/62/636178318112628683.jpg",
+    "description": "### **This is the campaign project page for the SCII RS Beta mod:**\n\n### [http://www.sc2mapster.com/maps/scii-rs-beta/](<http://www.sc2mapster.com/maps/scii-rs-beta/>)\n\n## FIRST CAMPAIGN MISSION LIVE ON BATTLENET FOR BETA TEST!!\n\n## FIRST MISSION VIDEO:\n\n<span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/bSX3lCaAtEsfeatureyoutube?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span>\n\n→\n\n### Currently on normal difficulty, no research/bank system implemented. There's a prelude map on the works. Mostly a tutorial and a showoff the campaign. Any feedback's welcome!!\n\n## MAP NAME: SHADOWGUARD Mission I: Routine Job\n\n### CREDITS TO:\n\n### Special Thanks to GhostNova91 for the models provided, SoulFilcher for the icons and wireframes and Kailniris2 for awesome bridges and custom battlecruiser! Alex06, Rikki333, for the icons, TooMuchTuch for decals, Thrikodias(Forsworne) for some models and textures, Flink\n\nlinks for icons and wireframes, to XLIIVI for some amazing abilities and to all SC2 Mapster community for different spells, tutorials and ideas wich made this possible. ===\n\n## DESCRIPTION\n\n### This is a Cooperative campaign project. There's going to be an option to play in single player by either taking control of other player's units or adding an AI ally depending on the map.\n\nThe main plot involves an Umojan Spec Ops team (sent to steal moebius tech) left behind on Tyrador (WoL Moebius Factor mission) after the zerg invasion. They'll struggle to escape the zerg while recovering some moebius prototypes. This will include the SCII RS mod (linked above) as it's main focus is a \"realistic\" aproach to unit's scale and power, therefore marines won't blowup from the sky a battlecruiser.\n\nIt'll use the WoL playstyle with a capital ship as the base wich goes from planet to planet. The main differences will be the research and upgrades wich will be ingame like Left2Die map and not in a separate interface.\n\nThe main idea is to give the real importance to units and make players choose their upgrades because they'll might be (hope to do so..) more important here than in vanilla campaign. Also I'm trying to make emphasis on the idea of making lots of small cheap infantry units (marines zerglings etc) and some few powerfull but very expensive units (battlecruiser, thor, ultralisk) but in a more visible way than the basic game.\n\n#### UPDATE: HELP!\n\n#### Some basic game intentions, Any help here will be welcome\n\nSquads.- Since many infantry units actually work as a squad or a zerg pack it makes sense to lore to create and manage units like marines, zealots and zerglings. Leaving specialist lonely units as they're. Squad leaders won't be targetable and won't be healed or repaired since they don't really exist, only squad members can be healed or repaired and therefore killed.\n\nStrategic combat.- There are speed and weapon speed bonuses depending on the terrain type ground units are moving. Also there are \"evasion buffs\", air units are classified as: bombers, fighters and fast fighters (and cloaked versions for each) so bombers (like banshees and guardians) have a 20% chance to evade attacks and 30% while cloaked, faster fighters cloaked would be cloaked wraiths and they get 70% evade wich makes them the hardest to hit except for AoE attacks.\n\nOn the ground there are specialists (ghosts, dark templars, etc.) infantry (marines, hydralisks, zealots) medium vehicles (roaches, dragoons) and fast vehicles (vultures, hellions and zerglings). Of course massive doesn't get any buffs and some units get this buff improved like speedlings and chargelots, there's also a \"weapon effectivity\" system managed by unit type bonuses and penalties; like marines doing 10 vs normal, 12 vs light and 7 vs armored, so a tank can really withstand a lot of punishment from a marine squad and even finish them all without marauder support.\n\nLast but not least, many units get a weapon with a range greater than their sight so spotting units are welcome here. Many weapons also do now AoE since it was weird to me that a Thor's basic ground weapon couldn't do AoE damage since its a huge explosion where it hits and stuff like that.\n\n#### Main character: Colin Phash, Umojan Shadowguard Agent\n\n*Wiki reference: [http://starcraft.wikia.com/wiki/Colin\\_Phash](</linkout?remoteUrl=http%253a%252f%252fstarcraft.wikia.com%252fwiki%252fColin_Phash>)*\n\n## **Any help is welcome.**\n\n",
+    "author": "eurzaiz87",
+    "lastUpdated": "2013-02-28T06:04:20.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/154/482/loading-tyrador_mod.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/486/SC2_2013-04-15_14-06-40-70.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/489/SC2_2013-04-15_14-08-41-44.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/491/SC2_2013-04-15_14-11-21-68.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/495/SC2_2013-04-15_14-16-08-62.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/498/SC2_2013-04-15_14-11-42-12.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/501/SC2_2013-04-15_14-13-51-46.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/505/SC2_2013-04-09_06-44-04-38.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/510/SC2_2013-04-09_06-44-25-09.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/514/SC2_2013-04-09_06-47-47-89.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/516/SC2_2013-04-09_06-48-27-29.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/519/SC2_2013-04-09_06-49-40-76.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/521/SC2_2013-04-09_06-48-03-81.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/523/SC2_2013-05-28_23-28-39-56.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/525/SC2_2013-05-28_23-28-59-77.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/526/SC2_2013-05-28_23-30-31-05.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/527/SC2_2013-05-28_23-30-14-29.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/528/SC2_2013-05-28_23-29-13-26.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/531/SC2_2013-05-28_23-29-55-93.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/534/SC2_2013-05-28_23-28-22-83.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/536/SC2_2013-05-28_23-30-59-72.png"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}
