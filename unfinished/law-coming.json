@@ -1,0 +1,46 @@
+{
+    "id": "law-coming",
+    "name": "Dominion View",
+    "shortName": "Dominion View",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/546/62/62/636178332043033098.jpg",
+    "description": "## Dominion View (ENGLISH VERSION)\n\n### Overview\n\nYou will take part in the Terran Dominion intervention on Mar-Sara in 2504. The campaign consists of five maps (4 missions and interlude).\n\n### News\n\n[First map is localized.](<http://www.sc2mapster.com/maps/law-coming/files/11-dominion-view-en-map-pack-0-1/>) I am unexperienced in translating so i don't even sure that my map will run on english-clients. I just used MPQ editor and copied ruRU.SC2Data to enGB.SC2Data with editing all text (russian to english) in GameStrings.txt file. I hope this is enough. If not - please write in the comments or in PM.\n\n### Screenshots\n\n![Dominion fight against bandits.](<http://www.sc2mapster.com/media/images/44/729/Bandits.jpg>)\n\n![Infested Kel-morian settlement.](<http://www.sc2mapster.com/media/images/44/732/Zerg.jpg>)\n\n![Briefing window.](<http://www.sc2mapster.com/media/images/44/735/Briefing.jpg>)[More screenshots in project images.](<http://www.sc2mapster.com/maps/law-coming/images/>)\n\n### Prehistory\n\nThe Sara system was initially catalogued by freelance prospectors and colonized by an expedition from Tarsonis several years later. Mar Sara formed the eighth of the thirteen core colonies of the Terran Confederacy. The Sara system was unusual for having two habitable planets, but Mar Sara was always a backwater colony compared to the more prosperous Chau Sara. Mar Sara was one of the first planets to be infested by the zerg when they appeared in terran space. It was also the first planet on which the Confederates fought the advancing Swarm to any significant extent, although most of the actual fighting was done by local militia forces. Colonel Edmund Duke, commanding officer of the Confederate fleet in the system, subsequently arrested militia forces for fighting for their homes. These prisoners were later released by a rebel group called the Sons of Korhal. The rebels’ leader was Arcturus Mengsk.\n\nThe Sons of Korhal helped evacuate Mar Sara after the Confederates abandoned it entirely. To keep the infestation from spreading further, a protoss fleet under the command of Executor Tassadar incinerated Mar Sara from orbit, just as it had with Mar Sara’s sister planet, Chau Sara.\n\nAfter Mar Sara’s incineration by the protoss, the Sara system seemed to have little left to offer the terran race. The subsequent collapse of the Confederacy left the system entirely abandoned. Nevertheless, prospectors from the Kel-Morian Combine found that minerals on Mar Sara had acquired unique properties due to the protoss bombardment. Shortly thereafter, the Kel-Morian Combine staked a claim to mining and salvage rights over the Sara system. Independent and indentured contractors soon began strip-mining both planets of their resources.\n\nThe Terran Dominion has recently shown a renewed interest in the Sara system...\n\n### Characters\n\n- [General Hill.](<http://www.sc2mapster.com/maps/law-coming/images/3/>)\n- [Captain Anderson.](<http://www.sc2mapster.com/maps/law-coming/images/2/>)\n- [Lieutenant Stakhanov.](<http://www.sc2mapster.com/maps/law-coming/images/4/>)\n- [Lieutenant Smith.](<http://www.sc2mapster.com/maps/law-coming/images/5/>)\n\n<!-- -->\n\n### Links\n\n- [Discussion on Battle Net (RU).](<http://eu.battle.net/sc2/ru/forum/topic/3553416233?page=1>)\n- [Map pack.](<http://www.sc2mapster.com/maps/law-coming/files/11-dominion-view-en-map-pack-0-1/>)\n\n<!-- -->\n\n### Gratitude\n\n- Thank to guys from [SC1 Episodes](<http://www.sc2mapster.com/maps/sc1-episode-1-rebel-yell/>). Their briefings were useful to me. \n- Thank to comrade [TooMuchTuch](<http://www.sc2mapster.com/profiles/TooMuchTuch/>) for his terran decals. \n- Thanks comrades [Gespenst](<http://eu.battle.net/sc2/ru/profile/411280/2/Gespenst/>), [mengsAkAVoid](<http://eu.battle.net/sc2/ru/profile/30261/2/mengsAkAVoid/>), [bob](<http://eu.battle.net/sc2/ru/profile/51794/2/bob/>), [RockSTaR](<http://eu.battle.net/sc2/ru/profile/545356/2/RockSTaR/>), [Burimo](<http://eu.battle.net/sc2/ru/profile/430882/2/Burimo/>), [Киарендил](<>), [Barsik](<http://eu.battle.net/sc2/ru/profile/660351/2/Barsik/>), [Tamuflon](<http://eu.battle.net/sc2/ru/profile/127397/2/Tamuflon/>). They were the first testers and helped me by fixing bugs and giving new ideas. \n\n<!-- -->\n\n## Взгляд Доминиона (RUSSIAN VERSION)\n\n### Обзор\n\nВам предстоит принять участие в интервенции Доминиона Терранов на Мар-Сару. Действие происходит в 2504 году. Кампания состоит из пяти карт (4 миссии и интерлюдия).\n\n### Предыстория\n\nСистема Сара первоначально была открыта и описана независимыми исследователями. Несколько лет спустя сюда была направлена экспедиция с Тарсониса. Мар-Сара стала восьмой из тринадцати главных колоний Конфедерации. Наличие в пределах системы Сара двух обитаемых планет делало саму систему уникальной, но по сравнению с процветающей планетой Чау-Сара Мар-Сара всегда оставалась на вторых ролях. Мар-Сара одной из первых приняла на себя удар зергов, когда те хлынули в мир терранов. Здесь же силам Конфедерации впервые удалось дать серьезный отпор Рою, при том, что в подавляющем большинстве сражений на стороне терранов выступали только отряды мар-сарского ополчения. Позже полковник Эдмунд Дюк, командующий флотилией Конфедерации, взял ополченцев под арест лишь за то, что они защищали свои дома и семьи от врага. Освободила заключенных группировка повстанцев «Сыны Корхала» под предводительством Арктура Менгска.\n\nКогда Конфедерация отказалась от дальнейших попыток отстоять Мар-Сару, «Сыны Корхала» помогли жителям покинуть планету. Чтобы не допустить дальнейшего распространения инфекции зергов, флотилия протоссов под командованием вершителя Тассадара вышла на орбиту Мар-Сары и выжгла всю поверхность планеты. Столь радикальный метод уже был применен на Чау-Саре.\n\nТерранам больше нечего было делать в Саре, а после распада Конфедерации система и вовсе пришла в запустение. Однако некоторое время спустя шахтеры Келморийского синдиката обнаружили, что после бомбардировок, которым подвергли Мар-Сару протоссы, минералы планеты приобрели новые уникальные свойства. Келморийцы заявили свои права на добычу и переработку ресурсов системы Сара. Вскоре независимые гильдии шахтеров, заключив с синдикатом договор подряда, открыли горнодобывающие разработки на обеих планетах.\n\nНе так давно Доминион Терранов снова стал проявлять интерес к планетам Сары...\n\n### Персонажи\n\n- [Генерал Хилл.](<http://www.sc2mapster.com/maps/law-coming/images/3/>)\n- [Капитан Андерсон.](<http://www.sc2mapster.com/maps/law-coming/images/2/>)\n- [Лейтенант Стаханов.](<http://www.sc2mapster.com/maps/law-coming/images/4/>)\n- [Лейтенант Смит.](<http://www.sc2mapster.com/maps/law-coming/images/5/>)\n\n<!-- -->\n\n### Ссылки\n\n- [Обсуждение на Battle Net.](<http://eu.battle.net/sc2/ru/forum/topic/3553416233?page=1>)\n- [Сборник карт.](<http://www.sc2mapster.com/maps/law-coming/files/9-dominion-view-ru-map-pack-1-1/>)\n\n<!-- -->\n\n### Благодарность\n\n- Спасибо ребятам из [SC1 Episodes](<http://www.sc2mapster.com/maps/sc1-episode-1-rebel-yell/>). Я частично позаимствовал у них брифинги. \n- Спасибо товарищу [TooMuchTuch](<http://www.sc2mapster.com/profiles/TooMuchTuch/>) за его эмблемы терранских фракций. \n- Спасибо товарищам [Gespenst](<http://eu.battle.net/sc2/ru/profile/411280/2/Gespenst/>), [mengsAkAVoid](<http://eu.battle.net/sc2/ru/profile/30261/2/mengsAkAVoid/>), [bob](<http://eu.battle.net/sc2/ru/profile/51794/2/bob/>), [RockSTaR](<http://eu.battle.net/sc2/ru/profile/545356/2/RockSTaR/>), [Burimo](<http://eu.battle.net/sc2/ru/profile/430882/2/Burimo/>), [Киарендил](<>), [Barsik](<http://eu.battle.net/sc2/ru/profile/660351/2/Barsik/>), [Tamuflon](<http://eu.battle.net/sc2/ru/profile/127397/2/Tamuflon/>). Они были первыми тестерами кампании и очень помогли мне, вылавливая баги и указывая на ошибки.\n\n<!-- -->\n\n",
+    "author": "_ForgeUser8636017",
+    "lastUpdated": "2012-08-26T12:58:00.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/159/201/Kliment_Stahanov.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/204/Antonin_Hill.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/206/Leon_Anderson.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/207/Juliana_Smith.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/209/Bandits.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/211/Kel-morians.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/214/Rebels.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/218/Zerg.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/223/Baxville.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/226/Briefing.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

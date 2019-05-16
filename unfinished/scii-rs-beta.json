@@ -1,0 +1,82 @@
+{
+    "id": "scii-rs-beta",
+    "name": "SCII RS Extension Mod",
+    "shortName": "SCII RS Extension Mod",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/59/62/62/636178317652803132.jpg",
+    "description": "# SCII RS EXTENSION MOD\n\n## MOD DESCRIPTION\n\nThe concept is very simple, I wanted to add all campaign units aswell as some scrapped units from the beta but ended up adding more stuff just for fun. The idea was to make the vanilla game more \"lore-realistic\" so I adjusted unit's scale, weapon range, line of sight & stats in order to address this. I also made structures more expensive & stronger, modified several abilities like the Terran Nuke to be (a lot!) more devastating and added the Planet Cracker to the mothership. Made almost all air units (mostly fighters) have strafe-type weapons, adjusted many units movement, cost and other stuff. Finally I made capital ships big and incredibly powerful. They might feel to strong but hey, \"realistically\" that's how they're so any sugestions that go by the line of the main concept will be addressed. This game has AI built in it that works with the custom units and spells.\n\n#### Please give mod feedback here:\n\n#### [https://www.sc2mapster.com/forums/player-zone/map-feedback/55605-scii-rs-extension-mod-testing-needed/#p3](<https://www.sc2mapster.com/forums/player-zone/map-feedback/55605-scii-rs-extension-mod-testing-needed/#p3>)\n\n### The Mod is published as an Extension Mod on All Servers, the name is:\n\n### SCII RS Extension Mod\n\n#### Some basic game intentions:\n\n\\-Lore-Realism on weapons behavior (except for the projectiles going straight and hitting the first on their path).\n\n\\-Lore-Realism and scale on units/buildings, movement, speed, stats costs supply etc.\n\n\\-Include almost all campaign units (wich were worthy including) from WoL, HotS & LotV.\n\n\\-Basically remade balance on the game due to all stats and weapons changes.\n\n\\-New weapons, behaviors, abilities and buffs.\n\n\\-Eliminate hardcounters and make units act like lore units. (A battlecruiser isn't a hardcounter is just a massive powerful ship)\n\n\\-Try to make several strategies viable.\n\n\\-Eliminate bioballs and cheese.\n\n\\-Make the game focus more on battle and base defense than resource harvesting.\n\n\\-Try to give the feel of cheap weak mass production units and some special expensive units in the army composition.\n\n\\-A better tactical feeling, units movement affected by terrain, custom evasion system, (some units can evade some attacks by beeing hard to hit or cloaked).\n\n\\-Weapon effectivity, small weapons fire do almost nothing to high armor (this could sound like hardcounters but these \"weak\" units get abilities or upgrades to fight this).\n\n\\-Make the units smaller or bigger (depending on unit real scale) to make the battle and map feel bigger and give different point of views depending on the camera zoom level.\n\n## CREDITS TO:\n\n### Special Thanks to GhostNova91 for the models provided, SoulFilcher for the icons and wireframes and Kailniris2 for awesome bridges and custom battlecruiser! Alex06, Rikki333, for the icons, TooMuchTuch for decals, Thrikodias(Forsworne) for some models and textures, Flink links for icons and wireframes, to XLIIVI for some amazing abilities and to all SC2 Mapster community for different spells, tutorials and ideas wich made this possible.\n\n#### Patch log: [http://www.sc2mapster.com/maps/scii-rs-beta/pages/patches/](<http://www.sc2mapster.com/maps/scii-rs-beta/pages/patches/>)\n\n",
+    "author": "eurzaiz87",
+    "lastUpdated": "2013-02-04T16:48:53.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/154/316/07.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/317/08.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/318/09.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/320/12.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/322/10.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/323/28.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/325/30.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/327/29.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/329/06.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/332/01.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/334/URZ_HugeBattlecruiser.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/337/URZ_PlanetCracker.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/338/URZ_RealNuke.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/339/loading-zerus_SCII_RS.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/342/SC2_2013-03-31_19-25-22-63.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/343/SC2_2013-03-31_19-25-54-15.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/346/00.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/350/SC2_2013-04-21_15-42-57-54.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/354/SC2_2013-04-22_17-26-57-36.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/359/SC2_2013-04-21_15-35-13-74.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/365/loading-zerus_SCII_RS.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/368/New_SCII_RS_Loading.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

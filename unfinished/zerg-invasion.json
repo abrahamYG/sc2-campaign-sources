@@ -1,0 +1,19 @@
+{
+    "id": "zerg-invasion",
+    "name": "Zerg Invasion",
+    "shortName": "Zerg Invasion",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/655/62/62/636178323000229656.jpg",
+    "description": "This is a cooperative 2v1 map featuring two zerg players with infinite spawns attempting to invade a heavily fortified terran base. Units are more realistic, and their health, range, and armor reflects that.\n\nCurrently, the map is set for testing, so player 1 will receive all reinforcements, etc.\n\n",
+    "author": "_ForgeUser4360899",
+    "lastUpdated": "2010-05-02T20:42:30.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/452/Terrain_001.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

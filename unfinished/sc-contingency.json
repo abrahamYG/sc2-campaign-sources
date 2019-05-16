@@ -1,0 +1,31 @@
+{
+    "id": "sc-contingency",
+    "name": "SC Contingency",
+    "shortName": "SC Contingency",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/177/695/62/62/636773071836839363.png",
+    "description": "Starcraft Contingency is a custom campaign for Starcraft 2 following the storyline of a Dominion military force during the Second Great War.\n\n\n\nRebel elements are growing ever more bold within the Dominion, even while tensions with the Protoss run high and the Zerg swarm across the sector. The greatest threat the Dominion faces however may end up being one of it's own creation...\n\n\n\nThis is my first published Starcraft 2 Campaign. I released an early version of the first map on Blizzard sometime ago and received overwhelmingly positive reviews, nearly perfect 5 stars, and I thought I would take this to the next level.\n\n\n\nI intend for this campaign to be about 12 missions long, and will be almost entirely Terran based. Much like in game campaigns from Blizzard, completing missions and bonus objectives will grant credits which can be spent on tech and such, and have significant impacts on gameplay. While the campaign is intended to be played online in the Arcade, where the campaign is named SC Contingency, it can also be downloaded from here.\n\n\n\n\n\nI'm a bit new to this and I don't have as much time to devote to this project as I would like, so if anyone has suggestions, tips, or would like to team up on this project, I would be overjoyed.\n\n\n\nGLHF!!!\n\n",
+    "author": "agentalpha001",
+    "lastUpdated": "2018-11-08T18:00:09.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/240/607/starcraft-contingency-logo-2.PNG"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/240/608/captured-dominion-base.PNG"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/240/612/rolling-thunder-1.PNG"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/240/613/rolling-thunder-3.PNG"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/240/630/we-screwed.png"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

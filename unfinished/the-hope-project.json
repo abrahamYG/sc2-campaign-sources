@@ -1,0 +1,19 @@
+{
+    "id": "the-hope-project",
+    "name": "Codename Hope [1 player] [scenario]",
+    "shortName": "Codename Hope [1 player] [scenario]",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/164/62/62/636178328831394110.png",
+    "description": "<div style=\"text-align:center\"><h2>Untitled Project [Codename Hope]</h2></div>\n\nDuring the multiplayer beta, I experimented with the map editor a bit. I started working on a single player campaign, and while it seemed cool at first, things quickly got frustrating. The map was way to small, important scripted events were buggy, AI was pretty much non-existent. I didn't know much about code structure, so, even though I was using the GUI, triggers quickly became a complete mess.\n\nSince then I've learned PHP, and knowing the way a programming language is structure, I understand concepts like loops, if-then-else statements, and variables a lot better. I now use a consistent naming convention for my triggers and variables, which helps enormously.\n\nWith the help of many tutorials, most of them on SC2mapster.com, I've dived into using the data editor and understand how to properly set up units and abilities much better than I used to. This has opened up many exciting possibilities.\n\n## Why 'Codename Hope'\n\nOne night I started working on the Snipe Pilot ability used in this map, and after about 40 minutes of trying to get the sound and animation to work, I got kinda fed up for the moment and shut down the editor, first naming the file 'hope', because I was hoping I could get it to work later.\n\n## What's the story?\n\nRight now I have a very general idea of a rebel group making small inlets against the Dominion, only to find that their focus against Mengsk has left them open to a much larger threat, that, left unchecked, could put humanity in peril.\n\n## Video:\n\n<div style=\"text-align:center\"><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/ws0WqYASgKQ?wmode=transparent\" height=\"358\" width=\"638\"></iframe></div>\n\n",
+    "author": "_ForgeUser4364091",
+    "lastUpdated": "2011-03-14T07:34:51.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/157/921/SC2_2011-03-14_03-30-33-96.png"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

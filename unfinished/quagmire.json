@@ -1,0 +1,40 @@
+{
+    "id": "quagmire",
+    "name": "Quagmire",
+    "shortName": "Quagmire",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/126/904/62/62/636434381578497714.jpeg",
+    "description": "![](<https://media-elerium.cursecdn.com/attachments/thumbnails/218/546/310/172/qmirelogo2.png> =578x157)\n\n\n\n*Year 2488. After three years of fighting across the sector, the Guild Wars are winding down and the Kel-Morian Combine is losing ground on every front. All signs point to an inevitable victory for the Confederacy.*\n\n\n\n*Out of nowhere, Confederate outposts and key facilities on the strategically important colony of Sonyan are hit by a series of well-coordinated raids and bombings. These attacks are carried out by mercenaries believed to be contracted by the Kel-Morians. Confederate forces are placed on high alert and troops are diverted to Sonyan from neighboring colonies. Tensions are rising on some of the Confederate-occupied fringe worlds while Confederate intelligence is scrambling to get a read on the situation...*\n\n\n\n*![](<https://media.forgecdn.net/attachments/233/766/q01.jpg> =1920x1080)*\n\n\n\n### **What is this?**\n\n---\n\n\n\nA single-player campaign for Starcraft 2 with a story taking place during the Guild Wars, before the events of the original Starcraft. Missions alternate between classic RTS focused on map control and squad-based tactical gameplay. Runs on a tailored version of SCMRmod.\n\n\n\nContains mature language and violence.\n\n\n\n#### Features:\n\n\n\n- 13 missions planned (+ 3 cutscene maps)\n- different mixtures of real-time strategy and squad-based tactics\n- Three customized terran factions\n- Three difficulty levels\n- Loadout / level-up system - choose different perks and abilities\n- Story tied into the Starcraft universe\n- press-key-to-continue dialogue system that lets you read at your own pace\n- plenty of characters, backstory and optional reading\n\n<!-- -->\n\n\n\n![](<https://media.forgecdn.net/attachments/233/767/q02.jpg> =1920x1080)\n\n\n\n#### **Early access version with most maps now available.**\n\n\n\n**Certain maps are split into smaller sections. There is no checkpoint system in place yet, so it is recommended to save often, especially on these maps.**\n\n\n\n### **Downloads**\n\n---\n\n[Quagmire v0.91](<https://www.sc2mapster.com/projects/quagmire/files/2594117>)\n\n[Quagmire v0.91 Assets](<https://www.sc2mapster.com/projects/quagmire/files/2594114>)\n\n\n\n\n\n![](<https://media.forgecdn.net/attachments/233/768/q03.jpg> =1920x1080)\n\n\n\n### **How to Play**\n\n---\n\n\n\n**You need to download both the mod pack and the maps to be able to play.**\n\n\n\n- Place the two .SC2Mod files in the \"Mods\" folder in your Starcraft 2 install directory.\n\n<!-- -->\n\nexample folder containing the mod files: C:\\Games\\StarCraft II\\Mods\n\n\n\n- Place the \"Quagmire\" folder containing the .SC2Map files in the \"Maps\" folder in your Starcraft 2 install directory.\n\n<!-- -->\n\nexample folder containing the map files: C:\\Games\\StarCraft II\\Maps\\Quagmire\n\n\n\n\\*\\*\\*\n\n\n\n- You can create a shortcut and use it to play the mod directly. Set the shortcut's target path to (replace C:\\Games with your Starcraft II install path, include quotation marks):\n\n<!-- -->\n\n\"C:\\Games\\StarCraft II\\Support\\SC2Switcher.exe\" \"C:\\Games\\StarCraft II\\Maps\\Quagmire\\Quagmire Launcher.SC2Map\"\n\n\n\n- You can also play by opening the Quagmire Launcher map in the Starcraft 2 editor and pressing the \"test document\" button on the top right.\n\n<!-- -->\n\n\n\n![](<https://media.forgecdn.net/attachments/233/769/q04.jpg> =1920x1080)\n\n\n\n### **Known issues / things not yet implemented**\n\n\n\n- Demolishers and Stingers can lose ammo without firing their weapons if another order is issued as they are about to attack\n- Briefing Replay function not yet implemented\n- Briefing Skip works somewhat awkwardly, but it's safe to use and won't break anything\n- Stats screen - all of the mission statistics aren't necessarily 100% accurate\n\n<!-- -->\n\n\n\n![](<https://media.forgecdn.net/attachments/233/770/q05.jpg> =1920x1080)\n\n\n\n### **Credits**\n\n---\n\n[view full credits ](<https://www.sc2mapster.com/projects/quagmire/pages/credits>)\n\n\n\n\n\n**written and directed by **\n\nJones\n\n\n\n**map design**\n\nJones\n\n\n\n**Tactical Response Squad unit and gameplay design**\n\nJones\n\nAnttehoo\n\n\n\n**RTS side unit design**\n\nJones\n\n\n\n**Custom 3D models and textures**\n\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n|  |\n\n\n\n**Quagmire mod is based on the Starcraft: Mass Recall mod by**\n\nJones\n\nJimm\n\nTelenil\n\nGradius\n\nKostyarik\n\nRe1deR\n\nUltraling\n\nSuperfield\n\nchristdaugherty\n\n\n\n**contains additional SCMR UI design by**\n\nherdal8\n\nKostyarik\n\nRe1deR\n\n\n\n**uses a script template for sniper scope by**\n\nsummerloud\n\n\n\n**third person shooter engine by**\n\nmartinolsson\n\n\n\n**SCMRmod is based on the Starcraft 2: Brood War mod by**\n\nMavercK\n\n\n\n---\n\nfor other Starcraft 2 campaigns, check out the [Custom Campaign Initiative](<https://www.sc2mapster.com/projects/custom-campaign-initiative>)\n\n",
+    "author": "karlprojektorinski",
+    "lastUpdated": "2018-07-28T23:15:13.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/217/980/qmrthumb.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/218/35/screenshot2017-09-30-19_37_35.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/218/546/qmirelogo2.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/233/766/q01.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/233/767/q02.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/233/768/q03.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/233/769/q04.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/233/770/q05.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

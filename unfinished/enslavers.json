@@ -1,0 +1,19 @@
+{
+    "id": "enslavers",
+    "name": "SC1 Enslavers and DarkVengeance Remake",
+    "shortName": "SC1 Enslavers and DarkVengeance Remake",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/977/62/62/636178341562902062_animated.gif",
+    "description": "This is a remake map of Enslavers and Dark Vengeance campaign from Starcraft 1.\n\n\\- The map has been updated with the latest mod by [Starcraft Mass Recall Team](<http://www.sc2mapster.com/maps/starcraft-mass-recall/>)\n\nDownload\n\n[Enslavers & Dark Vengeance](<https://www.sc2mapster.com/maps/enslavers/files/11-enslavers-and-dark-vengeance-remake/>)\n\nAnd complete Russian version of Enslavers series by **timmaxshift**\n\n[Enslavers & Dark Vengeance (Russian)](<https://www.sc2mapster.com/projects/enslavers/files/2368518>)\n\nhow to play\n\n1\\. Extract map and mod files. (Download the latest mod file from [Here](<http://www.sc2mapster.com/maps/starcraft-mass-recall/files/>) \\- SCMRmod)\n\n2\\. Paste mod file to 'Mods' folder in Starcraft 2 directory.\n\n3\\. Test document maps or just simply drag them on starcraft 2.exe icon.\n\nPlay order\n\nEnslavers\n\n1 -> 2 -> (You have destroyed the cerebrate) 3a\n\n1 -> 2 -> (You have rescued Protoss) 2b -> 3b\n\nDark Vengeance\n\n1 -> 2 -> 3 -> (You have recovered Khadarin crystal in mission 03) 4a -> 5a\n\n1 -> 2 -> 3 -> (You have destroyed Command centers in mission 03) 4b -> 5b\n\n",
+    "author": "_ForgeUser26183264",
+    "lastUpdated": "2017-01-15T10:23:32.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/160/942/enslavers-i.gif"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

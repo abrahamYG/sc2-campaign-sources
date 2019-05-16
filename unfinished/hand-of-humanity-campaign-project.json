@@ -1,0 +1,19 @@
+{
+    "id": "hand-of-humanity-campaign-project",
+    "name": "Hand of Humanity (Campaign project)",
+    "shortName": "Hand of Humanity (Campaign project)",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/88/305/62/62/636223108377853031.jpeg",
+    "description": "This project will be merged to [Resource Curse](<https://www.sc2mapster.com/projects/resource-curse-campaign-project>) project.\n\n\n\nHand of Humanity contains Terran campaign with 28 missions and Zerg campaign with 17 missions.\n\n\n\nHand of Humanity mod changes Starcraft II core mechanics and offers huge amount of customized, buildable units for Terran and Zerg.\n\n\n\nGames that have inspired me as mapmaker are Warcraft II (1995) and Command & Conquer: Red Alert (1996). My ambitious goal is to create long campaign that combines best elements of 1990s singleplayer RTS games.\n\n\n\n**How to play?**\n\n\n\nSingleplayer campaigns require some file management to make it work properly. You have to extract a zip file, find and create folders.\n\n\n\n1\\. Download Hand\\_of\\_Humanity.zip. You find it from \"Files\" section at top part of this page.\n\n\n\n2\\. Extract .zip file and place files like this:\n\nStartcraft II\\Maps\\Hand of Humanity\\Launcher Zerg.SC2Map\n\nStarcraft II\\Mods\\HandOfHumanityMOD.SC2Mod\n\n\n\n3\\. Open \"Launcher Terran\" or \"Launcher Zerg\" map in Starcraft2 editor and press \"Test document\" button.\n\n",
+    "author": "terhonator86",
+    "lastUpdated": "2017-02-10T14:14:35.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/194/101/2017-02-10-launcher.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

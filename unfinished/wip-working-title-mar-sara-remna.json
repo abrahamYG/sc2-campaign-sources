@@ -1,0 +1,19 @@
+{
+    "id": "wip-working-title-mar-sara-remna",
+    "name": "[WIP] Working Title: Mar Sara Remnants",
+    "shortName": "[WIP] Working Title: Mar Sara Remnants",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/659/62/62/636178323031561504.Jpg",
+    "description": "## [DOWNLOAD HERE](<http://static.sc2mapster.com/content/attachments/2/713/MarSaraRemnant.SC2Map>)\n\nTo play the map:\n\n1. Go to your Starcraft 2 Beta folder (C:\\Program Files\\Starcraft II Beta) \n2. Open \"Starcraft 2 II Editor.exe\" \n3. File -> Open -> Click Browse -> Select your Downloads Folder -> MarSaraRemnants.SC2map -> OK \n4. File -> Test Document or CTRL+F9 \n\n<!-- -->\n\nAfter an emergency drop of a Medivac under heavy fire of a pair of Mutalisks, a handful of Marines and a Siege Tank is all that's left of the company.\n\nI have not yet added cinematics or dialogs because I feel those should be added in when the actual gameplay is ready. I will most likely ask the services of a professional writer to create a story while I attempt to create a most interesting experience. This campaign is HARD. Do not attempt if you don't feel like playing a challenge. This is only the first part of many of a great voyage through forgotten Mar Sara. Your task for now is to escape the gorge.\n\nPlease comment if you need advice. It is actually possible to complete this first, and easiest, chapter with barely any losses.\n\nCouple of tips: Purple (Spawn) Zerg give no bounty or score, and are mostly part of an endless stream of Zerg. Keep your vehicles, especially the Siege Tank, alive. The Supply Depot can actually survive. Use the cliffs to your advantage.\n\nMore information:\n\n- This campaign is heavily scripted. There are barely any NPCs without triggers and events attached to them. \n- This campaign does not feature player-controlled Heroes. I dislike the idea of having one powerful unit that you may not lose. Instead, consider all your men to be heroes. It does feature computer-controlled Heroes, though these are simply heavily scripted, customized versions of the basic units. \n- This campaign is bounty-driven. Killing non-looping enemy units bear minerals. \n- This campaign is a massive Work In Progress. Only the first 'level' is completed. It takes so long because it's very likely to be bugfree, too.\n\n<!-- -->\n\n",
+    "author": "_ForgeUser1685897",
+    "lastUpdated": "2010-05-02T21:20:04.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/465/Screenshot000.Jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

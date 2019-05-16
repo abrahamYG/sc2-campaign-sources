@@ -1,0 +1,19 @@
+{
+    "id": "resource-crisis",
+    "name": "Resource Crisis",
+    "shortName": "Resource Crisis",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/694/62/62/636178323286223419.jpg",
+    "description": "In the war with the Zerg, the Terran resources are running low. Fortunately the Terrans discovered a huge mineral field near one of their supply base. You are dropped in this base to recover this huge mineral field from the north. The resources are limitid because of the war, so you have to succeed with basic units. Defend your base and complete the objectives to win. Good luck.\n\n",
+    "author": "_ForgeUser4387016",
+    "lastUpdated": "2010-05-05T14:35:20.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/569/resourcecrisis.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "tel-rathu-swarm-chronicles",
+    "name": "The Tel-Rathu Swarm Chronicle's (RPG)",
+    "shortName": "The Tel-Rathu Swarm Chronicle's (RPG)",
+    "installed": false,
+    "summmary": "",
+    "description": "**The Tel-Rathu Swarm Chronicles**\n\nI am creating a diabloesque sc2 RPG, and just for a heads up this is the beginning of development as I type, i am awaiting a new laptop which should be here within 1-2 days and will be installing sc2 immediately, I have some exp in map making with this editor in its pre release form but will have to relearn a lot, this project will be a WIP for some time until I get it to a playable version but i plan to work diligently on this project and plan on this being my only project until it is finished. I will possibly be looking for people to help with the project with terrain editing/plot lines and maybe other things (more decided after i start the editing process)\n\nIt will follow the story line of a Zerg invasion of a Terran Planet, the Zerg swarm will be called the Tel-Rathu Swarm (any stories on where they came from and backstories on this swarm would be appreciated I would like to get the community following the production of this RPG involved so feel free to comment giving me ideas!!)\n\n*Features I plan on integrating (again ideas here appreciated)*\n\n- \\- 6 playable characters (3 Terran, 3 Protoss) \n- \\- 9 skills plus 3 passive abilities per character (each with 10 levels for a total of 120 skill levels) \n- \\- Leveling system with level 50 cap \n- \\- 4 hero attributes (vitality \\*health\\*, agility \\*speed\\*, endurance/energy \\*mana pools endurance for terran energy for protoss\\*, strength/dexterity \\*strength for melee and dexterity for ranged) \n- \\- A rich quest/storyline that expands through 4 maps \n- \\- Savable/Loadable characters between maps (all items and abilities transfered between games!) \n- \\- Random item drops with hundreds of rare and unique items \n- \\- Item shops and storage \n- \\- Dozens of tough enemy types and multiple boss battles per map \n- \\- Random events that may change every playthrough \n- \\- Waypoints to save hero progress on a map \n- \\- Balancing that makes no one character superior over the others \n- \\- 6 player co-op \n- \\- Scaling difficulty with added players \n\n<!-- -->\n\nThere will be many more smaller features that I will add as I go, please give feedback on what you think about the current features and any others I should add if any, I will keep you updated on progress to the map as i continue the project!\n\n- current version: 0.0 \n- current stage: Planning \n- Last updated: 7/24/12 \n\n<!-- -->\n\n\\-DarkRippa (Deetz08)\n\n",
+    "author": "_ForgeUser4418592",
+    "lastUpdated": "2012-07-24T16:03:29.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

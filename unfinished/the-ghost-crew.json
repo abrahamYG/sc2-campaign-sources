@@ -1,0 +1,17 @@
+{
+    "id": "the-ghost-crew",
+    "name": "The Ghost Crew",
+    "shortName": "The Ghost Crew",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/163/617/62/62/636682730199986357.png",
+    "description": "The Ghost Crew is a 3-mission micro campaign, with voice-acting and basic features like skippable cutscenes, difficulty settings and achievements.\n\nYou'll need some quick thinking to get through the challenges of each mission, each one has combat intertwined with small dynamic puzzles, and both fresh mechanics and mechanics that carry over from the previous missions.\n\nI've used triggers and actor messages to add more interactivity and feeling of physical interaction than you usually see, just check out the trailer to see what I mean.\n\n\n\nThe missions are designed to test your resource management and skills, playing on the Basic difficulty is highly recommended for your first run of this campaign.\n\n\n\n## Installation\n\n\\- download the archive: [https://mega.nz/#!sxtTQYDK!IZ2BO0z-i6sMrfT5Voc\\_YcYKmFFsFZJiyj89j6xX5z4](</linkout?remoteUrl=https%253a%252f%252fmega.nz%252f%2523!sxtTQYDK!IZ2BO0z-i6sMrfT5Voc_YcYKmFFsFZJiyj89j6xX5z4>)\n\n\\- extract it into your main StarCraft 2 folder\n\n\\- run Ghost Crew.exe or launch any of the maps from the editor\n\n\n\nYou will have access to a Level Select function inside the F10 menu in every map, this allows you to skip to any other map in the campaign even mid-mission. Achievements can also be accessed from the F10 menu.\n\n\n\n## Media\n\n<span><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/gjzevjWHM0k?wmode=transparent\" height=\"358\" width=\"638\"></iframe></span>\n\n\n\n\n\n![](<https://i.imgur.com/eNA5urZ.jpg> =673x385)\n\n![](<https://i.imgur.com/ZbV8dFr.jpg> =673x379)\n\n![](<https://i.imgur.com/FnZkFZs.jpg> =673x383)\n\n![](<https://i.imgur.com/Qze6DXB.jpg> =673x383)\n\n\n\n\n\n## Credits\n\nMain - Ciox (contact: cioltex@gmail.com)<br>\n\nVoice acting - Pr0nogo (contact: Pronogo@hotmail.com)<br>\n\nTesting and feedback - Pr0nogo, Nameless Voice, Baelethal\n\n\n\n\n\n",
+    "author": "cioxtwitch",
+    "lastUpdated": "2018-09-08T14:11:21.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

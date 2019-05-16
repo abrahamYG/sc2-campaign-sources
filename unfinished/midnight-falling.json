@@ -1,0 +1,52 @@
+{
+    "id": "midnight-falling",
+    "name": "Midnight Falling",
+    "shortName": "Midnight Falling",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/109/62/62/636178318069533941.jpg",
+    "description": "A Campaign designed around cooperative game-play, base defense and hero development.\n\nIn the first map for the campaign a Terran colony ship has crash landed on a lush jungle planet at the edge of the System. Only to find the Protoss there first.\n\nJoin as allies to survive each nightfall as a feral breed of nocturnal Zerg rise to swarm over the land like locusts. Where to from there? find out as the campaign progresses.\n\nIntended Campaign features:\n\n\\-Numerous polished and well integrated custom units and abilities.\n\n\\-Heroes that follow both players from map to map just how they built them and out-fitted them -A Hero system that will allow the player to build the character how ever they choose.\n\n\\-3rd person control: the game will be played from the seat of your hero, only expanding to \"standard view\" when you need to give orders and start constructions. This will cause you and your camera to be immobile only allowing you direct with superior accuracy in the area around \"you\". once your ready to start exploring or join your squad on the field simple jump back into the pants of your hero and get back out there.\n\n\\-Intense base defense during the night, keeping the swarm from tearing through your base as a constant stream of zerg slam them selves against your defense\n\n\\-Progress the campaign during the day as you and your partner work together to solve many mysteries of the unknown jungle planet.\n\n",
+    "author": "roraxplays",
+    "lastUpdated": "2010-06-14T14:39:22.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/154/490/Midnight_falling.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/493/Temple_entrance.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/496/Protoss_Ruins.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/497/Protoss_Temple.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/500/Protoss_Bulwark.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/502/Crashed_CC.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/507/TEntranceEarlyEvening.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/511/TEntranceNight.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/515/Monolyths.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/517/Jungle_Expansion.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/520/Beach_Expansion.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/522/28bx.png"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

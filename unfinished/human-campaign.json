@@ -1,0 +1,16 @@
+{
+    "id": "human-campaign",
+    "name": "Human Campaign",
+    "shortName": "Human Campaign",
+    "installed": false,
+    "summmary": "",
+    "description": "This is some of my own personal favourit maps from blizzards wc3 human story campaign. Which are remade in the SC2 world using basic units. Atm this is just a beta, meaning, that the terrain is bad and its missing cinematics and prologues.\n\nAnyways, the only requirement for the maps to work properly is that u choose BRUTAL difficulty. (Dont worry, its no where near as hard as brutal)\n\nHope to see a comment of what u think so far.\n\nInstallation Instructions\n\nDownload the zip file and extract to a temporary directory.\n\nUnzip to your SCII base directory. The file should go to the right folders. If they don't... remember this.\n\nThe maps goes into your Starcraft II/maps/Human Campaign folder\n\nNo mod is needed.\n\nThere is two ways to play a campaign:\n\n1\\. Click and drag the the first map onto your SCII executable. The default difficulty will then be Normal. Which is bad, go for option 2.\n\n2\\. Click and drag the the first map onto your SCII editor. Then under File/Profiencys/test map u can choose difficulty Brutal. After press Test map button.\n\nTurn your subtitles on (ingame options)\n\n",
+    "author": "_ForgeUser7599581",
+    "lastUpdated": "2012-10-31T19:48:35.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

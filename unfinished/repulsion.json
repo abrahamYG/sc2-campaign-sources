@@ -1,0 +1,25 @@
+{
+    "id": "repulsion",
+    "name": "Repulsion (HD Campaign Episode 2)",
+    "shortName": "Repulsion (HD Campaign Episode 2)",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/79/970/62/62/636178316994132036.jpg",
+    "description": "Second map in my campaign. If you haven't played the first one you can find it here [[http://www.sc2mapster.com/maps/striking-hammer/](<http://www.sc2mapster.com/maps/striking-hammer/>)] Please give feedback and if you find anything wrong with the map, please let me know. This map is the Freelancer side of the story so if you picked the Republic in the first map, you'll have to wait a bit for the mission on the Republic side. The story is explained in-game.\n\n",
+    "author": "_ForgeUser4567684",
+    "lastUpdated": "2012-03-31T01:40:40.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/154/94/SC2Editor_2010-08-21_01-47-49-79.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/96/SC2Editor_2010-08-19_07-54-48-09.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/98/RepulsionPic.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

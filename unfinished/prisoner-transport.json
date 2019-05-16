@@ -1,0 +1,19 @@
+{
+    "id": "prisoner-transport",
+    "name": "The Prisoner Transport",
+    "shortName": "The Prisoner Transport",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/560/62/62/636178332187407228.jpg",
+    "description": "The first map of my custom campaign \"Sons of Tarsonis. You have to intercept an prisoner transport by taking different vehicles with your Space marines. Feedback is welcome.\n\n",
+    "author": "_ForgeUser5906283",
+    "lastUpdated": "2010-10-27T15:13:03.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/159/258/Mission_1ver_3_Brucke2.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

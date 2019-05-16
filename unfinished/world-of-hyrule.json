@@ -1,0 +1,25 @@
+{
+    "id": "world-of-hyrule",
+    "name": "World of Hyrule",
+    "shortName": "World of Hyrule",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/867/62/62/636178336894529068.jpg",
+    "description": "Based on the Legend of Zelda, Ocarina of Time. Areas covered so far:\n\n\n\n\\-Kokiri Forest\n\n\\-Lost Woods\n\n\\-Hyrule Field\n\n\\-Lon Lon Ranch\n\n\n\nCustom models imported from various sources. Credits go to:\n\n\n\n\\-Blizzard Entertainment\n\n\\-\"println\" for Blender m3addon\n\n\\-\"Jeromnimo\" for WoW model viewer and its m3 exporter\n\n\\-Thomas Glamsch for Blender MDL importer\n\n\\-\"Zerox\" from the Hive Workshop for the Spiritual Stones, Young Link and The Great Deku Tree models\n\n\\-\"Caeyra\" from the Hive Workshop for the Princess Zelda texture\n\n\n\nUsers are free to modify this map for adding/customizing game modes, I only request credits for the Kokiri Houses, Kokiri Tunnels, and the terrain.\n\n",
+    "author": "ranchburner",
+    "lastUpdated": "2019-05-09T19:54:30.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/160/512/Kokiri_Forest_Area.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/240/187/sc2-map-of-hyrule-field.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/252/170/lon-lon-ranch.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

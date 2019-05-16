@@ -1,0 +1,22 @@
+{
+    "id": "reclamation",
+    "name": "Twilight Reckoning (Protoss Campaign)",
+    "shortName": "Twilight Reckoning (Protoss Campaign)",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/396/62/62/636178331004199013.jpg",
+    "description": "Still in progress.\n\n### **Description**\n\nA 5-mission Protoss campaign based on the events in Enslavers: Dark Vengeance. The campaign begins with Zeratul's warband conducting a routine recovery operation on Aiur. Ulrezaj will feature as the primary antagonist.\n\nExpect relatively high-quality terrain. Feedback is welcome!\n\nRequires HotS to play.\n\nA note about difficulty: The difficulty in these missions should be similar to Brood War, where there is only one difficulty setting. Most custom campaigns try to be as challenging as possible and are designed for veteran players, but I try to make the difficulty as similar to the official Blizzard campaigns as possible.\n\n### **Instructions**\n\n1. You need to extract all the maps, and place all the maps in the following directory within your SC2 folder:<br>\n\n*(SC2 installation folder)\\Maps\\Revolution\\Episode II - Protoss\\*\n2. Run the map. You can do this by right-clicking the file, and selecting \"Open With...\" then choose *StarCraft II\\Support\\SC2Switcher.exe*<br>\n\n Alternatively, you can open the map with the SC2 Map Editor, then pressing \"Test Document\". Make sure you close the editor while you run the game, because these maps can be quire resource intensive. \n3. Enjoy! \n\n<!-- -->\n\n### **Missions**\n\nNote that this campaign is a work in progress. The first two maps have been uploaded.\n\n1. **Reclamation**<br>\n\n    \\- Zeratul conducts a routine recovery operation on the ruined Protoss homeworld.<br>\n\n2. **Hung Jury**<br>\n\n    \\- A perversion of justice. The pitiful Terrans must be eradicated.<br>\n\n3. **(WIP)**<br>\n\n    \\- The sacred Khaydarin Crystal must be retrieved at all costs.<br>\n\n4. **(WIP)**<br>\n\n    \\- (WIP).<br>\n\n5. **(WIP)** <br>\n\n\\- (WIP). \n\n<!-- -->\n\n### **Changelog**\n\nFirst release.\n\n### **What's Next?**\n\nCurrently I'm happy with releasing the first two maps. Missions 3 and 5 are almost ready. Mission 4 is still in the planning stage.\n\nBy the way, check out the prequel to this campaign here: [http://www.sc2mapster.com/maps/endgame/](<http://www.sc2mapster.com/maps/endgame/>)\n\n",
+    "author": "canetoado",
+    "lastUpdated": "2014-08-17T05:28:47.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/158/720/Screenshot2014-08-17_15_38_35.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/722/planet-shakuras-full.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

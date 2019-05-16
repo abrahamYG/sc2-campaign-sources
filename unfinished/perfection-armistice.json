@@ -1,0 +1,16 @@
+{
+    "id": "perfection-armistice",
+    "name": "Perfection of Armistice",
+    "shortName": "Perfection of Armistice",
+    "installed": false,
+    "summmary": "",
+    "description": "What is Perfection of Armistice?\n\nPerfection of Armistice, abbreviated as PoA, is a newly released game that I created. It's in the beta of production and I have alot of plans for it in the future, but I was hoping to gather feedback on the balance needed, and any suggestions.\n\nOverall, the game is meant to be played as a sort of 'Adventure' game. Every game, a great many different factors are randomized and placed into the map, whether it be artifacts that spawn which give you an advantage, or a cave-in with trapped survivors. To delve into the core gameplay, though, it's very similar to a melee game. The game is started with only a black mask fog of war blocking your vision.\n\nAfter a wait period to see if anyone needs the tutorial, (I'd recommend it) the game begins by revealing circles of terrain on the minimap and selecting a 'deployment' unit. In the future, I intend to make changes to the deployment unit just as well as the rest of the game, but for now it acts as a 'calldown' ability to place troops. From there, players are encouraged to find minerals, build a base, and play in a manner similar to a melee game.\n\nNewly added units, random events, and other abilities strewn throughout the map make it more interesting than just melee. Some artifacts provide immediate bonuses, while some must be collected and used in another part of the map that must be controlled to use them. An AI may result in a serious threat one game, and not be there the next at all the next, providing instead an open opportunity to seize control of the games economy.\n\nBesides all that, there is also a system of powerful upgrades known as Objective Technologies. Each race has different 'tiers' of technologies, provided by killing enemy units. Within each 'tier' there are three types for each race that a player can kill. If a terran kills enough terran, they unlock an upgrade suitable for that. Likewise for killing zerg.\n\nAltogether, that's 33 obtainable objective technologies. This function changes gameplay rather significantly, from the testplays I've had with friends. Strangers, instead of eliminating a crippled opponent, will keep them alive to try and increase their objective technology for that race in order to deal with a different, more powerful opponent. The crippled player then has another chance to overtake the unknowing attacker, as he gains kills as well.\n\n### [Click here for the forum post!](<http://www.sc2mapster.com/forums/player-zone/map-feedback/23663-perfection-of-armistice/?unread>)\n\n",
+    "author": "zetal",
+    "lastUpdated": "2011-07-19T06:56:54.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

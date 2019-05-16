@@ -1,0 +1,34 @@
+{
+    "id": "wasteland-remake-sc1",
+    "name": "\"WASTELAND\" -Remake Sc1-",
+    "shortName": "\"WASTELAND\" -Remake Sc1-",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/95/62/62/636178328299558406.jpg",
+    "description": "A remake of the first Terran mission from Sc1. All original features included. New things like secondary objectives.\n\n",
+    "author": "_ForgeUser6333587",
+    "lastUpdated": "2011-12-30T22:13:13.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/157/696/Screenshot2011-12-29_21_06_48.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/697/Screenshot2011-12-29_21_06_14.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/698/Screenshot2011-12-29_21_07_38.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/699/Screenshot2011-12-29_21_09_00.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/700/Screenshot2011-12-29_21_03_55.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/702/Screenshot2011-12-29_21_03_51.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

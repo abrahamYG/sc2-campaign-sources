@@ -1,0 +1,31 @@
+{
+    "id": "maps-argutaris",
+    "name": "Indestructible",
+    "shortName": "Indestructible",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/487/62/62/636178321691280869.jpg",
+    "description": "#### \"Indestructible\"\n\nis a single player campaign dedicated to a Starcraft 1 player, one of clan [MB] Commanders Argutaris[MB], my father.\n\nPress for [Update Log](<http://www.sc2mapster.com/maps/maps-argutaris/pages/update-log/>)\n\nLearn more about the campaign [here](<http://www.sc2mapster.com/maps/maps-argutaris/pages/about/>)\n\n#### Requirements:\n\nYou shall require a machine that can run the game on ultra-extreme graphic settings while still runing another instance of the same game in the background on medium settings, and that is final. I dont give a damn flying crappy penny about your lag. The graphics requirements for this campaign is ultra-extreme. If you use lesser settings, you are loosing the experience, since some terrain elements might not look as they had been intended to look like. Plus the trigger work, being a one-mans-job throughout the years, is in most cases - sloppy, and will lag on lesser machines with not enough active memory. Thats just the way it is...\n\n#### Difficulty:\n\nVaries and is unchangeable. Mostly - Brutal.\n\n",
+    "author": "argutaris",
+    "lastUpdated": "2013-08-01T07:47:01.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/155/829/Reaver_shot.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/833/rvr2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/835/Terrain_001.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/840/Terrain_011.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/847/Terrain_022.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

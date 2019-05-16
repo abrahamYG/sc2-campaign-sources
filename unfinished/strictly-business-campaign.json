@@ -1,0 +1,22 @@
+{
+    "id": "strictly-business-campaign",
+    "name": "Strictly Business (Campaign)",
+    "shortName": "Strictly Business (Campaign)",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/149/686/62/62/636590997723433754.jpeg",
+    "description": "A Mercenary. His authority. His Iron Fist.\n\n\n\nThis is an amateur custom campaign following a Kel-Morian mercenary group known as Jundarr's Reapers. Follow the Reapers as they take mercenary contracts to build up their arsenal and make their bucks using their guns, killing anyone necessary. Has a loose plot, but focuses largely on gameplay with a SC/BW-twist on the tech tree.\n\n\n\nNOTE: I don't have a difficulty setting in place yet, but the campaign is about Hard Blizzard difficulty as it stands right now. I will release a playlist walkthrough of all missions if you run into too much difficulty in the current build unless I update the missions with a difficulty setting. If you have beaten Mass Recall on Hard mode, then you should be able to make it through this campaign.\n\n\n\n**Features:**\n\n\\- 8 missions\n\n\\- Custom tech tree\n\n\\- Campaign upgrade \"tech clearances\" every next mission\n\n\\- Alternate Unit Models\n\n\n\n11\\.04.2018 - First six bases missions and secret mission released, final mission in the works.\n\n\n\n**Developer Note:**\n\nThose of you that know me from my old projects know how shoddily made they were, and I have to admit they were low-effort projects that I lacked the passion for. However, I consider this a reasonably well-done project for an amateur like myself and I am happy to share it with you all. Hope you have fun!\n\n\n\n**Screenshots/Videos: WIP**\n\n\n\n**Credits:**\n\n\\- Kel-Morian Unit Models: Hammer107 at [Terran Military Organization Units](<https://www.sc2mapster.com/projects/terran-organization-units>)\n\n",
+    "author": "ksnumedia",
+    "lastUpdated": "2018-04-17T01:17:55.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/227/579/sc2-2018-04-14-16-27-31-112.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/227/580/sc2-2018-04-14-16-29-56-926.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

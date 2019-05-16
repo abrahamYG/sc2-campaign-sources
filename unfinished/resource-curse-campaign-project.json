@@ -1,0 +1,19 @@
+{
+    "id": "resource-curse-campaign-project",
+    "name": "Resource Curse (Campaign project)",
+    "shortName": "Resource Curse (Campaign project)",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/117/152/62/62/636400062634433428.jpeg",
+    "description": "Resource Curse is collection of single player campaigns that use Resource Curse MOD.<br>\n\n<br>\n\n**Campaigns / Factions:<br>\n\n<br>\n\n**Chapter1, Hand of Humanity, Blue Terran, 10 Missions.<br>\n\nChapter2, Magara's Brood, Green Zerg, 1 Missions.<br>\n\nChapter3, Gold Tribe, Yellow Protoss<br>\n\n<br>\n\n**How to play?<br>\n\n<br>\n\n**Singleplayer campaigns require some file management to make it work properly. You have to extract a zip file, find and create folders.<br>\n\n<br>\n\n1\\. Download Resource Curse.zip. You find it from \"Files\" section at top part of this page.<br>\n\n<br>\n\n2\\. Extract .zip file and place files like this:<br>\n\nStartcraft II\\Maps\\Resource Curse\\Launcher Chapter1.SC2Map<br>\n\nStarcraft II\\Mods\\ResourceCurseMOD.SC2Mod<br>\n\n<br>\n\n3\\. Open \"Launcher Chapter1\" map in Starcraft2 editor and press \"Test document\" button.\n\n",
+    "author": "terhonator86",
+    "lastUpdated": "2017-09-21T12:03:27.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/216/723/resource-curse-3.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

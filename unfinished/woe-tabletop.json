@@ -1,0 +1,16 @@
+{
+    "id": "woe-tabletop",
+    "name": "WoE Tabletop",
+    "shortName": "WoE Tabletop",
+    "installed": false,
+    "summmary": "",
+    "description": "This is a SC2 Version of my Worlds of Eoin® Tabletop Game with SC2 Races and original Gameplay and Carddesigns. It is a fusion of the CCG Card-concept and the Tabletop-concept. Each Player plays wit a Deck created by his own that will be saved an can be modified when the game starts or at its end.New Players gain startin credits. Starting creidst can be tradet for Starter-Decks an bossters.\n\nThe Game rules are easy. Each playerteam first selects 15 terrain Cards from there Decks and place them on there side. Terrain Cards will generate the Landscape of the battle field. After that each player places his base on the battle field. Playing Cards cause the Game to create units or upgrade units. Units can be used as in normal sc2 games to reach, attack, defend or use special abilitys but semi-round and action based.\n\nEvery Game can be played as 1on1, 2on2 or 3on3 Game and its winner gains creidts.\n\n",
+    "author": "_ForgeUser6430255",
+    "lastUpdated": "2011-09-22T15:55:56.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

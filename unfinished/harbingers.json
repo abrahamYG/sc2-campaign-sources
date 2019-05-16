@@ -1,0 +1,31 @@
+{
+    "id": "harbingers",
+    "name": "The Harbingers Single Player Campaign",
+    "shortName": "The Harbingers Single Player Campaign",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/98/62/62/636178328318643413.jpg",
+    "description": "Part 1 Searching inside an abandoned Protoss temple on the planet of Osomu, far out of the Koprulu Sector. Michael will lead his crew in search of the Harbinger Artifact, an ancient Artifact that was told to posses the power of the Xel'Naga.\n\n\\- - - -\n\n\\- 12/30/11 Part 1 of The Harbingers has been released.\n\n",
+    "author": "_ForgeUser4387210",
+    "lastUpdated": "2012-01-06T02:36:38.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/157/704/SC2_2011-12-30_18-23-53-32.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/706/harbingersp1.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/707/SC2_2011-12-31_21-58-07-88.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/708/SC2_2012-01-23_20-32-01-06.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/157/709/SC2_2012-01-23_20-32-09-22.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

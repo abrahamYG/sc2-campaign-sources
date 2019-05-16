@@ -1,0 +1,16 @@
+{
+    "id": "rpgcamera",
+    "name": "rpgcamera",
+    "shortName": "rpgcamera",
+    "installed": false,
+    "summmary": "",
+    "description": "This is a map that simply contains 3rd person camera settings for a unit.\n\n",
+    "author": "_ForgeUser4353615",
+    "lastUpdated": "2010-04-25T22:11:42.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

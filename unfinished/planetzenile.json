@@ -1,0 +1,16 @@
+{
+    "id": "planetzenile",
+    "name": "Planet Zenile",
+    "shortName": "Planet Zenile",
+    "installed": false,
+    "summmary": "",
+    "description": "## Planet Zenile\n\n<sub>Help me come up with a better name.</sub> This is my first map published on SC2mapster. This is not finished and will be updated a lot. I need some help with some stuff in the editor.\n\n### Summary\n\nYou have recently arrived on this planet. Time to start your adventure...\n\n### Places I need help in\n\n#### Achievements\n\nWhich is better:\n\n- Achievements through triggers \n- Achievements through data and triggers I need help with making a dialog to show which achievements you have unlocked. I can probably do the bank by myself.\n\n<!-- -->\n\n",
+    "author": "_ForgeUser8888007",
+    "lastUpdated": "2012-05-13T16:19:23.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

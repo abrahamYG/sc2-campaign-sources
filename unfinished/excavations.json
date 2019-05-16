@@ -1,0 +1,22 @@
+{
+    "id": "excavations",
+    "name": "Excavations",
+    "shortName": "Excavations",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/76/62/62/636178317768026284.png",
+    "description": "A Terran archeological survey have discovered a Xel'Naga artifact on Truro II. During the excavation an accident has caused it to begin transmitting a signal out into the depths of space.\n\nThe signal has been received by Executor Velentis, the commander of a small patrol fleet. Executor Velentis knows that if his fleet has picked up the Xel'Naga's call the so have the Zerg, Velentis must secure the artifact before the Zerg reach Truro II.\n\nYou will need HotS Beta to play this map. It's a quick test I did to get back into map making and to try out the new tile sets.\n\n",
+    "author": "_ForgeUser3617122",
+    "lastUpdated": "2013-02-10T21:02:51.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/154/423/Excavations.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/154/428/Screenshot2013-02-10_21_36_11.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

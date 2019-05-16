@@ -1,0 +1,19 @@
+{
+    "id": "signal",
+    "name": "The Signal",
+    "shortName": "The Signal",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/344/62/62/636178330534290237.jpg",
+    "description": "## The Signal\n\nA single player scenario.\n\n### When a team of researchers disappears on a mysterious planet, Marcus Grant - leader of a highly sophisticated and elite mercenary faction, embarks on a mission that will change his life forever.\n\n###### Enter the heart of the Anomaly, and discover the secrets of the Signal.\n\nGame Features:\n\n1\\. Story-driven\n\n2\\. Installation/Survival\n\n3\\. Game Camera and Controls: RTS\n\n4\\. Cinematics\n\n5\\. Text-based dialog and transmissions\n\n6\\. Boss level\n\nThis map is available on the Oceanic and North American Battle.net servers. Search \"signal\" in the create game panel.\n\nKnown Issues:\n\nA bug at the beginning of the scenario will create an error message. Doesn't seem to affect anything though.\n\nHints/Tips/Notes:\n\n1\\. Often you will meet obstacles and foes that require your keen senses and initiative. Expect less directions on how to progress, and be the Captain that you are!\n\n2\\. Save your progress often, and have fun!\n\n",
+    "author": "gnareffotsirk",
+    "lastUpdated": "2011-03-28T18:57:34.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/158/542/TheSignalBanner.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "project-ghost-raven",
+    "name": "Project Ghost Raven",
+    "shortName": "Project Ghost Raven",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/351/62/62/636178330599050382.jpg",
+    "description": "Alpha: TPS; Operatable vehicles, salvage reserach, omni tool tech. Take down a corrupt government and avenge your fallen loved ones.\n\n",
+    "author": "_ForgeUser6411892",
+    "lastUpdated": "2012-02-14T12:16:06.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/158/551/Screenshot2012-02-15_11_15_54.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/554/Screenshot2012-02-15_11_09_58.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/556/Screenshot2012-02-15_11_15_26.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/559/Screenshot2012-02-15_11_15_31.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/563/Screenshot2012-02-15_11_16_50.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/568/Screenshot2012-02-15_11_30_59.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/573/Screenshot2012-02-15_11_31_02.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/575/Screenshot2012-02-15_11_31_23.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/578/Screenshot2012-02-15_11_31_33.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/582/Screenshot2012-02-15_11_36_23.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/587/Screenshot2012-02-15_11_35_08.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": "scattered-campaign",
+    "name": "Scattered Campaign",
+    "shortName": "Scattered Campaign",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/747/62/62/636178323597666339.jpg",
+    "description": "This campaign requires the [Tranquility mod](<http://www.sc2mapster.com/maps/tranquility-mod/>). It may run without it, but will definitely not work as intended.\n\nYou may be interested in this if: You like large maps and long games at a somewhat slower pace.\n\nYou will probably NOT be interested in this if: You play everything on \"faster\" and prefer maps that take about 20 minutes to complete.\n\nScattered is a linear campaign with 12 missions featuring about 50% regular base play, 30% make-do-with-what-you-get and 20% survival. Most maps take about one hour of game time to complete, though some can be done in 30 minutes and others may take close to 2 hours.\n\nThe campaign takes place directly after the end of brood war, and you will follow a group of survivors from the UED expeditionary fleet in their fight for survival.\n\nAll maps in this campaign have been tested several times (to the point where I'm quite fed up with it), so they should be at least playable and hopefully without game breaking bugs. However, the difficulty level may fluctuate a bit and I'd be very surprised if I've managed to find all the bugs.\n\nPlease note that the first maps in this campaign are the first maps that I ever made with the SC2 editor, and though I have returned to them a couple of times to seal the cracks, the quality of the maps and triggers get higher as you progress through the campaign. That said, I'm not completely new to map/mission making, having made maps for other games for quite a while, so all maps should be of at least decent quality.\n\nOn a personal note, having seen so many abandoned projects (and abandoned a couple of my own in the past), any future projects (not promising there will be any) will not be announced before there is something to release, and will not be released until there is enough content to justify a release.\n\n![Asteroids](<http://www.sc2mapster.com/media/images/34/264/Asteroids.jpg>)![Desert Fortress](<http://www.sc2mapster.com/media/images/34/265/Desert1.jpg>)![Volcanic Skirmish](<http://www.sc2mapster.com/media/images/34/275/Volcanic4.jpg>)\n\n## Installation\n\nThe campaign will load the next mission upon completion of the previous one, but in order for this to work you have to put stuff in the place it will look for it.\n\nGo to StarCraft2/Maps and create a new folder named ***Scattered***, capital S. Download all maps and put them in this folder. That is, follow the structure: StarCraft2/Maps/Scattered/a\\_map.SC2Map\n\nOr you could just download the full package and put the folder *Scattered* in the *Maps* folder, and *Tranquility.SC2Mod* in the *Mods* folder.\n\n## Playing it easily (offline on test profile)\n\nJust drag and drop a map file over your StarCraft 2 shortcut or .exe. If your files are correctly placed they should link to each other.\n\n## Playing it properly (on your own profile)\n\n### The problem\n\nOpening the editor and starting a map with \"test document\" is a bad idea. Why? Firstly, because for some reason, if you have to alt-tab out of it, system performance may decrease when you return. Secondly, if you decide to save in the middle of a mission, and exit the game, you will have to start a new map before you are able to load your save. You can get past the first problem simply by dragging and dropping the map file over the StarCraft2.exe or shortcut, but the loading problem remains. Also, switching between online play and non-published map play is very cumbersome due to the lack of proper custom map support.\n\n### The solution\n\nHere's how to play the entire campaign while logged on to your profile, allowing you to have all your stuff in one place, switch seamlessly between online play and this campaign, and with the added bonus of being able to chat with your friends while playing this campaign.\n\n- Fire up map 1-0 (or whatever) by dragging the file over the starcraft2.exe or shortcut. As soon as it starts save the game, and shut everything down again. \n\n<!-- -->\n\n- Here's where it gets a little bit tricky. The save you just made is located in the StarCraft 2 offline versus AI folder, and you want to move it to your online profile. Locate your save, on Windows 7 it's location is something like *C:\\Users\\YourUsername\\Documents\\StarCraft II\\Saves\\VersusAI\\YourSave.SC2Save*. Copy it. \n\n<!-- -->\n\n- Now locate where your online profile stores its saves. On Windows 7, in *C:\\Users\\YourUsername\\Documents\\StarCraft II* there should be a shortcut to your profile with your ingame name on it. Follow it, and go into *Saves\\VersusAI*. The absolute path should now be something like *C:\\Users\\YourUsername\\Documents\\StarCraft II\\Accounts\\\\*SomeNumber\\*\\\\*SomeOtherNumber\\*\\Saves\\VersusAI*. Paste the save here. \n\n<!-- -->\n\nThat's it, you're done. Now you can start StarCraf 2 like usual, log on to your profile, and you'll find a new save under singleplayer => Load => Versus AI. Load that, and the campaign will resume. Now you can save and load the campaign at will and everything will be on your profile. As the campaign will load the next map automatically, you will hopefully not have to worry about fiddling with the saves again. One possible exception though, a game update from Blizzard may break your saves. They should still load, but you may be taken offline, in which case you'll have to redo the procedure above to get it back to normal. Patch 1.4.0 may have corrected this issue though, as it should allow you to restart the mission with the correct version and make another save. Oh, and don't forget to save before you exit the game, as there is no autosave upon starting a new map. Enjoy <span>:)</span>\n\n## Known Problems\n\n- Patch 1.4.0 broke the custom map camera movement, hence it will snap and jump during some cutscenes. *This should have been fixed in 1.4.1.*\n- Patch 1.4.0 broke the Char environment background, hence cutscene 2-0c have a black void background. \n\n<!-- -->\n\n",
+    "author": "_ForgeUser7597650",
+    "lastUpdated": "2011-10-05T12:48:47.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/690/Scattered_campaign.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/692/Volcanic4.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/694/Volcanic3.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/695/Volcanic1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/697/Interior2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/700/Docking_bay.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/702/Interior1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/703/Installation.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/704/Hangar.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/706/Asteroids.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/707/Desert1.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

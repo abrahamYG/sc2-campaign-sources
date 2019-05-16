@@ -1,0 +1,22 @@
+{
+    "id": "murder-alpha-base",
+    "name": "The murder on alpha base",
+    "shortName": "The murder on alpha base",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/580/62/62/636178322425456795.jpg",
+    "description": "**you take control of Corporal Samuel Vex to investigate a murder on Alpha Base. You have to interigate prisioners and find clues to reveal the true killer.**\n\nKnown bugs:\n\n- Command console does not show up after one of the cinematics. \n\n<!-- -->\n\n",
+    "author": "_ForgeUser6603454",
+    "lastUpdated": "2011-08-30T19:53:47.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/228/Screenshot2011-08-23_13_42_38.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/229/Screenshot2011-08-23_13_43_08.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

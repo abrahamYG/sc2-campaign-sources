@@ -1,0 +1,16 @@
+{
+    "id": "jungle-infestation-demo",
+    "name": "Jungle Infestation Demo",
+    "shortName": "Jungle Infestation Demo",
+    "installed": false,
+    "summmary": "",
+    "description": "A demo of a fullscale project. It is similar to Resident Overmind - I know, that's because I based it off of that with a few tweaks of my own. The map itself is completely different trigger wise, I bet. In the demo you wander a long road that twists and turns throughout a jungle as a Ghost in the middle of the night, fighting zerg along the way. It's very simplified and will probably get more depth later if I decide to continue with it.\n\n",
+    "author": "_ForgeUser4317907",
+    "lastUpdated": "2010-05-02T21:38:45.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

@@ -1,0 +1,16 @@
+{
+    "id": "episode-i-its-not-here",
+    "name": "Episode I: It's not here",
+    "shortName": "Episode I: It's not here",
+    "installed": false,
+    "summmary": "",
+    "description": "![It's not here](<http://s1.ipicture.ru/uploads/20110907/OJHFp8hp.bmp>)\n\nThis is the first mission of Red Sand Planet campaign. It will take place with the beginning of Wings of Liberty with zerg attack on Mar Sara. You will take part as Dominion Commander and will investigate zerg attacks on Dominion mines.\n\nSend your responds. Any advices, bug reports, difficulty, opinions is it boring or not. And reply if you have \"Param/Value\" error.\n\nObjectives are not finished yet. I'm trying to figure out how:))\n\nUpdate: I've remade the beginning of the mission. I've tried to make \"skip cinematics/trigger\", but it's not working at the moment.\n\nAlso there are some trigger and text mistakes, I'll fix them in some days.\n\n",
+    "author": "_ForgeUser7508666",
+    "lastUpdated": "2011-09-06T18:36:21.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

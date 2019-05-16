@@ -1,0 +1,28 @@
+{
+    "id": "misery-living-and-dying-magic",
+    "name": "Misery of living and dying magic",
+    "shortName": "Misery of living and dying magic",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/79/726/62/62/636178315382294685.jpg",
+    "description": "This Singleplayer-RPG map is created after the pen and paper game 'Shadowrun'. It includes a character creator, regular combat, matrix combat, magic and almost anything you can imagine what can be on such a giant RPG map.\n\nThe current status should be this at least:\n\nInterface: - Regular Combat: 90% - Matrix Combat: 95% - Out of Combat Interface: 80% - Conversations: 100%\n\nFunctionality: - Regular Combat: 55% - Matrix Combat: 70% - Out of Combat: 75% - Conversations: 95%\n\nMap: - The main town: 100% - Inside of buildings: 50% - The wasteland and other things: 75% - Decoration: 20% - Complete map: 70%\n\nCharacter Creation: - Races: 40% - Qualities: 30% - Attributes: 100% - Skills: 40% - Equip: 15% - Spells: 10%\n\nStory: 15%\n\nEntire Project: 52%\n\n**Fun Facts: 30.03.12**<br>\n\n Variables: 1586<br>\n\n Trigger Actions: 15220\n\n31\\.03.2012: [Thread](<http://www.sc2mapster.com/forums/resources/project-workplace/34732-misery-of-living-and-dying-magic-a-shadowrun-adaption/#p1>) opened (Milestone I)\n\n",
+    "author": "_ForgeUser6036271",
+    "lastUpdated": "2011-05-11T10:59:15.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/153/435/Screenshot2011-05-11_13_04_51.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/153/438/Screenshot2011-05-11_13_05_27.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/153/440/Screenshot2011-05-11_13_05_52.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/153/442/Screenshot2011-05-11_13_03_41.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

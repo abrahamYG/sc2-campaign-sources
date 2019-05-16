@@ -1,0 +1,19 @@
+{
+    "id": "greater-train-robbery",
+    "name": "The Greater Train Robbery",
+    "shortName": "The Greater Train Robbery",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/362/62/62/636178320677236423.png",
+    "description": "A 4-player co-op map based on the campaign map The Great Train Robbery.\n\nDifficulty scales for 2-4 players. A general difficulty (easy-brutal) is also selectable in the lobby. Search for \"greater\" in europe, or feel free to upload and play in other regions.\n\n![The Greater Train Robbery (map terrain image)](<http://img10.imageshack.us/img10/7243/greatertrainrobberyterr.png>)\n\nThis map is part of a series of 4-player co-op maps based on the campaign. See also:\n\n- [The Devil's Yard](<http://www.sc2mapster.com/maps/devils-yard/>)\n\n<!-- -->\n\n",
+    "author": "_ForgeUser4370295",
+    "lastUpdated": "2011-08-05T14:43:54.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/155/388/Silver_streak.png"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

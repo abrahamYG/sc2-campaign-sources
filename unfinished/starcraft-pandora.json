@@ -1,0 +1,31 @@
+{
+    "id": "starcraft-pandora",
+    "name": "STARCRAFT: Pandora",
+    "shortName": "STARCRAFT: Pandora",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/843/62/62/636178336400462712.jpg",
+    "description": "## STARCRAFT: PANDORA\n\nA custom campaign for Starcraft 2, Follow the crew upon the WASP as they undertake dangerous mission for the Chronos Corporation ink.\n\n###### Map feedback\n\nPlease leave map feedback here: [http://www.sc2mapster.com/forums/player-zone/map-feedback/83839-starcraft-pandora-needs-testers/](<http://www.sc2mapster.com/forums/player-zone/map-feedback/83839-starcraft-pandora-needs-testers/>)\n\n### Story\n\nThe Corporation known as Chronos has hired the infamous Richard King to locate a certain artifact for their CEO known as \"The Collector\". After have searched the sector for two years, the now desperate crew of the WASP has one final chance to locate the artifact the Chronos Corporation Ink is looking for or feel the wrath of the Collector.\n\n#### Missions\n\n1\\. Uraj\n\n2\\. The Zera Ferai\n\n3\\. Khalis\n\n4\\. The Rescue\n\n5\\. Kel´Rash\n\n6\\. Vortex\n\n7\\. Pandora\n\n8\\. The Collector - finale\n\n#### Thanks to\n\ndeltronLive - for testing my maps\n\nJayborinoplays - for show and playing my maps at his channel on youtube\n\n",
+    "author": "hultmanable",
+    "lastUpdated": "2015-11-08T13:42:04.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/160/431/Screenshot2015-10-13_19_43_45.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/432/Screenshot2015-10-13_19_46_11.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/433/Screenshot2015-10-13_19_50_17.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/434/Screenshot2015-10-13_19_44_33.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/435/Pandora.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

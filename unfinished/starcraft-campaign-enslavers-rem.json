@@ -1,0 +1,19 @@
+{
+    "id": "starcraft-campaign-enslavers-rem",
+    "name": "Starcraft Campaign Enslavers Remake",
+    "shortName": "Starcraft Campaign Enslavers Remake",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/660/62/62/636178323048156629.jpg",
+    "description": "This is a remake of Starcraft campaign Enslavers. The map is motivated by recent remake of Starcraft episodes and credit for Starcraft 1 unit models used in this map goes to Maverck.\n\nYou need 'Sc1mod.Sc2mod' file in 'Mods' folder of your Starcraft 2 directory.\n\nContains 5 missions and features two different routes based on what you choose to do in the Second mission. Should you choose to rescue Protoss captives, the next course is to play Enslavers 02B and Enslavers 03B or if you've chosen the other way, go directly for Enslavers 03A\n\nTo play it, simply download the file, unzip it and drag a map to your Starcraft 2.exe.\n\nOnly medics are allowed among Brood War units for 'Enslavers' takes place before the Brood War.\n\n",
+    "author": "_ForgeUser7551701",
+    "lastUpdated": "2011-09-18T11:24:23.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/468/Screenshot2011-09-16_14_37_44.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

@@ -1,0 +1,43 @@
+{
+    "id": "homecoming",
+    "name": "Hammer of Dusk Campaign",
+    "shortName": "Hammer of Dusk Campaign",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/759/62/62/636178334347467101.jpg",
+    "description": "*Mission 3 Released!*\n\n**Story: ** It is the year 2615, humanity on the outskirts of the Koprulu sector struggle to fight a renegade Zerg swarm, controlled only by a queen known as \"The Mother\". As the battle between Terran and Zerg continues, a military group, named \"The Hand of Dawn\" is humanity's last hope at crushing the Zerg-Infested threat. Recently however, the Hand of Dawn has been hard-pressed to find any solution to dealing with the presence of the Mother's Brood, and because of this, Dawn technicians and strategists have been pushed to develop a brand-new combat AI, which, if implemented, should greatly enhance all of the existing mech's combat systems, and prove a worthy and much-needed asset to the war effort. Unfortunately, the Zerg seem to have noticed this prioritized effort, and have been bombarding the local planet (Naar) with numerous forces, causing planet-wide terror and distress. Commander Cain Monahue; a well-respected commander and war veteran, has been appointed to deal with the Zerg threat on Naar, and ensure that the new combat AI is safe, secure, delivered, and implemented. Whether or not the Commander can face this task, that is up to you. With the thousands of innocent people dying on Naar and throughout nearby colonies, time is running short and failure is not an option. For more details on the story, click [here](<http://www.sc2mapster.com/maps/homecoming/pages/story-details/>)\n\nMission List\n\n**Episode I :: Old Enemies**\n\n1. Homecoming \n2. Child of Honor \n3. The Widow's Aid \n4. Crossroads (In Development) \n5. Dawn's Edge (Planned) \n6. Our Finest Hour (Planned) \n\n<!-- -->\n\n#### In order to play, you will have to do these things first.\n\n#### 1) Download and unzip the two Hammer of Dusk Mods, you can download them [here](<http://www.sc2mapster.com/maps/homecoming/files/7-hammer-of-dusk-mods-new/>)\n\n#### 2) Move the two mods into your Starcraft II/Mods folder\n\n#### 3) Download the map(s) which you can find [here](<http://www.sc2mapster.com/maps/homecoming/files/>), just download any mission you want to play.\n\n#### 4) Open the map in the editor and test the document. Play it and please give feedback.\n\n**As mentioned, please give feedback and report any bugs, I am constantly trying to improve my skills within the editor so every comment helps. Thanks again.**\n\n",
+    "author": "_ForgeUser4567684",
+    "lastUpdated": "2013-01-04T20:45:39.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/159/986/Hammer_of_Dusk_Campaign_Logo2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/987/SC2Editor_2012-06-28_09-24-42-79.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/989/SC2Editor_2012-06-28_09-24-10-47.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/993/Hand_of_Dawn_Campaign_Signature2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/995/HoD_Camp_3.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/997/HoD_Camp_2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/159/998/HoD_Camp_1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/0/SC2_2012-12-21_16-37-38-87.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/2/SC2_2012-12-21_15-48-48-03.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

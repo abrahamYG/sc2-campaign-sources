@@ -1,0 +1,28 @@
+{
+    "id": "starcraft-prologue-remake",
+    "name": "Starcraft Prologue Remake",
+    "shortName": "Starcraft Prologue Remake",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/699/62/62/636178323329902069.jpg",
+    "description": "This is a remake of the first original Starcraft prologue map (excluding the tutorial).\n\nI tried to stay true to the original map while adding some extra spice to it.\n\nFeatures day/night cycles, short cinematics, original tech tree, and build/attack AI.\n\nI would appriciate any feedback you can give me and please say if you want more of these maps.\n\nThe map is currently in beta.\n\nThe map now contains the original tech tree INCLUDING the firebat.\n\nThings missing in the map:\n\n\\- Lip synch (not sure how to do this yet)\n\nI hope you enjoy.\n\nNew version has a lot of changes. Please see the changelog for an almost full list.\n\nThanks to Vailreth for adding the Firebat, and other data-editor changes <span>:)</span>\n\n",
+    "author": "_ForgeUser4383988",
+    "lastUpdated": "2010-05-03T17:13:44.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/571/wmplayer_2010-05-03_19-18-52-54.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/572/wmplayer_2010-05-03_19-19-22-99.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/574/wmplayer_2010-05-03_19-20-10-24.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/576/T1comparison.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

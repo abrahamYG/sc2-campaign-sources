@@ -1,0 +1,16 @@
+{
+    "id": "ride-lightning",
+    "name": "Ride the Lightning",
+    "shortName": "Ride the Lightning",
+    "installed": false,
+    "summmary": "",
+    "description": "You are the commander of an organisation containing the most specialized bountyhunters in the universe. Your job is to command and fullfill five missions with their help.\n\n\\- Variable difficulty\n\nInstallation Instructions\n\nDownload the zip file and extract to a temporary directory.\n\nUnzip to your SCII base directory. The file should go to the right folders. If they don't... remember this.\n\nThe maps goes into your Starcraft II/maps/Ride the Lightning folder\n\nNo mod is needed.\n\nThere is two ways to play a campaign:\n\n1\\. Click and drag the the first map onto your SCII executable. The default difficulty will then be Normal.\n\n2\\. Click and drag the the first map onto your SCII editor. Then under File/Profiencys/test map u can choose a difficulty between Easy - Brutal. After press Test map button.\n\nTurn your subtitles on (ingame options)\n\n",
+    "author": "_ForgeUser7599581",
+    "lastUpdated": "2012-11-14T09:47:53.000Z",
+    "screenshots": [
+        {}
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

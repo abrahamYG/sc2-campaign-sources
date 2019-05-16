@@ -1,0 +1,34 @@
+{
+    "id": "mindless-war",
+    "name": "Mindless War",
+    "shortName": "Mindless War",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/944/62/62/636178339202454610.jpg",
+    "description": "Amidst a U.E.D. Zerg test, the Protoss challenge you to a battle of strength. The odds are against you. Will you and your newfound Zerg weapon find the synergy to defeat them? This mission can be played with a computer ally or as Co-Op. The Terran must play a strong defense and the Zerg must lead powerful attacks towards enemy Nexus'.\n\n",
+    "author": "mikethesspike",
+    "lastUpdated": "2011-04-29T03:37:12.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/160/789/Terrain_006.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/790/Screenshot.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/791/Screenshot001.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/792/Terrain_011.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/795/Terrain_010.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/796/Screenshot002.Jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

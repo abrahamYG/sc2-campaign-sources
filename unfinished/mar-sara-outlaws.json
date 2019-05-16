@@ -1,0 +1,22 @@
+{
+    "id": "mar-sara-outlaws",
+    "name": "Mar Sara Outlaws",
+    "shortName": "Mar Sara Outlaws",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/325/62/62/636178320355797046.Jpg",
+    "description": "Play as a sheriff in pursuit of the notorious train robber Blackthorn across the Mar Sara wasteland. Assist the Dominion Military and battle the Zerg en route to catching your prey.\n\nFeatures:\n\n- Story driven, third person shooter, action adventure. \n\n<!-- -->\n\n- W,A,S,D movement system. \n\n<!-- -->\n\n- Mouse aim combat system. \n\n<!-- -->\n\n- Use a rifle or a grenade launcher. \n\n<!-- -->\n\n- Numerous cinematics. \n\n<!-- -->\n\n- Engaging boss battle. \n\n<!-- -->\n\nDirections on how to play:\n\n- Download map and place it in your \"Starcraft II Beta>Maps\" folder \n\n<!-- -->\n\n- Open the map editor \n\n<!-- -->\n\n- load Mar Sara Outlaws \n\n<!-- -->\n\n- Click the \"test map\" button which is the rightmost button along the top toolbar in the map editor. \n\n<!-- -->\n\nSpecial thanks to:\n\n- Qancakes for letting me use his movement and combat system. Check out his kickass map Perdition at [http://www.sc2mapster.com/maps/perdition/](<http://www.sc2mapster.com/maps/perdition/>)\n\n<!-- -->\n\n- SCMapper for figuring out how to make units \"jump\" in his ongoing World of Starcraft project. check it out at [http://www.sc2mapster.com/maps/smooth-3rd-person-movement/](<http://www.sc2mapster.com/maps/smooth-3rd-person-movement/>)\n\n<!-- -->\n\nPatch History:\n\n1\\.22\n\n- Cleaned up UI so the game immediately becomes full screen after cinematics, instead of taking a second to clear the standard ui. \n- fixed issue with opening hints on how to play not displaying properly. \n\n<!-- -->\n\n1\\.21\n\n- Adjusted several camera angles. \n- Decreased bosses continuous machine gun damage to make fight more about avoiding the cannon fire. \n\n<!-- -->\n\n1\\.20\n\n- Added grenade launcher (right click to launch grenades, does less damage than rifle to single target but is efficient vs multiple enemies.) \n- Tweaked movement system to be more responsive. (No delayed stop after you lift a finger from w,a,s,d) \n- Shortened the length of some script segments before starting a new line below (trying to fix the common issue of text running off the screen) \n\n<!-- -->\n\n1\\.10\n\n- Boss fight now functions as intended. Dodge the targets to avoid the explosive damage. Tank will continuously shoot you with machine gun, machine gun animations aren't working yet (any help would be appreciated!) \n- A few other tweaks, some doodads were slightly hovering and i sunk em into the ground. \n\n<!-- -->\n\n1\\.01\n\n- Removed \"flee\" option from Sheriff. \n- Adjusted camera angle when hydra's spawn to better fit them in view.\n\n<!-- -->\n\n",
+    "author": "_ForgeUser3575564",
+    "lastUpdated": "2010-05-01T01:52:02.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/155/292/Screenshot.Jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/294/Screenshot004.Jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

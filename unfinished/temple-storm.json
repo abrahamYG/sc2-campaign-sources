@@ -1,0 +1,19 @@
+{
+    "id": "temple-storm",
+    "name": "Temple storm",
+    "shortName": "Temple storm",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/184/62/62/636178318560691317.JPG",
+    "description": "Single player mission with unit cap set to 400. Ai aint to great so created spawned units and given beefy defences to hopefuly provide some sort of challenge.\n\n",
+    "author": "_ForgeUser4462095",
+    "lastUpdated": "2010-08-22T11:44:06.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/154/700/templestorm.JPG"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

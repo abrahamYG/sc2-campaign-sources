@@ -1,0 +1,19 @@
+{
+    "id": "endgame",
+    "name": "Prime Resurgence v2.2",
+    "shortName": "Prime Resurgence v2.2",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/335/62/62/636178330432263283.jpg",
+    "description": "# ****Prime Resurgence****\n\nThis is a 5-mission Terran campaign based on the final events in Brood War. The campaign begins with Kerrigan's assault on the UED capitol on Korhal. As captain of the UED forces, your objectives are to contain the situation and regain the initiative in the Brood War. The campaign will culminate in a final showdown with both the Swarm and the Dominion.\n\nYou will take command of exciting new units, fight in unpredictable conditions, and still have time to gaze around at the terrain work once in a while. While the campaign itself isn't awfully difficult, your micro and your macro will be tested.\n\nRequires HotS to play. Compatible with StarCraft II patch 3.0. Please post any bugs in the comments section below.\n\n[Link to feedback thread](<http://www.sc2mapster.com/forums/player-zone/map-feedback/75404-new-prime-resurgence-v2-0-feedback/>)\n\n# ****Instructions****\n\n1. Download the .ZIP file and extract the contents to your StarCraft II maps folder:<br>\n\n *(SC2 installation folder)\\Maps\\*\n2. The subfolders will be created automatically. Don't move them out of the pre-placed subfolder or the mission launcher won't work, and the maps won't be linked.\n3. Download the Left2Die.mod file (included in the files page) and place it in the following directory within your SC2 folder:<br>\n\n*(SC2 installation folder)\\Mods\\* This is because mission 2 uses some hero skins etc from the mod.\n4. Run the Mission Select map. You can do this by right-clicking the file, and selecting \"Open With...\" then choose *StarCraft II\\Support\\SC2Switcher.exe*<br>\n\n Alternatively, you can open the Mission Select map with the SC2 Map Editor, then pressing \"Test Document\". Make sure you close the editor while you run the game, because these maps can be quire resource intensive.\n5. Enjoy!\n\n<!-- -->\n\n<div><div><div><p>If the AI does not send attack waves when you run the map through map editor test (AI still sends attack when you run it from SC2Switcher.EXE), you need to go into your StarCraft II Editor, File &gt; Preferences &gt; Test Document &gt; Game Difficulty &gt;&nbsp;it should appear blank. Change this to any difficulty (has no effect on gameplay) to fix the issue.</p><p>This bug will affect multiple maps (not just mine)... thanks Blizzard!</p></div></div></div>\n\n<div></div>\n\n# ****Missions****\n\n1. **Endgame **<br>\n\n\\- Defend UED capitol on Korhal from Kerrigan's Zerg Swarm.\n2. **Liberty **<br>\n\n\\- Liberate the planet of Umoja from infestation virus.\n3. **Shattered City **<br>\n\n\\- Crush Kerrigan's stronghold on Tarsonis and slay her Cerebrate.\n4. **Emperor's Wrath**<br>\n\n\\- Defend Char against Emperor Mengsk's formidable armada.\n5. **Operation Vertigo**<br>\n\n\\- Inflict a final defeat upon the Terran Dominion and secure your place in history as one of the greatest commanders who ever lived.\n\n<!-- -->\n\n# ****Changelog and Credits****\n\n[Changelog](<http://www.sc2mapster.com/maps/endgame/pages/changelog/>)<br>\n\n[Credits](<http://www.sc2mapster.com/maps/endgame/pages/credits/>)\n\n# ****What's Next?****\n\nA Protoss campaign is on the way, focusing on Zeratul's battle against Ulrezaj. A Zerg campaign told from Duran's perspective is also in planning stage.\n\n",
+    "author": "canetoado",
+    "lastUpdated": "2016-02-27T01:26:48.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/158/519/Screenshot2014-12-20_13_59_59.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": "twilight-struggle",
+    "name": "Twilight Struggle",
+    "shortName": "Twilight Struggle",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/210/62/62/636178329276158895.png",
+    "description": "**The Zergs! have returned. Fortify your defenses and fight your way free!**\n\n![http://static.sc2mapster.com/content/images/31/4/signature.png](<http://static.sc2mapster.com/content/images/31/4/signature.png>)\n\nSearch for** \"Twilight Struggle\"** on Battle.net US servers.\n\nFilter **\"Co-op vs. AI\"**. Or you can download it to play by yourself.\n\nModes:\n\n**2 player Co-op** \\- You and another player beat back the Zergs! back to back.\n\n**Solo run** \\- You get control of the entire Terran Outpost and survive alone.\n\n**Multiplayer mindmeld** \\- Team melee (share units) with multiple players.\n\n*Note: If player 2 is present during Solo run, he/she can control your units; like a Team Melee sort of assistance. *\n\n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/XJ0mzHbai8w?wmode=transparent\" height=\"358\" width=\"638\"></iframe>\n\n*Update 1.34 has been released!*\n\n*Stalemate timer introduced to prevent players from sitting in a corner of the map all day*\n\nThis is a remake of the original, 1-2 player Blizzard made scenario map included in Brood War, Twilight Struggle. The original version can be found in the \"scenario\" folder of Brood War maps.\n\nIf you find any problems or have comments, feel free to contact me either by pm, forum or email *anson**AT**apparentetch.com*.\n\nThe forum thread for this map is at [http:*forums.sc2mapster.com/resources/project-workplace/20282-release-twilight-struggle*](<http://forums.sc2mapster.com/resources/project-workplace/20282-release-twilight-struggle>)\n\n",
+    "author": "_ForgeUser6509682",
+    "lastUpdated": "2011-04-21T01:46:22.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/158/52/umojaandmap.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/53/signature.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/54/tank_and_bunkers.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/57/nydus_worm_attack.png"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

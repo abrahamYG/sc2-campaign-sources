@@ -1,0 +1,19 @@
+{
+    "id": "ruins-tarsonis",
+    "name": "Ruins of Tarsonis",
+    "shortName": "Ruins of Tarsonis",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/901/62/62/636178325827781255.jpg",
+    "description": "Hello everyone, this is my attempt at recreating the third mission for the Terran campaign in Brood War. The overall layout of the map is similar to the original, however it is much more difficult than the original (which was a cakewalk) The objectives remain the same: Destroy the four Zerg hives and then bring Duran to the Psi-Disruptor. I am a novice when it comes to mapping and this is my first real attempt at making a map, so I'm sure there are definitely a few issues within this map, and some things that could use some polishing. So now that I finally have this map in a playable state, I would really appreciate any constructive criticism and comments on the map.\n\n",
+    "author": "_ForgeUser4659803",
+    "lastUpdated": "2010-07-07T17:31:10.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/157/53/Tarsonis_image_1.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

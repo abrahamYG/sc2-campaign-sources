@@ -1,0 +1,19 @@
+{
+    "id": "tutorial-boot-camp-remake",
+    "name": "Tutorial: Boot Camp Remake",
+    "shortName": "Tutorial: Boot Camp Remake",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/537/62/62/636178322081581856.jpg",
+    "description": "It's a remake of the first Star Craft mission. Who can forget this map, right? )) Hope someone will find it cool. This is my first map on Galaxy Editor at all (and i have no experience in WC3 World Editor either), so, please, tell me straight if you will find some bugs.\n\nNothing big for player, realy, but this map was one of the hardest in original SC (i mean triggers sets). Specially for a new guy in map-making like me)) I figure out the way how to run a lips animation for portraits. It's crooked but it's better than nothing.\n\nEnjoy, guys'n'ladies!\n\n",
+    "author": "_ForgeUser4594861",
+    "lastUpdated": "2010-06-24T14:11:41.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/102/SCMapImage.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

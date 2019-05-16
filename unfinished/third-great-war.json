@@ -1,0 +1,31 @@
+{
+    "id": "third-great-war",
+    "name": "Third Great War",
+    "shortName": "Third Great War",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/174/44/62/62/636747986489621700.png",
+    "description": "The Third Great War is three part custom campaign for Starcraft 2 with custom achievements, gameplay mechanics and new units. It will also have custom upgrades and a branching storyline in the future.\n\n\n\nThe zerg prologue (the only thing available right now) takes place during 2518, 3 years after the beginning of the Third Great War. Amidst the chaos Garz, a cerebrate that have survived the Brood War is interested in some psionic emanations from a terran battlecruiser. Little did he know that whatever he found there would change the course of the war.\n\n\n\nIf there any issues, other than the ones mentioned here, let me know.\n\nKnown issues:\n\nPressing the stop button in the briefing will interrupt only one line of the briefing transmission. The transmissions will continue to play even if you begin the missions.\n\nThe portrait during the briefing doesn't fit well into the frame.\n\nDuring the second mission the enemy base will stop building units and structures for a while.\n\nDuring the cinematic map you can see the edge of the map.\n\n\n\nCredits:\n\nModels and Textures by:\n\nHammer107: Kel-Morian Marine, Kel-Morian Medic, Kel-Morian Mechanic, Kel-Morian Siege Tank, Kel-Morian Marksman, Kel-Morian Incinerator, Kel-Morian Demolisher, Kel-Morian SCV, Kel-Morian Chimera, SC1 Factory, SC1 Bunker (stratostygo for the texture), SC1 Engineering Bay (stratostygo for the texture), SC1 Missile Turret, SC1 Starport, ComSat Station, SC1 Armory, Moebius Buildings and Units (Alleyviper for his Covert Ops Kain model and texture as basis for the moebius spectre's helmet; Moebius Siege Tank is based from Sheeldwall's Brimstone Tank, herdal8 for SC1 Nuclear Silo model, Thrikodias for his original Covert Ops model, Xibadivs for his original Machine Shop and Control Tower models), Kel-Morian unit models(Skylancer: Alleyvipersc2 for his Cerberus MK Destroyer as an base; Cyclone: Soulfilcher for converted HotS Cyclone model; Vulture: TaylorMouse for his SC1 Marine Armored Raynor in Vulture and Alleyvipersc2 for the UED Edge head textures(the latter apllies to the marine as well); Guard Robot: alleyviper for the ARES Walker model) Science Facility, Shakuras Sentry, Tal'darim Doomcrawler, Tal'darim Tormentor, Tal'darim Skyblade, Nerazim Reaver Portrait, Tal'darim Khaydarin Monolith, Nerazim Harbinger, Purifier Shuttle(model by GnaReffotsirk)\n\nSoulFilcher: Nerazim Probe, SC1 Supply Depot, Primal Drone\n\nXibadivs: Machine Shop(SoulFilcher for wireframe and button), Control Tower(SoulFilcher for wireframe and button)\n\nGnaReffotsirk: Creep Colony (with small edits by Hammer107), Shuttle Death Model\n\nNolanstar: Feral Zerg Building Textures (Hatchery/Lair/Hive, Evolution Chamber, Spawning Pool, Creep Colony, Hydralisk Den, etc.), Nerazim Building Textures (Nexus, Cybernetics Core, Photon Cannon, Gateway etc.)\n\nTooMuchTuch: Kel-Morian Combine Decal\n\nCacho56: SC1 Wall Flame Trap, SC1 Floor Gun Trap, SC1 Floor Missile Trap, SC1 Hydralisk, SC1 SCV Portrait\n\nGhostNova91: Infested Ghost, SC1 Zergling (Icon by Hammer107 and wireframe from Cacho56), SC1 Academy, Behemoth Battlecruiser\n\nThrikodias: Sunken Colony (icon by Hammer107 and wireframe by Supernova134), Targeting Drone, SC1 Photon Cannon, Covert Ops, Arbiter Tribunal, Signifier, Zerg Bug, Dropship Portrait, SC1 Academy Placement\n\nAlleyvipersc2: Infested Medic, Colonist Ship Placement, Command Bio Dome Placement, Swarm of Amon Zerg units and structures.\n\nherdal8: Tech Nuclear Silo, SC1 Science Vessel, SC1 Command Center, Nerazim Reaver, Purifier Build Effect, Nerazim Building Placement (Green), Taldarim Warp In Models (red), Tal'darim shield effects (red), Purifier shield effects (orange), Purifier placement models\n\nSupernova134: Outfitting Station\n\nZarxiel93: Shuttle Portrait\n\nKazor132: Skyblade Portrait, Tal'darim Build Effects (herdal8 helped with the material colors)\n\nOther(Models made by someone, who i couldn't find or remember the owner/s name): Nerazim Build Effect (green)\n\nSounds by:\n\nRaptorKirad: Sniper, Heavy Minigun, Shotgun, Rifle\n\n\n\nIf I missed someone or wrote a detail wrong let me know. The credits inside the launcher includes only assets that are used for the available maps.\n\n\n\nNow with the test maps released i can no longer feel as bad for tossing an ginormous mod file at you. In addition i can now focus on the actual campaign.\n\n\n\nEnglish is my second language, so i apologize for any potential grammar mistakes.\n\nIf you have some suggestions, feel free to share them.\n\n",
+    "author": "ragingballistaee",
+    "lastUpdated": "2018-11-03T11:26:18.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/240/168/screenshot2018-10-10-22_43_16.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/240/169/screenshot2018-10-29-21_24_13.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/240/170/screenshot2018-10-29-21_24_20.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/240/171/screenshot2018-10-29-21_24_36.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/240/172/screenshot2018-10-29-21_25_23.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

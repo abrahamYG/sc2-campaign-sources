@@ -1,0 +1,19 @@
+{
+    "id": "skyward-infestation",
+    "name": "Skyward Infestation",
+    "shortName": "Skyward Infestation",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/202/62/62/636178318707153279.jpg",
+    "description": "Terrain Test: Sky Ruins\n\nA single player scenario made to showcase what sky ruins would look like in SC2\n\nYes this is the second time i've done this, but this time you can actually do something other than look at it.\n\nScenario details:\n\nAid Karass in retaking the area from the Zerg.\n\nLength: Approx 45 mins (if you don't turtle near the end)\n\nDifficulty: Medium. If All In or In Utter Darkness were rather hard for you on Hard, then this may be a challenge towards the end, but like that matters, the point of this is to show off the environment.\n\n",
+    "author": "razorcase",
+    "lastUpdated": "2011-07-16T18:36:56.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/154/740/SC2_2010-08-31_19-35-39-57.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

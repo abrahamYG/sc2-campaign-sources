@@ -1,0 +1,19 @@
+{
+    "id": "intersection",
+    "name": "The Intersection",
+    "shortName": "The Intersection",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/907/62/62/636178325966022195.jpg",
+    "description": "You are an elite Hydralisk. Ordered by the Queen to search for a new breeding zone. After several days you have come across to this vast green land. Unfortunately, it is one of the most busy intersection point of Terran between their trading cities... Your job as an elite hydralisk is to kill all terran that come across and cut off their communication!\n\n**What is this in short?<br>\n\n \\- 3rd person action role playing game! (Hack & Slash)<br>\n\n \\- Zerg story!<br>\n\n \\- Midnight theme!**\n\nRate my map over at curse:<br>\n\n[http://sc2.curse.com/downloads/sc2-maps/details/intersection.aspx](<http://sc2.curse.com/downloads/sc2-maps/details/intersection.aspx>)\n\nFor screenshots and information: <br>\n\n[http://forums.sc2mapster.com/development/project-show-room/1349-the-intersection/](<http://forums.sc2mapster.com/development/project-show-room/1349-the-intersection/>)\n\nVideo:\n\n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/BBBeUmVRxNQ?wmode=transparent\" height=\"358\" width=\"638\"></iframe>\n\n<span style=\"color:#ffa500\">Special Thanks to xD.Schurke @ hiveworkshop to let me use energy texture for my new UI!</span>\n\n[![http://img696.imageshack.us/img696/3600/screenshotof.th.jpg](<http://img696.imageshack.us/img696/3600/screenshotof.th.jpg>)](</linkout?remoteUrl=http%253a%252f%252fimg696.imageshack.us%252fi%252fscreenshotof.jpg%252f>)\n\nChange Log:<br>\n\n v1.2b<br>\n\n \\- Added a counter measure to prevent Hydralus on getting stuck at cinematic for unknown reason.<br>\n\n \\- Fix queen turn issues after patch 13.\n\nv1.2a<br>\n\n \\- Greatly improve camera zooming.<br>\n\n \\- Greatly improve camera panning.<br>\n\n \\- Occlusion added, huge objects should turn invisible when it is in the way of the camera.\n\nv1.2 release<br>\n\n \\- Updated health and energy UI.<br>\n\n \\- Added a revive effect.<br>\n\n \\- Corrected Loading Screen version.<br>\n\n \\- Different text color when Ultralisk Spawn (Subtitle Text)<br>\n\n \\- Resize Thor to 2.5 due to patch 12 that reduces his size.<br>\n\n \\- Improve code efficiency.\n\nv1.1 release<br>\n\n \\- Skipping the 2nd cinematic now should correctly play \"Zerg battle music\".<br>\n\n \\- Heal at queen tip should not show at transitioning phase from event 1 to event 2.<br>\n\n \\- Boss Global Cooldown fix, AI improved by 1%.<br>\n\n \\- Boss shouldn't cast any ability if the last tower is killed at the east.<br>\n\n \\- Lives implemented (Now able to revive instantly at the starting point).<br>\n\n \\- Minor UI swap.\n\nv1.0a release<br>\n\n \\- Added Z, Q, S, D movement keys in addition to W, A, S, D to fit different keyboard mapping\n\n",
+    "author": "_ForgeUser4359024",
+    "lastUpdated": "2010-05-22T02:40:02.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/157/67/TheIntersection_JeffQ.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}

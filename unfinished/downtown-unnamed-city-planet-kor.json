@@ -1,0 +1,31 @@
+{
+    "id": "downtown-unnamed-city-planet-kor",
+    "name": "DOWNTOWN*, Unnamed City - PLANET KORHAL (CHAPTER 1 in TOP DOWN FIGHTER Campaign TBA)",
+    "shortName": "DOWNTOWN*, Unnamed City - PLANET KORHAL (CHAPTER 1 in TOP DOWN FIGHTER Campaign TBA)",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/371/62/62/636178320771144804.jpg",
+    "description": "My goal is to develop a city map. I decided that I will create a campaign with maps as sectors of a futuristic metro. The style will be a top down shooter focusing on controlling a individual fighter in a squadron co-op with human player.\n\nThe mission is to investigate an infested metropolis on the planet korhal. You will have to destroy objectives (hive spores/clusters) and survive flying zerg etc. If you can not defeat the threat a scorched earth protocol will be put into effect and its game over for a chunk of the planet. There will be a 60 minute or so time limit to complete objectives. This is experimental and the game play is subject to change because my focus is developing urban terrain.\n\nDEVELOPMENT OF CITY To be honest a lot of the city maps really suck on battlenet. Even in the main campaigns. I am designing the downtown area's on a grid based system with custom buildings made of cliff levels, units, and doodads. For this map to work the 90 degree top down approach will work best with cinematic scenes being shot at a 55 degree angle. I will have to limit the squadron size to 4 to 6. (see attached images for mini-map)\n\nHELP Ultimately I want to create a custom UI unit selection screen, the ability to save customized fighters and reuse them in future maps. I want the system to be set up on a point system. The more you play the more points you earn and you can use the money before the mission starts to upgrade your fighter and unlock abilities. More likely than not I will make a single player version and multiplayer version like team death match or something.\n\nI am not that skilled with the data editor so if any one is interested in helping me with this project or can redirect me to tutorials for creating custom A.I. PM me and I will develop a treatment if I receive a chance.\n\nI also welcome ideas for custom buildings simply using the data editor and custom fighter units.\n\nFor this game think space battle only on a smaller scale with individual fighters.\n\nI will post a tour of the terrain after it is completed... it may take a while to finish because building individual buildings are really tedious.\n\n",
+    "author": "_ForgeUser4956669",
+    "lastUpdated": "2010-12-29T00:40:42.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/155/425/1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/427/3.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/430/4.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/432/grid.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/155/435/2.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": []
+}
