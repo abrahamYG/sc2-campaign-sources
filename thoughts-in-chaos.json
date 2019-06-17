@@ -1,0 +1,267 @@
+{
+    "id": "thoughts-in-chaos",
+    "name": "The Antioch Chronicles: Thoughts in Chaos",
+    "shortName": "The Antioch Chronicles: Thoughts in Chaos",
+    "installed": true,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/803/62/62/636178335194396386.png",
+    "description": "# Thoughts in Chaos\nTeam Antioch is proud to release the conclusion of the Antioch Chronicles trilogy. Created in collaboration with Ruben Moreno and Eric Dieter, the creators of the first two episodes, this campaign is the product of three years of development and a team of over twenty people. Come visit us on our new Discord to share your thoughts, bugs, or just chat. https://discord.gg/m4wCpSf\n\n## Bug Reporting\nWe've done our best to test these maps, but no product survives first contact with the users. If you encounter any bugs, please report them in the issues tab. We'll try to address issues as quickly as we can.\n\n## Need to catch up on the story?\nIf you've forgotten what happened in Psionic Storm and Negative Suns, or if you just don't want to play them, you can read a summary of their events here. You can also download the first two episodes here. Or, you can watch community stalwart Jayborino's recordings of both episodes:\n\n\n## Team Antioch\nThoughts in Chaos wouldn't have been possible without the tireless work of countless people. Please check out the Team Antioch and Voice Cast pages for the complete credits.\n\n## Chaotic Thoughts\nChaotics Thoughts is a column we ran to provide insight into our development process and other things related to the campaign. You can see the articles published here:\n\n * Chaotic Thoughts #1: We might require more Vespene Gas\n * Chaotic Thoughts #2: I have been Framed!\n * Chaotic Thoughts #3: Protoss have no Mouths\n * Chaotic Thoughts #4: And Yet They Scream\n * Chaotic Thoughts #5: Are You Ready to Rourke?\n * Chaotic Thoughts #6: Better Times\n * Chaotic Thoughts #7: Lost Time\n",
+    "author": "lucidiguana",
+    "lastUpdated": "2019-02-06T23:38:33.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/160/133/ForumLogo.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/134/Better_Times_1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/136/Better_Times_2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/138/Go_Time_1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/141/Go_Time_2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/143/Mission_6_1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/145/Mission_6_2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/146/Sins_of_Our_Fathers_1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/147/Sins_of_Our_Fathers_2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/150/Sins_of_Our_Fathers_3.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/151/tac3-gold3.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/152/Vespene_Hallway.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/153/Nexus_Sketch.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/155/Nexus_Screenshot.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/156/Nexus_Screenshot_2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/158/mobaUI-2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/159/mobaUI-4.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/161/mobaUI-6.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/162/chaotic_thoughts_logo.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/164/mobaUI-1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/165/mobaUI-3.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/166/mobaUI-5.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/167/mobaUI-7.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/189/535/ep3logo.png"
+        }
+    ],
+    "patchNotes": [
+        {
+            "version": "v1.4.2028",
+            "date": "2019-02-26",
+            "notes": " * Mod: Prevented a situation where you sometimes could not push Rockwell's buttons.\n * 3-2: Fixed a bug where Rockwell took it very personally when you did push said buttons and would soft lock the game.\n * 3-3: Replaced the closed captioner responsible for the mismatch between Khrillian's written and spoken lines.\n"
+        },
+        {
+            "version": "v1.4.2026",
+            "date": "2019-02-26",
+            "notes": " * Mod - Dead Lynxes now leave corpses behind, rather than immediately disintegrating.\n* Mod - Corrected Laurioch and Khrillian's switched models.\n* All Maps - Re-encoded all audio files to significantly reduce file size.\n* Map Loader - Fixed an issue introduced by Blizzard's last patch that caused the map loading failures.\n* 3-2 - After significant cognitive behavioral therapy, the heroes no longer have a fear of heights, meaning they'll jump down when needed.\n* 3-4 - Dark Templar are now more easily rescued.\n* 3-4 - For those who wish to use it, there is now a skip option in the hangar puzzle.\n* 3-10 - Zethys now correctly moans and screams when killed.\n"
+        },
+        {
+            "version": "v1.4",
+            "date": "2019-02-26",
+            "notes": " * Mod - Addressed a rare bug that would cause there to be no mouse cursor on the victory screen.\n * Mod - Modified Radiance to heal the caster's shields, rather than health.\n * 3-1 - Tamed the errant Brood Fathers in the basement, who had a tendency to Run Amok.\n * 3-5 - Rather than standing placidly as they are massacred, the computer's units will now group up and attack the player.\n"
+        },
+        {
+            "version": "v1.3.1996",
+            "date": "2019-02-26",
+            "notes": " * 3-4 - Moloch no longer holds onto the past. No, that's a lie, Moloch still does that. But his whirlwind ability now uses a properly updated version.\n * 3-6 - When selected together, Turmalis and Khrillian now collaborate, allowing the player access to both's abilities.\n * 3-6 - Trained the High Templar in the high art of hallucination. The spell kind, not the kind of art you do while high.\n * 3-11 - Like in 3-6, the units now share a command card.\n * 3-11 - Invisible dummy units are now properly invisible, even though they're still dummies.\n * 3-11 - As is right and proper, the ending cutscene now has subtitles.\n"
+        },
+        {
+            "version": "v1.4.2028",
+            "date": "2019-02-26",
+            "notes": "* 3-4 - Hot Fixed a broken console that prevented progression."
+        },
+        {
+            "version": "v1.3.1994",
+            "date": "2019-02-26",
+            "notes": " * Mod - Clarified for Khrillian that his healing crystals should spawn near his teammates, not his enemies.\n * Mod - After wrestling with the data editor, corrected a number of command card errors.\n * Map Loader and Interludes - Encouraged the logo on the loading screen not to be shy and show itself if the map loader wasn’t used.\n * Map Loader - Because we want people to actually play these missions, clarified where you should start.\n * Map Loader - Shook the bugs out of the playtime calculator.\n * Interlude 1 - Sent Sevorak and Moloch to the beautician.\n * Interlude 1 - Finally paid the electric bill for Nannoth/Taeradun’s scenes.\n * 3-1 - After complaints from Moloch at the ease of his mission, have added detectors to his path.\n * 3-1 - Rather than rudely terminating their progress, upgrades and units now complete before switching into the catacombs.\n * 3-2 - The heroes have learned enough patience to wait to drop to the second floor until they've finished insulting each other.\n * 3-2 - Terran heroes no longer do their best Rambo impression at the Nexus exit and now exit the Nexus when the reach the Nexus exit.\n * 3-3 - Leashed the Eyes of the Xel'naga so they no longer rampage during cutscenes and resets.\n * 3-4 - If Moloch is feeling especially sneaky, he can now open the first door without going through the Jeffries Tubes.\n * 3-4 - Upgraded the hangar probes locomotive circuitry.\n * 3-4 - Paid the hangar control UI several compliments, thereby both brightening both its day and increasing visibility.\n * 3-7 - Melted some of Umbra’s snow to fill in areas that were missing water.\n"
+        },
+        {
+            "version": "v1.2",
+            "date": "2019-02-26",
+            "notes": " * Interlude 1 - Taught Gurney the correct spelling of Mad Dog's name. Who is Mad Dog? We can say this much: he's mad, dog.\n * 3-0 - Despite the Protoss's inherent sense of melodrama, we no longer pause the action while they have their say.\n * 3-0 - In the interest of creating a welcoming environment, we now add the Brood Fathers to the unit selection when they arrive on the scene.\n * 3-1 - Added beacons to clarify for Moloch the exit of each area in the caverns.\n * 3-4 - Upgraded hangar probe AI so it no longer suffers fatal pathing errors.\n * 3-5 - Rescued Haley from an alternate reality in which she had more to say during the camera room cutscene.\n * 3-5 - Newly Emboldened, the computer no longer hides under Haley's hero icon during transmissions.\n * 3-6 - Repeatedly ordering Khrillian to move no longer overcomes his normally considered approach.\n"
+        },
+        {
+            "version": "v1.1",
+            "date": "2019-02-26",
+            "notes": " * Interlude 1 - Haley, though still somewhat rude in general, no longer races ahead of Trench.\n * 3-0 - Turmalis and Khrillian now correctly withdraw from the battle, rather than obstinately standing and taking a beating.\n * 3-5 - Continuing in the theme of things not dying correctly, gas generators are may now be destroyed.\n * 3-7 - Ok, this is getting ridiculous, but the miners will now correctly destroy the rocks.\n"
+        }
+    ],
+    "mods": [
+        {
+            "name": "Main Mod",
+            "description": "Mod File",
+            "destination": "mods/ThoughtsInChaos.SC2Mod",
+            "source": "https://edge.forgecdn.net/files/2669/989/ThoughtsInChaosMod1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos.SC2Mod"
+        }
+    ],
+    "maps": [
+        {
+            "name": "Map Loader",
+            "description": "Loader for the campaign",
+            "destination": "maps/ThoughtsInChaos/MapLoader.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/MapLoader.SC2Map"
+        },
+        {
+            "name": "Episode 1 Interlude",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 1-9-5.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 1-9-5.SC2Map"
+        },
+        {
+            "name": "Episode 2 Interlude",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 2-9-5.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 2-9-5.SC2Map"
+        },
+        {
+            "name": "3-0: Prologue",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-0.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-0.SC2Map"
+        },
+        {
+            "name": "3-1",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-1.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-1.SC2Map"
+        },
+        {
+            "name": "3-2",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-2.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-2.SC2Map"
+        },
+        {
+            "name": "3-3",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-3.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-3.SC2Map"
+        },
+        {
+            "name": "3-4",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-4.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-4.SC2Map"
+        },
+        {
+            "name": "3-5",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-5.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-5.SC2Map"
+        },
+        {
+            "name": "3-6",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-6.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-6.SC2Map"
+        },
+        {
+            "name": "3-7",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-7.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-7.SC2Map"
+        },
+        {
+            "name": "3-8",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-8.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-8.SC2Map"
+        },
+        {
+            "name": "3-9",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-9.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-9.SC2Map"
+        },
+        {
+            "name": "3-10",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-10.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-10.SC2Map"
+        },
+        {
+            "name": "3-11",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-11.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-11.SC2Map"
+        },
+        {
+            "name": "3-12",
+            "description": "Launcher for the campaign",
+            "destination": "maps/ThoughtsInChaos/Antioch 3-12.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2669/985/ThoughtsInChaosMaps1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos/Antioch 3-12.SC2Map"
+        }
+    ]
+}

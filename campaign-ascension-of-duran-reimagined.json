@@ -1,0 +1,64 @@
+{
+    "id": "campaign-ascension-of-duran-reimagined",
+    "name": "[Campaign] Ascension of Duran Reimagined",
+    "shortName": "[Campaign] Ascension of Duran Reimagined",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/150/773/62/62/636599029431632504.png",
+    "description": "For eons the Protoss homeworld of Aiur had prevailed. This time has ended. The Protoss have ordered all of their forces back to Shakuras, while the Zerg Swarms succumb to infights between the rivaling Cerebrates, leaving the once pristine Aiur a smoldering ruin.\n\nWhat may seem like nothing but chaos to some is what others see as an opportunity to prove themselves - an opportunity to ascend.\n\n**This campaign is a reimagined version of the [original AoD](https://www.moddb.com/mods/ascension-of-duran) by Mantidz (aka Whiplash). It features SCII versions of all of the classic missions, as well as some new ones created by me.**\n\n\n## Story\n\nYour brood has been slaughtered. The wretched Dark Templar killed your Cerebrate. You cannot hear the Hive Mind anymore; the calming voices of your thousands of brothers and sisters. All you can still hear are the agonized screams of your children. Faint - yet full of pain.\n\nYou are filled with rage. You thirst for revenge. But what could possibly still this thirst? **Who** could still this thirst?**\n\n# Features\n\n- Campaign launcher\n- A variety of difficulty and help settings\n- A storyline taking place during the Brood War\n- High-quality terraining\n- SCI-style briefings\n- Additional unit upgrades\n- Unlockable achievements\n\n# How to play\n\nDownload the newest version of the campaign maps and the launcher [v0.6.2]. Unpack the downloaded folder and open the README inside. If you follow the installation instructions there you'll be good to go!\n\nIf you'd like to keep up with the development of AoD, take a look at the [workplace thread](<https://www.sc2mapster.com/forums/resources/project-workplace/234419-campaign-ascension-of-duran-reimagined>) every now and then.\n\n\n\nThis is my first attempt at creating a custom campaign. If any aspect of storyline or gameplay seems clunky or inappropriate to you, feel free to send a message to *Bumm.Knall.Peng@gmail.com*; or visit the official [feedback thread](<https://www.sc2mapster.com/forums/player-zone/map-feedback/233545-map-feedback-ascension-of-duran-reimagined#c1>).\n\n\n\n# Credits\n\nBig credit goes to the SC Mass Recall-team for their incredible mod, to Cacho56,Alleyvipersc2, Hammer107, DaveSpectre122, GnaReffotsirk, herdal8, GhostNova91 and Kazor132 for their custom assets, to Eiviyn, Matic, and MoDTassadar for their libraries, to VastanX, ksnumedia and TChosenOne for providing feedback, to kuuls, LordDz, Chen'la and DeltronLive for testing, to CybrosX for his awesome campaigns (I learned mapmaking basics by looking at the triggers of his WotT campaign) and to Whiplash (aka Mantidz) for the original AoD. Don't stop being an inspiration!\n\n",
+    "author": "bummknallpeng",
+    "lastUpdated": "2019-05-04T14:07:18.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/251/12/screenshot2019-04-22-12_01_36.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/13/terrain-024.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/14/terrain-028.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/15/terrain-094.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/16/terrain-095.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/17/terrain-023.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/19/terrain-025.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/20/terrain-020.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/21/terrain-035.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/22/terrain-033aod.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/23/terrain-032.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/26/terrain_048.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/251/27/terrain_047.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": [
+        {
+            "name": "AoD Campaign/AoD Launcher.SC2Map",
+            "description": "",
+            "destination": "maps/AoD Campaign/AoD Launcher.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/AoD Campaign/AoD Launcher.SC2Map",
+            "sourceFormat": "zip",
+            "fileEntry": "AoD Campaign/AoD Launcher.SC2Map"
+        }
+    ]
+}
