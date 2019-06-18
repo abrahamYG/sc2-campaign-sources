@@ -15,5 +15,30 @@
     ],
     "patchNotes": [],
     "mods": [],
-    "maps": []
+    "maps": [
+        {
+            "name": "Outcome",
+            "description": "",
+            "destination": "maps/Abathur_01.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-evolution-swarm/files/922739/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Abathur_01.SC2Map"
+        },
+        {
+            "name": "Gathering",
+            "description": "",
+            "destination": "maps/Abathur_02.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-evolution-swarm/files/950243/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Abathur_02.SC2Map"
+        },
+        {
+            "name": "Threatened Memories ",
+            "description": "",
+            "destination": "maps/Abathur_03.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-evolution-swarm/files/950246/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Abathur_03.SC2Map"
+        }
+    ]
 }

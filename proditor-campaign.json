@@ -2,18 +2,129 @@
     "id": "proditor-campaign",
     "name": "The Proditor Campaign",
     "shortName": "The Proditor Campaign",
-    "installed": false,
+    "installed": true,
     "summmary": "",
     "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/318/62/62/636178320267661770.png",
-    "description": "**THE PLOT**\n\n*\"The year 2500 is the year that made history as the year of the zerg invasion of the planet Aiur. Meet the fate of the biggest traitor to the protoss race and see what is the price of honor and dignity.\"*\n\nCampaign events of \"The Proditor\" are happening in parallel to the events of the final phase of the protoss campaign \"The Fallen\" - the third Starcraft campaign - as well as in certain passages refer to the story of 'Brood War' or even to 'Starcraft II Wings of Liberty'. It is a metaphorical story about the collapse (moral or psychological), but also a philosophical debate about betrayal - her motives, effects and on attempts of rehabilitation. The main character is title Proditor (the world 'proditor,proditoris' means 'traitor' in latin), protoss, which rejected the ideals of his race and joined the ranks of the Zerg who were overruning his homeworld, also helping the Queen of Blades in carrying out her nefarious plan. Many locations and characters are fictional but they correspond to the Blizzard's original plot.\n\n**THE DIFFICULTY**\n\nThere's the possibility of choosing the level of difficulty in all episodes. You can choose between the level \"Easy\", \"Normal\", \"Hard\" and \"Epic\". Level depends on the frequency of the waves, also their strength and speed of the game.\n\nThe difficulty of the campaign is average. Some missions are \"lighter\", others more difficult. Overall, the campaign is intended rather for those who have completed at least WoL in level \"Normal.\" In the campaign, I use the concept of a strong hero, capable of influencing the course of the missions and such, which can be used freely in the first series - it's not neccesary to leave him in the base for security. Often the computer (through scripts) behaves like a man, so the campaign is also a kind of training before playing multiplayer.\n\n**THE INSTALLATION**\n\nThe installation of \"The Proditor\" campaign is very simple. You have to download \\_all files\\_ (currently 8!) into your \\_STARCRAFT GAME FOLDER\\_ directly in folder \"Maps\" (so for example the path MUST BE like C:\\Program Files\\Starcraft 2\\Maps\\Episode I - The Collapse.SC2Map). Otherwise map loading will not be working. It won't be working if you for example create a folder \"Proditor\" in folder \"Maps\" - they have to be directly in \"Maps\" folder! To start the game just open \"Episode I - The Collapse\" in the SC2 editor and click \"Start Test\". The rest of maps will be loaded automatically (of course when you finish previous one). And of course - subscribes on!\n\n**NOTE 1**\n\nAs you propably noticed I'm not very good in english. The campaign is originally full polish and it has been translated by myself (with help of google translator and english dictionaries) so there could be a few errors in translation or incomprehensible sentences or phrases. Also there could be still somewhere a single polish world or phrase in case if I skipped it inadvertently (in a tooltip of a ability, or unit's name or somewhere else). So if you will notice an error like that - inform please. And also - the triggers and some of data are still polish - I only translate the part for players. :) Sorry about that.\n\n**NOTE 2**\n\n- I would like to thank ProzaicMuze for his berserk ability - I used it with some modifications. Very good data work! \n- Thank to Blizzard for a Fenix' and Zealots' artworks (I used it as a loading screen and icons of heroes) \n- And finally very thanks to my brother - Sify - a Starcraft player who is a beta tester of my maps. Thank you! \n- Thanks for Defiler - the tester which has played all the missions at the moment! :) \n\n\n\n**CAMPAIGN PROGRESS**\n\n- Episode 1: alpha \n- Episode 2: alpha \n- Episode 3: alpha \n- Episode 4: alpha \n- Episode 5: alpha \n- Episode 6: alpha \n- Episode 7: alpha \n- Episode 8: (final) alpha released - in one version because of stop development of the project \n\n\n\n- Expansion - Episode 1: alpha \n- Expansion - Episode 4: alpha \n\n\n\nAfter that I want to present you a bunch of screenshots. And - have a nice play. I hope you enjoy it.\n\n[EPISODE I - THE COLLAPSE](<http://www.sc2mapster.com/maps/proditor-campaign/files/34-episode-i-the-collapse/>)![null](<http://oi52.tinypic.com/52yqrs.jpg>)\n\n[EPISODE II - THE DESCENDANT](<http://www.sc2mapster.com/maps/proditor-campaign/files/37-episode-ii-the-descendant/>)![null](<http://oi43.tinypic.com/1ryon9.jpg>)\n\n[EPISODE III - MANY-AS-ONE](<http://www.sc2mapster.com/maps/proditor-campaign/files/9-episode-iii-b-many-as-one/>) AND [EPISODE IV - MANY-AS-ONE](<http://www.sc2mapster.com/maps/proditor-campaign/files/27-episode-iv-a-many-as-one/>)![null](<http://oi56.tinypic.com/2ns6drc.jpg>)\n\n[EPISODE III - THE SCISSORS](<http://www.sc2mapster.com/maps/proditor-campaign/files/7-episode-iii-a-the-scissors/>) AND [EPISODE IV - THE SCISSORS](<http://www.sc2mapster.com/maps/proditor-campaign/files/28-episode-iv-b-the-scissors/>)![null](<http://oi55.tinypic.com/2hqryp1.jpg>)\n\n[EPISODE V - THE WIND ROSE](<http://www.sc2mapster.com/maps/proditor-campaign/files/32-episode-v-the-wind-rose/>)![null](<http://oi44.tinypic.com/343orgw.jpg>)\n\n[EPISODE VI - THE ASTHMA](<http://www.sc2mapster.com/maps/proditor-campaign/files/25-episode-vi-the-asthma/>)![null](<http://oi56.tinypic.com/2sbn8r5.jpg>)\n\n[EPISODE VII - THE SHADE](<http://www.sc2mapster.com/maps/proditor-campaign/files/22-episode-vii-the-shade/>)![null](<http://oi51.tinypic.com/72t0ft.jpg>)\n\n[EPISODE VIII - THE PRODIGAL SON](<http://www.sc2mapster.com/maps/proditor-campaign/files/41-episode-viii-the-prodigal-son/>)![null](<http://oi43.tinypic.com/2llczmp.jpg>)\n\n",
-    "author": "_ForgeUser6705292",
+    "description": "**THE PLOT**\n\n*\"The year 2500 is the year that made history as the year of the zerg invasion of the planet Aiur. Meet the fate of the biggest traitor to the protoss race and see what is the price of honor and dignity.\"*\n\nCampaign events of \"The Proditor\" are happening in parallel to the events of the final phase of the protoss campaign \"The Fallen\" - the third Starcraft campaign - as well as in certain passages refer to the story of 'Brood War' or even to 'Starcraft II Wings of Liberty'. It is a metaphorical story about the collapse (moral or psychological), but also a philosophical debate about betrayal - her motives, effects and on attempts of rehabilitation. The main character is title Proditor (the world 'proditor,proditoris' means 'traitor' in latin), protoss, which rejected the ideals of his race and joined the ranks of the Zerg who were overruning his homeworld, also helping the Queen of Blades in carrying out her nefarious plan. Many locations and characters are fictional but they correspond to the Blizzard's original plot.\n\n**THE DIFFICULTY**\n\nThere's the possibility of choosing the level of difficulty in all episodes. You can choose between the level \"Easy\", \"Normal\", \"Hard\" and \"Epic\". Level depends on the frequency of the waves, also their strength and speed of the game.\n\nThe difficulty of the campaign is average. Some missions are \"lighter\", others more difficult. Overall, the campaign is intended rather for those who have completed at least WoL in level \"Normal.\" In the campaign, I use the concept of a strong hero, capable of influencing the course of the missions and such, which can be used freely in the first series - it's not neccesary to leave him in the base for security. Often the computer (through scripts) behaves like a man, so the campaign is also a kind of training before playing multiplayer.\n\n**THE INSTALLATION**\n\nThe installation of \"The Proditor\" campaign is very simple. You have to download \\ all files\\  (currently 8!) into your \\ STARCRAFT GAME FOLDER\\  directly in folder \"Maps\" (so for example the path MUST BE like C:\\Program Files\\Starcraft 2\\Maps\\Episode I - The Collapse.SC2Map). Otherwise map loading will not be working. It won't be working if you for example create a folder \"Proditor\" in folder \"Maps\" - they have to be directly in \"Maps\" folder! To start the game just open \"Episode I - The Collapse\" in the SC2 editor and click \"Start Test\". The rest of maps will be loaded automatically (of course when you finish previous one). And of course - subscribes on!\n\n**NOTE 1**\n\nAs you propably noticed I'm not very good in english. The campaign is originally full polish and it has been translated by myself (with help of google translator and english dictionaries) so there could be a few errors in translation or incomprehensible sentences or phrases. Also there could be still somewhere a single polish world or phrase in case if I skipped it inadvertently (in a tooltip of a ability, or unit's name or somewhere else). So if you will notice an error like that - inform please. And also - the triggers and some of data are still polish - I only translate the part for players. :) Sorry about that.\n\n**NOTE 2**\n\n- I would like to thank ProzaicMuze for his berserk ability - I used it with some modifications. Very good data work! \n- Thank to Blizzard for a Fenix' and Zealots' artworks (I used it as a loading screen and icons of heroes) \n- And finally very thanks to my brother - Sify - a Starcraft player who is a beta tester of my maps. Thank you! \n- Thanks for Defiler - the tester which has played all the missions at the moment! :) \n\n\n\n**CAMPAIGN PROGRESS**\n\n- Episode 1: alpha \n- Episode 2: alpha \n- Episode 3: alpha \n- Episode 4: alpha \n- Episode 5: alpha \n- Episode 6: alpha \n- Episode 7: alpha \n- Episode 8: (final) alpha released - in one version because of stop development of the project \n\n\n\n- Expansion - Episode 1: alpha \n- Expansion - Episode 4: alpha \n\n\n\nAfter that I want to present you a bunch of screenshots. And - have a nice play. I hope you enjoy it.\n\n[EPISODE I - THE COLLAPSE](<http://www.sc2mapster.com/maps/proditor-campaign/files/34-episode-i-the-collapse/>)![null](<http://oi52.tinypic.com/52yqrs.jpg>)\n\n[EPISODE II - THE DESCENDANT](<http://www.sc2mapster.com/maps/proditor-campaign/files/37-episode-ii-the-descendant/>)![null](<http://oi43.tinypic.com/1ryon9.jpg>)\n\n[EPISODE III - MANY-AS-ONE](<http://www.sc2mapster.com/maps/proditor-campaign/files/9-episode-iii-b-many-as-one/>) AND [EPISODE IV - MANY-AS-ONE](<http://www.sc2mapster.com/maps/proditor-campaign/files/27-episode-iv-a-many-as-one/>)![null](<http://oi56.tinypic.com/2ns6drc.jpg>)\n\n[EPISODE III - THE SCISSORS](<http://www.sc2mapster.com/maps/proditor-campaign/files/7-episode-iii-a-the-scissors/>) AND [EPISODE IV - THE SCISSORS](<http://www.sc2mapster.com/maps/proditor-campaign/files/28-episode-iv-b-the-scissors/>)![null](<http://oi55.tinypic.com/2hqryp1.jpg>)\n\n[EPISODE V - THE WIND ROSE](<http://www.sc2mapster.com/maps/proditor-campaign/files/32-episode-v-the-wind-rose/>)![null](<http://oi44.tinypic.com/343orgw.jpg>)\n\n[EPISODE VI - THE ASTHMA](<http://www.sc2mapster.com/maps/proditor-campaign/files/25-episode-vi-the-asthma/>)![null](<http://oi56.tinypic.com/2sbn8r5.jpg>)\n\n[EPISODE VII - THE SHADE](<http://www.sc2mapster.com/maps/proditor-campaign/files/22-episode-vii-the-shade/>)![null](<http://oi51.tinypic.com/72t0ft.jpg>)\n\n[EPISODE VIII - THE PRODIGAL SON](<http://www.sc2mapster.com/maps/proditor-campaign/files/41-episode-viii-the-prodigal-son/>)![null](<http://oi43.tinypic.com/2llczmp.jpg>)\n\n",
+    "author": " ForgeUser6705292",
     "lastUpdated": "2011-08-03T22:00:15.000Z",
     "screenshots": [
         {
-            "src": "https://media.forgecdn.net/attachments/155/266/Proditor_miniature.png"
+            "src": "https://media.forgecdn.net/attachments/155/266/Proditor miniature.png"
         }
     ],
     "patchNotes": [],
     "mods": [],
-    "maps": []
+    "maps": [
+        {
+            "name": "Episode I - The Collapse.SC2Map",
+            "description": "",
+            "destination": "maps/Episode I - The Collapse.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/566008/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode I - The Emptiness.SC2Map",
+            "description": "",
+            "destination": "maps/Episode I - The Emptiness.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/928721/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode II - The Descendant.SC2Map",
+            "description": "",
+            "destination": "maps/Episode II - The Descendant.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/566545/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode III (A) - The Scissors",
+            "description": "",
+            "destination": "maps/Episode III (A) - The Scissors",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/563896/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode III (B) - Many-As-One.SC2Map",
+            "description": "",
+            "destination": "maps/Episode III (B) - Many-As-One.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/563898/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode IV (A) - Many-As-One.SC2Map",
+            "description": "",
+            "destination": "maps/Episode IV (A) - Many-As-One.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/565573/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode IV (B) - The Scissors.SC2Map",
+            "description": "",
+            "destination": "maps/Episode IV (B) - The Scissors.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/565574/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode IV - The Rotten Apple.SC2Map",
+            "description": "",
+            "destination": "maps/Episode IV - The Rotten Apple.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/923572/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode V - The Wind Rose.SC2Map",
+            "description": "",
+            "destination": "maps/Episode V - The Wind Rose.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/565851/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode VI - The Asthma.SC2Map",
+            "description": "",
+            "destination": "maps/Episode VI - The Asthma.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/565353/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode VII - The Shade.SC2Map",
+            "description": "",
+            "destination": "maps/Episode VII - The Shade.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/565105/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        },
+        {
+            "name": "Episode VIII - The Prodigal Son (A) Confederates.SC2Map",
+            "description": "",
+            "destination": "maps/Episode VIII - The Prodigal Son (A) Confederates.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/proditor-campaign/files/928682/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        }
+    ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

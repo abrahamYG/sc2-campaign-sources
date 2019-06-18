@@ -23,245 +23,278 @@
             "notes": " * Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n * Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
     ],
-    "mods": [],
+    "mods": [
+        {
+            "name": "Aureolin Eclipse Mod",
+            "description": "",
+            "destination": "mods/AEMod.SC2Mod",
+            "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
+            "sourceFormat": "",
+            "fileEntry": "AEMod.SC2Mod"
+        }
+    ],
     "maps": [
+        {
+            "name": "Crimson Moon - Mission Launcher",
+            "description": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 00 - Mission Launcher.SC2Map",
+            "fileEntry": "Crimson Moon 00 - Mission Launcher.SC2Map",
+            "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+            "sourceFormat": "zip"
+        },
         {
             "name": "Crimson Moon - Roverville",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 01.SC2Map",
+            "fileEntry": "Crimson Moon 01.SC2Map",
             "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Crimson Moon - Quarinius",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 02.SC2Map",
+            "fileEntry": "Crimson Moon 02.SC2Map",
             "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Crimson Moon - A Future Uncertain",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 03.SC2Map",
+            "fileEntry": "Crimson Moon 03.SC2Map",
             "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Crimson Moon - The Black Khan",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 04.SC2Map",
+            "fileEntry": "Crimson Moon 04.SC2Map",
             "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Crimson Moon - The Shortest Straw",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 05.SC2Map",
+            "fileEntry": "Crimson Moon 05.SC2Map",
             "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Crimson Moon - Veil of Frost",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 06.SC2Map",
+            "fileEntry": "Crimson Moon 06.SC2Map",
             "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Crimson Moon - Graveyard of Memories",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 07.SC2Map",
+            "fileEntry": "Crimson Moon 07.SC2Map",
             "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Crimson Moon - Assume the Position",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 08.SC2Map",
+            "fileEntry": "Crimson Moon 08.SC2Map",
             "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Crimson Moon - Perfect Soldiers",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 09.SC2Map",
+            "fileEntry": "Crimson Moon 09.SC2Map",
             "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Crimson Moon - Under a Crimson Moon",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Crimson Moon/Crimson Moon 10.SC2Map",
+            "fileEntry": "Crimson Moon 10.SC2Map",
             "source": "https://edge.forgecdn.net/files/894/843/CrimsonMoon.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Amber Sun - Mission Launcher",
+            "description": "",
+            "destination": "maps/Amber Sun/Amber Sun 00 - Mission Launcher.SC2Map",
+            "fileEntry": "Amber Sun 00 - Mission Launcher.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Amber Sun - The Overlord Hunt",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Amber Sun/Amber Sun 01.SC2Map",
+            "fileEntry": "Amber Sun 01.SC2Map",
             "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Amber Sun - Bayo",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Amber Sun/Amber Sun 02.SC2Map",
+            "fileEntry": "Amber Sun 02.SC2Map",
             "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Amber Sun - The Khaal-Ro",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Amber Sun/Amber Sun 03.SC2Map",
+            "fileEntry": "Amber Sun 03.SC2Map",
             "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Amber Sun - Alzadhar",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Amber Sun/Amber Sun 04.SC2Map",
+            "fileEntry": "Amber Sun 04.SC2Map",
             "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Amber Sun - Homecoming",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Amber Sun/Amber Sun 05.SC2Map",
+            "fileEntry": "Amber Sun 05.SC2Map",
             "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Amber Sun - A Rose with Thorns",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Amber Sun/Amber Sun 06.SC2Map",
+            "fileEntry": "Amber Sun 06.SC2Map",
             "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Amber Sun - Desert Dogs",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Amber Sun/Amber Sun 07.SC2Map",
+            "fileEntry": "Amber Sun 07.SC2Map",
             "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Amber Sun - The Pragmatist",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Amber Sun/Amber Sun 08.SC2Map",
+            "fileEntry": "Amber Sun 08.SC2Map",
             "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Amber Sun - Assassins in the Fog",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Amber Sun/Amber Sun 09.SC2Map",
+            "fileEntry": "Amber Sun 09.SC2Map",
             "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Amber Sun - Back to Square One",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Amber Sun/Amber Sun 10.SC2Map",
+            "fileEntry": "Amber Sun 10.SC2Map",
             "source": "https://edge.forgecdn.net/files/2368/588/AmberSun.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Aureolin Eclipse - Mission Launcher",
+            "description": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 00 - Mission Launcher.SC2Map",
+            "fileEntry": "Aureolin Eclipse 00 - Mission Launcher.SC2Map",
+            "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Aureolin Eclipse - Yojimbo",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 01.SC2Map",
+            "fileEntry": "Aureolin Eclipse 01.SC2Map",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Aureolin Eclipse - Bad Company",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 02.SC2Map",
+            "fileEntry": "Aureolin Eclipse 02.SC2Map",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Aureolin Eclipse - All-Clear Signal",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 03.SC2Map",
+            "fileEntry": "Aureolin Eclipse 03.SC2Map",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Aureolin Eclipse - Ossos",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 04.SC2Map",
+            "fileEntry": "Aureolin Eclipse 04.SC2Map",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Aureolin Eclipse - Borealis",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 05.SC2Map",
+            "fileEntry": "Aureolin Eclipse 05.SC2Map",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Aureolin Eclipse - Memories of a Mercenary",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 06.SC2Map",
+            "fileEntry": "Aureolin Eclipse 06.SC2Map",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Aureolin Eclipse - The Mercenary and the Pragmatist",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 07.SC2Map",
+            "fileEntry": "Aureolin Eclipse 07.SC2Map",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Aureolin Eclipse - Valley of Blood",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 08.SC2Map",
+            "fileEntry": "Aureolin Eclipse 08.SC2Map",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Aureolin Eclipse - Winter Warriors",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 09.SC2Map",
+            "fileEntry": "Aureolin Eclipse 09.SC2Map",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         },
         {
             "name": "Aureolin Eclipse - Old Acquaintances",
             "description": "",
-            "destination": "",
-            "fileEntry": "",
+            "destination": "maps/Aureolin Eclipse/Aureolin Eclipse 10.SC2Map",
+            "fileEntry": "Aureolin Eclipse 10.SC2Map",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
             "sourceFormat": "zip"
         }

@@ -6,7 +6,7 @@
     "summmary": "",
     "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/150/773/62/62/636599029431632504.png",
     "description": "For eons the Protoss homeworld of Aiur had prevailed. This time has ended. The Protoss have ordered all of their forces back to Shakuras, while the Zerg Swarms succumb to infights between the rivaling Cerebrates, leaving the once pristine Aiur a smoldering ruin.\n\nWhat may seem like nothing but chaos to some is what others see as an opportunity to prove themselves - an opportunity to ascend.\n\n**This campaign is a reimagined version of the [original AoD](https://www.moddb.com/mods/ascension-of-duran) by Mantidz (aka Whiplash). It features SCII versions of all of the classic missions, as well as some new ones created by me.**\n\n\n## Story\n\nYour brood has been slaughtered. The wretched Dark Templar killed your Cerebrate. You cannot hear the Hive Mind anymore; the calming voices of your thousands of brothers and sisters. All you can still hear are the agonized screams of your children. Faint - yet full of pain.\n\nYou are filled with rage. You thirst for revenge. But what could possibly still this thirst? **Who** could still this thirst?**\n\n# Features\n\n- Campaign launcher\n- A variety of difficulty and help settings\n- A storyline taking place during the Brood War\n- High-quality terraining\n- SCI-style briefings\n- Additional unit upgrades\n- Unlockable achievements\n\n# How to play\n\nDownload the newest version of the campaign maps and the launcher [v0.6.2]. Unpack the downloaded folder and open the README inside. If you follow the installation instructions there you'll be good to go!\n\nIf you'd like to keep up with the development of AoD, take a look at the [workplace thread](<https://www.sc2mapster.com/forums/resources/project-workplace/234419-campaign-ascension-of-duran-reimagined>) every now and then.\n\n\n\nThis is my first attempt at creating a custom campaign. If any aspect of storyline or gameplay seems clunky or inappropriate to you, feel free to send a message to *Bumm.Knall.Peng@gmail.com*; or visit the official [feedback thread](<https://www.sc2mapster.com/forums/player-zone/map-feedback/233545-map-feedback-ascension-of-duran-reimagined#c1>).\n\n\n\n# Credits\n\nBig credit goes to the SC Mass Recall-team for their incredible mod, to Cacho56,Alleyvipersc2, Hammer107, DaveSpectre122, GnaReffotsirk, herdal8, GhostNova91 and Kazor132 for their custom assets, to Eiviyn, Matic, and MoDTassadar for their libraries, to VastanX, ksnumedia and TChosenOne for providing feedback, to kuuls, LordDz, Chen'la and DeltronLive for testing, to CybrosX for his awesome campaigns (I learned mapmaking basics by looking at the triggers of his WotT campaign) and to Whiplash (aka Mantidz) for the original AoD. Don't stop being an inspiration!\n\n",
-    "author": "bummknallpeng",
+    "author": "BummKnallPeng",
     "lastUpdated": "2019-05-04T14:07:18.000Z",
     "screenshots": [
         {
@@ -53,12 +53,60 @@
     "mods": [],
     "maps": [
         {
-            "name": "AoD Campaign/AoD Launcher.SC2Map",
-            "description": "",
+            "name": "Mission Launcher",
+            "description": "Mission Launcher for Ascension of Duran",
             "destination": "maps/AoD Campaign/AoD Launcher.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/AoD Campaign/AoD Launcher.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
             "sourceFormat": "zip",
             "fileEntry": "AoD Campaign/AoD Launcher.SC2Map"
+        },
+        {
+            "name": "Vengeance",
+            "description": "Your brood has been slaughtered. The wretched Dark Templar killed your Cerebrate. You cannot hear the Hive Mind anymore; the calming voices of your thousands of brothers and sisters. All you can still hear are the agonized screams of your children. Faint - yet full of pain. \n\nYou are filled with rage. You thirst for revenge. But what could possibly still this thirst? Who could still this thirst?",
+            "destination": "maps/AoD Campaign/AoD 01.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "sourceFormat": "zip",
+            "fileEntry": "AoD Campaign/AoD 01.SC2Map"
+        },
+        {
+            "name": "The Test",
+            "description": "While some of your children still feed on the battered corpses of your enemies, Duran has led you through the Warp Gate. He intends to serve a new master and thinks that he will find him on Aiur. Your hatred for the Protoss still burns like a star and you hunger for more of them to kill, so Aiur is a welcome destination for you. \n\nBut what about the waring Cerebrates? You fear that there might be more enemies waiting for you than just the firstborn.",
+            "destination": "maps/AoD Campaign/AoD 02.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "sourceFormat": "zip",
+            "fileEntry": "AoD Campaign/AoD 02.SC2Map"
+        },
+        {
+            "name": "Swarms of Aiur",
+            "description": "The Queen of Blades has welcomed you among her minions, but the survival of your children is not yet assured. As you look upon the followers of your new master, you begin to realize that the Queen has been absent for far too long. \n\nTurmoil is spreading through the local broods, their thoughts lack determination and their minds are full of doubt. \n\nWhen it is their turn to gaze upon their new allies, they see a weak, exhausted band of refugees. Prey. You can feel it. And they know you can.",
+            "destination": "maps/AoD Campaign/AoD 03.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "sourceFormat": "zip",
+            "fileEntry": "AoD Campaign/AoD 03.SC2Map"
+        },
+        {
+            "name": "Sharktooth",
+            "description": "When you stand amidst the hives that once threatened to destroy you, you feel no hatred for them. You thought that they were your enemies, but when you fought at their side, your mind reached out to the ones who rebelled and you felt that there was something clouding their thoughts, something that had driven them into this frenzy in the first place.\n\nWhen you pierced the shroud to see what it was all you found was darkness.",
+            "destination": "maps/AoD Campaign/AoD 04.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "sourceFormat": "zip",
+            "fileEntry": "AoD Campaign/AoD 04.SC2Map"
+        },
+        {
+            "name": "The Keystone",
+            "description": "You never infested terrans before, but you did what you had to. It was when you began hearing their screams that you felt the darkness again. \n\nThe voices whispered of deceit. A tortured soul that wants to break free. The more obedient your new brethren got, the fewer voices remained and when you finished your work, the Hive Mind had long since drowned out what was left of them.",
+            "destination": "maps/AoD Campaign/AoD 05.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "sourceFormat": "zip",
+            "fileEntry": "AoD Campaign/AoD 05.SC2Map"
+        },
+        {
+            "name": "Betrayal",
+            "description": "You are aware of what I have done and I am not asking you to like it.\n\tKnow that I have only allied with the Protoss in order to get the artifact - but now that I have it, I am able to share. Kerrigan. Duran. I can help you break free from their control! We will carry the legacy of the Overmind across the stars and we will never have to harm our kind again!\n\nHelp me and we will kill the false rulers. Help me and we will be Zerg again.\n\nI don't want to have to kill you too.",
+            "destination": "maps/AoD Campaign/AoD 06.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "sourceFormat": "zip",
+            "fileEntry": "AoD Campaign/AoD 06.SC2Map"
         }
     ]
 }

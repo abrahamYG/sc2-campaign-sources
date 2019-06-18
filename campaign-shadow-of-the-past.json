@@ -2,7 +2,7 @@
     "id": "campaign-shadow-of-the-past",
     "name": "[Campaign] Shadow of the Past",
     "shortName": "[Campaign] Shadow of the Past",
-    "installed": true,
+    "installed": false,
     "summmary": "",
     "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/193/524/62/62/636868521699918824.jpeg",
     "description": "![null](<https://i.imgur.com/JLHQ1Jb.png>)\n\n## The Dark Story Begins Here / Начало Темной Истории\n\n[Race with Destiny](<https://www.sc2mapster.com/projects/campaign-race-with-destiny>)\n## Annotation / Аннотация\n\n**[ENG] **In the secret laboratory located deep in the depths of the planet Phobos, Eledis and his scientists are conducting monstrous experiments to create a new weapon. A countless number of their test subjects, including humans, died during their experiments... <br>\n\n After many unsuccessful experiments and a loss of confidence in the program, Eledis was ready to shut the project down and reassign the staff to new projects, until you unexpectedly reawaken...<br>\n\n**[RU] **В засекреченной лаборатории, находящейся глубоко в недрах планеты Фобос, Эледис и его ученые проводят чудовищные опыты по созданию нового оружия. Неизвестно, сколько живых организмов, включая людей, погибло во время их экспериментов..<br>\n\n После множества неудачных опытов и уверенности в провале программы, Эледис готов был свернуть этот проект и заняться новыми разработками. Но вы, неожиданно для всех, приходите в себя...<br>\n\n## How to install / Как установить\n\n**[ENG] Quick Installation**\n\n- Unzip the zip-files.\n- Copy all the files within the unzipped folder.\n- Open your SC2 directory [by default it should be **C:/Program Files/Starcraft II/** ]\n- Open the **Maps** folder within your SC2 directory. If this folder does not exist, create a new folder and name it **Maps**.\n- Inside the **Maps** folder, create a new folder with the name: **Shadow of the Past ***(copy the name from here)*\n- Paste all the files inside the **Shadow of the Past** folder.\n- Run SC2 editor and run the **SotP\\_Launcher**.\n\n**[RU] Быстрая установка**\n\n- Разархивируйте скачанные файлы.\n- Скопируйте все разархивированные файлы.\n- Откройте директорию SC2 [по умолчанию **C:/Program Files/Starcraft II/** ].\n- Откройте папку **Maps** в директории SC2. Если такой папки нет, создайте ее и назовите **Maps**.\n- Внутри папки **Maps** создайте еще одну папку: **Shadow of the Past ***(скопируйте название отсюда)*\n- Вставьте все скопированные файлы в папку** Shadow of the Past** .\n- Запустите редактор SC2 и откройте в нем **SotP\\_Launcher**.\n\n## Features\n- An exciting and intriguing continuation of storyline\n- Different gameplay missions\n- Unique characters\n- Cinematics in all missions\n- Opportunity to play with new skins for units and structures\n\n## Main Characters\n\n- Byron Kane\n- Eledis Limberton\n- Xarmat\n- Nightling\n- Moriy\n\n## Missions\n\n- **Mission 1 - The Dark Deal**\n- **Mission 2 - A New Ally**\n- **Mission 3 - With Fire and Fury**\n- **Interlude - Twilight Council**\n- **Mission 4 - Breaking the Chains**\n- **Mission 5** - **Ice Wastelands**\n- **Mission 6** (in future)<br>\n\n- **Interlude** (in future)\n- **Mission 7** (in future)\n- **Mission 8** (in future)\n- **Mission 9** (in future)\n- **Interlude** (in future)\n- **Mission 10 - final** (in future)\n\n## Special Thanks\n\n- VastanX - Byron's model, testing and feedbacks\n- DoctorWho - translation and correction of errors, development\n- <хобот>Artem - testing and feedbacks\n- Inferno - testing, development\n- KillWithFire - testing and feedbacks\n- BummKnallPeng - briefing UI template\n\n## Our Group\n[https://discord.gg/kjDaNJC](<https://discord.gg/kjDaNJC>)\n\n",
@@ -60,5 +60,78 @@
     ],
     "patchNotes": [],
     "mods": [],
-    "maps": []
+    "maps": [
+        {
+            "name": "Mission Launcher",
+            "description": "",
+            "destination": "maps/Shadow of the Past/zLauncher.sc2map",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2717694/download",
+            "sourceFormat": "zip",
+            "fileEntry": "zLauncher.sc2map"
+        },
+        {
+            "name": "Mission 1 - The Dark Deal",
+            "description": "",
+            "destination": "maps/Shadow of the Past/zMission_1.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2717695/download",
+            "sourceFormat": "zip",
+            "fileEntry": "zMission_1.SC2Map"
+        },
+        {
+            "name": "Mission 2 - A New Ally",
+            "description": "",
+            "destination": "maps/Shadow of the Past/zMission_2.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2717696/download",
+            "sourceFormat": "zip",
+            "fileEntry": "zMission_2.SC2Map"
+        },
+        {
+            "name": "Mission 3 - With Fire and Fury",
+            "description": "",
+            "destination": "maps/Shadow of the Past/zMission_3.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2717717/download",
+            "sourceFormat": "zip",
+            "fileEntry": "zMission_3.SC2Map"
+        },
+        {
+            "name": "[ Cinematic ] - Twilight Council",
+            "description": "",
+            "destination": "maps/Shadow of the Past/zCinematic_1.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2694757/download",
+            "sourceFormat": "zip",
+            "fileEntry": "zCinematic_1.SC2Map"
+        },
+        {
+            "name": "Mission 4 - Breaking the Chains",
+            "description": "",
+            "destination": "maps/Shadow of the Past/zMission_4.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2717729/download",
+            "sourceFormat": "zip",
+            "fileEntry": "zMission_4.SC2Map"
+        },
+        {
+            "name": "Mission 5 - Ice Wastelands",
+            "description": "",
+            "destination": "maps/Shadow of the Past/zMission_5.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2717981/download",
+            "sourceFormat": "zip",
+            "fileEntry": "zMission_5.SC2Map"
+        },
+        {
+            "name": "Mission 6 - The Hunt Continues",
+            "description": "",
+            "destination": "maps/Shadow of the Past/zMission_6.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2719664/download",
+            "sourceFormat": "zip",
+            "fileEntry": "zMission_6.SC2Map"
+        },
+        {
+            "name": "[ Cinematic ] - Time for Revenge",
+            "description": "",
+            "destination": "maps/Shadow of the Past/zCinematic_2.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2723733/download",
+            "sourceFormat": "zip",
+            "fileEntry": "zCinematic_2.SC2Map"
+        }
+    ]
 }

@@ -54,5 +54,30 @@
     ],
     "patchNotes": [],
     "mods": [],
-    "maps": []
+    "maps": [
+        {
+            "name": "Survival of the Fittest",
+            "description": "",
+            "destination": "maps/Brood1-SurvivaloftheFittest.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/brood/files/531113/download",
+            "sourceFormat": "",
+            "fileEntry": "Brood1-SurvivaloftheFittest.SC2Map"
+        },
+        {
+            "name": "Duty of Care",
+            "description": "",
+            "destination": "maps/Brood2-DutyOfCare.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/brood/files/531102/download",
+            "sourceFormat": "",
+            "fileEntry": "Brood2-DutyOfCare.SC2Map"
+        },
+        {
+            "name": "Call from the Dark",
+            "description": "",
+            "destination": "maps/Brood3_-_Call_From_the_Dark.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/brood/files/533711/download",
+            "sourceFormat": "",
+            "fileEntry": ""
+        }
+    ]
 }
