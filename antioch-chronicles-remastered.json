@@ -131,11 +131,11 @@
     "mods": [
         {
             "name": "Main Mod",
-            "description": "Main Mod for the Campaign",
-            "destination": "Mods/AntiochRemastered.SC2Mod",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Mods/AntiochRemastered.SC2Mod",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
-            "sourceFormat": "zip"
+            "description": "Mod File",
+            "destination": "mods/ThoughtsInChaos.SC2Mod",
+            "source": "https://edge.forgecdn.net/files/2669/989/ThoughtsInChaosMod1.4.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "ThoughtsInChaos.SC2Mod"
         }
     ],
     "maps": [
@@ -143,160 +143,160 @@
             "name": "Antioch Campaign Launcher",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Antioch Campaign Launcher.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Antioch Campaign Launcher.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Antioch Campaign Launcher.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Psionic Storm 01 - Approach to Antioch",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 1/Antioch 1-1.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 1/Antioch 1-1.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 1/Antioch 1-1.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Psionic Storm 02 - Templar Surrounded",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 1/Antioch 1-2.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 1/Antioch 1-2.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 1/Antioch 1-2.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Psionic Storm 03 - Stand at Jepok",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 1/Antioch 1-3.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 1/Antioch 1-3.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 1/Antioch 1-3.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Psionic Storm 04 - Tin in the Ashes",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 1/Antioch 1-4.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 1/Antioch 1-4.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 1/Antioch 1-4.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Psionic Storm 05 - In the Broken Glass",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 1/Antioch 1-5.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 1/Antioch 1-5.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 1/Antioch 1-5.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Psionic Storm 06 - Siege at Midnight",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 1/Antioch 1-6.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 1/Antioch 1-6.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 1/Antioch 1-6.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Psionic Storm 07 - The Auriga Gambit",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 1/Antioch 1-7.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 1/Antioch 1-7.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 1/Antioch 1-7.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Psionic Storm 08 - Darkest Thunderhead",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 1/Antioch 1-8.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 1/Antioch 1-8.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 1/Antioch 1-8.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Psionic Storm 09 - Epilogue",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 1/Antioch 1-9.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 1/Antioch 1-9.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 1/Antioch 1-9.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Negative Suns 00 - Prologue",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 2/Antioch 2-0.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 2/Antioch 2-0.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 2/Antioch 2-0.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Negative Suns 01 - Embers of Jepok",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 2/Antioch 2-1.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 2/Antioch 2-1.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 2/Antioch 2-1.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Negative Suns 02 - Planetfall",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 2/Antioch 2-2.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 2/Antioch 2-2.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 2/Antioch 2-2.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Negative Suns 03 - Blades in the Rain",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 2/Antioch 2-3.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 2/Antioch 2-3.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 2/Antioch 2-3.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Negative Suns 04 - Asterisk",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 2/Antioch 2-4.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 2/Antioch 2-4.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 2/Antioch 2-4.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Negative Suns 05 - The Highlanders",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 2/Antioch 2-5.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 2/Antioch 2-5.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 2/Antioch 2-5.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Negative Suns 06 - Twilight Culling",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 2/Antioch 2-6.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 2/Antioch 2-6.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 2/Antioch 2-6.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Negative Suns 07 - Mirror, Mirror",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 2/Antioch 2-7.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 2/Antioch 2-7.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 2/Antioch 2-7.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Negative Suns 08 - Boomerang",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 2/Antioch 2-8.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 2/Antioch 2-8.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 2/Antioch 2-8.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         },
         {
             "name": "Negative Suns 09 - Epilogue",
             "description": "Launcher",
             "destination": "Maps/Antioch Remastered/Episode 2/Antioch 2-9.SC2Map",
-            "fileEntry": "Antioch Remastered (Updated on July 7, 2018)/Maps/Antioch Remastered/Episode 2/Antioch 2-9.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2580/422/Antioch%20Remastered%20(Updated%20on%20July%207,%202018).zip",
+            "fileEntry": "Antioch Remastered/Episode 2/Antioch 2-9.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         }
     ]

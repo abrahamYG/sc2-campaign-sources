@@ -97,7 +97,7 @@
             "name": "[ Cinematic ] - Twilight Council",
             "description": "",
             "destination": "maps/Shadow of the Past/zCinematic_1.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2694757/download",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2727136/download",
             "sourceFormat": "zip",
             "fileEntry": "zCinematic_1.SC2Map"
         },
@@ -129,9 +129,10 @@
             "name": "[ Cinematic ] - Time for Revenge",
             "description": "",
             "destination": "maps/Shadow of the Past/zCinematic_2.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2723733/download",
+            "source": "https://www.sc2mapster.com/projects/campaign-shadow-of-the-past/files/2727143/download",
             "sourceFormat": "zip",
             "fileEntry": "zCinematic_2.SC2Map"
         }
-    ]
+    ],
+    "state": "ready"
 }

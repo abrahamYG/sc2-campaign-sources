@@ -29,7 +29,7 @@
             "description": "",
             "destination": "mods/AEMod.SC2Mod",
             "source": "https://edge.forgecdn.net/files/957/34/AureolinEclipse.zip",
-            "sourceFormat": "",
+            "sourceFormat": "zip",
             "fileEntry": "AEMod.SC2Mod"
         }
     ],
