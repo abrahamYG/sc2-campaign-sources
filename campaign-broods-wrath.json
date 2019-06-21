@@ -26,7 +26,7 @@
     "mods": [],
     "maps": [
         {
-            "name": "Brood's Wrath/Brood Launcher.SC2Map",
+            "name": "Brood Launcher",
             "description": "",
             "destination": "maps/Brood's Wrath/Brood Launcher.SC2Map",
             "source": "https://www.sc2mapster.com/projects/campaign-broods-wrath/files/893255/download",
@@ -34,7 +34,7 @@
             "fileEntry": "Brood's Wrath/Brood Launcher.SC2Map"
         },
         {
-            "name": "Brood's Wrath/Brood Mission 01.SC2Map",
+            "name": "The Brood's Strike",
             "description": "",
             "destination": "maps/Brood's Wrath/Brood Mission 01.SC2Map",
             "source": "https://www.sc2mapster.com/projects/campaign-broods-wrath/files/893255/download",
@@ -42,7 +42,7 @@
             "fileEntry": "Brood's Wrath/Brood Mission 01.SC2Map"
         },
         {
-            "name": "Brood's Wrath/Brood Mission 02.SC2Map",
+            "name": "Piece of Essence",
             "description": "",
             "destination": "maps/Brood's Wrath/Brood Mission 02.SC2Map",
             "source": "https://www.sc2mapster.com/projects/campaign-broods-wrath/files/893255/download",
@@ -50,7 +50,7 @@
             "fileEntry": "Brood's Wrath/Brood Mission 02.SC2Map"
         },
         {
-            "name": "Brood's Wrath/Brood Mission 03.SC2Map",
+            "name": "Eternal Conflict",
             "description": "",
             "destination": "maps/Brood's Wrath/Brood Mission 03.SC2Map",
             "source": "https://www.sc2mapster.com/projects/campaign-broods-wrath/files/893255/download",
@@ -58,7 +58,7 @@
             "fileEntry": "Brood's Wrath/Brood Mission 03.SC2Map"
         },
         {
-            "name": "Brood's Wrath/Brood Mission 04.SC2Map",
+            "name": "Primals in the Fog",
             "description": "",
             "destination": "maps/Brood's Wrath/Brood Mission 04.SC2Map",
             "source": "https://www.sc2mapster.com/projects/campaign-broods-wrath/files/893255/download",
@@ -66,12 +66,13 @@
             "fileEntry": "Brood's Wrath/Brood Mission 04.SC2Map"
         },
         {
-            "name": "Brood's Wrath/Brood Mission 05.SC2Map",
+            "name": "The Evolution",
             "description": "",
             "destination": "maps/Brood's Wrath/Brood Mission 05.SC2Map",
             "source": "https://www.sc2mapster.com/projects/campaign-broods-wrath/files/893255/download",
             "sourceFormat": "zip",
             "fileEntry": "Brood's Wrath/Brood Mission 05.SC2Map"
         }
-    ]
+    ],
+    "state": "ready"
 }

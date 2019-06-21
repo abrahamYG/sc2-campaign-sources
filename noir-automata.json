@@ -98,7 +98,7 @@
             "name": "Mission Launcher",
             "description": "",
             "destination": "maps/NoirAutomata/NAMissionLauncher43C.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2723827/download",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/NAMissionLauncher43C.SC2Map"
         },
@@ -182,5 +182,6 @@
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/07laststand12C.SC2Map"
         }
-    ]
+    ],
+    "state": "ready"
 }

@@ -1,8 +1,8 @@
 {
     "id": "time-convergence",
-    "name": "Time Convergence Terran [Campaign]",
-    "shortName": "Time Convergence Terran [Campaign]",
-    "installed": false,
+    "name": "Time Convergence",
+    "shortName": "Time Convergence Terran",
+    "installed": true,
     "summmary": "",
     "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/126/987/62/62/636435049922193476.jpeg",
     "description": "The terran part of Time Convergence where Artanis will have to learn about the race he considers inferior.\n\n\n\n## How To play:\n\n- ## Download the ZIP\n\n- ## Empty the Zip contents in the Time Convergence Folder\n\n\n\n\n\n\nMod\n\n\n\n- Download TCTerran and put it in Mod folder.\n- Download \"WoD - Wolf\" by Taylor Mouse at [https://www.sc2mapster.com/projects/taylor-mouses-stuff/files/813634](<https://www.sc2mapster.com/projects/taylor-mouses-stuff/files/813634>) ans put it in mod folder. \n\n\n\n---\n\n3D Models an Assets\n\n\n\n- [SheeldWall](<https://www.sc2mapster.com/members/SheeldWall>) Galahad \n- [TaylorMouse](<https://www.sc2mapster.com/members/TaylorMouse>) Tyr\n- [Hammer107](<https://www.sc2mapster.com/members/Hammer107>) Ice Hammer, Anna Hart\n- [GhostNova91](<https://www.sc2mapster.com/members/GhostNova91>) Furia, Pengawal\n- [Thrikodias](<https://www.sc2mapster.com/members/Thrikodias>) Mama P, Highlander\n- [Alleyvipersc2](<https://www.sc2mapster.com/members/Alleyvipersc2>) Grey Wolf, Da'mian, Avatar of storms, Sand Runner\n\n\n\n\n\n\n\n\n\n\n\n\n\n**MISSIONS**\n\n---\n\n\n\n![null](<https://media-elerium.cursecdn.com/attachments/218/588/ignorance.jpg>)\n\n\n\nIgnorance (Beta)\n\n---\n\n![null](<https://media-elerium.cursecdn.com/attachments/218/589/twins.jpg>)\n\n\n\nTwins (Beta)\n\n---\n\n![null](<https://media-elerium.cursecdn.com/attachments/218/590/widoe.jpg>)\n\n\n\nWidow (98%)\n\n---\n\n![null](<https://media-elerium.cursecdn.com/attachments/218/591/william.jpg>)\n\n\n\nWilliam (40%)\n\n---\n\nMore...\n\n",
@@ -27,5 +27,6 @@
     ],
     "patchNotes": [],
     "mods": [],
-    "maps": []
+    "maps": [],
+    "state": "ready"
 }

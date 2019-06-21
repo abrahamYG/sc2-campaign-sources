@@ -1,7 +1,7 @@
 {
     "id": "campaign-evolution-swarm",
-    "name": "[Campaign] Evolution of the Swarm",
-    "shortName": "[Campaign] Evolution of the Swarm",
+    "name": "Evolution of the Swarm",
+    "shortName": "Evolution of the Swarm",
     "installed": true,
     "summmary": "",
     "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/976/62/62/636178341505815271.jpg",
@@ -40,5 +40,6 @@
             "sourceFormat": "zip",
             "fileEntry": "Abathur_03.SC2Map"
         }
-    ]
+    ],
+    "state": "ready"
 }

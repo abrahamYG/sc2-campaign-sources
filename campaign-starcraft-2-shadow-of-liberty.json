@@ -1,8 +1,8 @@
 {
     "id": "campaign-starcraft-2-shadow-of-liberty",
-    "name": "[Campaign] Starcraft 2: Shadow of Liberty",
-    "shortName": "[Campaign] Starcraft 2: Shadow of Liberty",
-    "installed": false,
+    "name": "Starcraft 2: Shadow of Liberty",
+    "shortName": "Starcraft 2: Shadow of Liberty",
+    "installed": true,
     "summmary": "",
     "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/88/239/62/62/636222491363757976.png",
     "description": "## **Current Status**\n\n- Mission 14 is 90% complete.\n\n<!-- -->\n\n## **Introduction**\n\nThe Feral Zerg have reappeared by attacking several Dominion worlds. No one knows why the Zerg have all of a sudden become so aggressive. Arcturus himself assigned General King's forces to set up orbital defenses in high orbit above Castanar to push the Zerg back. Arcturus also ordered Victor Von to assist General King in his defense, and any rebels they may encounter.\n\n\n\nThis is my first campaign within the Starcraft 2 Galaxy Editor. I have to say, it has been a long but fun journey so far. I've always enjoyed playing Wings of Liberty, Heart of the Swarm, and Legacy of the Void. Also, I enjoy playing campaigns made by the public. This is my first campaign, but it will not be my last.\n\n## **Feedback**\n\nIf you have any feedback you would like to give me, leave it in the comments\n\nor [Shadow of Liberty Feedback](<https://www.sc2mapster.com/forums/player-zone/map-feedback/180975-starcraft-ii-shadow-of-liberty-feedback#c15>)\n\n## **How To Install**\n\n1\\. Unzip the files.\n\n2\\. In your Maps folder in your Starcraft II directory, create a \"Shadow of Liberty\" folder spelt exactly like that.\n\n3\\. Place \"Shadow of Liberty Launcher\" file in that folder.\n\n4\\. Place all mission folders in your \"Shadow of Liberty\" folder in maps folder.\n\n5\\. Open the launcher\n\n6\\. Play\n\n## **Green Field Troubleshooting**\n\nHow to open the maps:\n\n-  The best way is to use this method by Deltron: [How to Play Sc2 Maps Without Opening the Editor](<https://www.youtube.com/watch?v=AltjnZfM12I&list=PLlC8YfRpYfL2J4fO2CO_WcsAC23QSeQ37>).\n- Here's another by Jayborino: [Maps Opening Blank](<https://www.youtube.com/watch?v=6yIXH3UWGYY>).\n\n<!-- -->\n\n## **Music**\n\nThis campaign has custom music. I put custom music in this campaign because it enhances the atmosphere.\n\n## **Features**\n\n- You will play all 3 races in this campaign.\n- You will have a choice on what difficulty you would like to play on. Easy, Normal, Hard, Brutal.\n\n<!-- -->\n\n## **DeltronLive's Playthrough**\n\n\n\nFor playthrough click [here](<https://www.youtube.com/playlist?list=PLlC8YfRpYfL0r-CgrzM-a_0W_whcJNxdW>)\n\n## **Jayborino's Playthrough**<br>\n\n\n\n\n\nFor playthrough click [here](<https://www.youtube.com/playlist?list=PLMmfhvBzj4FCzlPPO3fcS_0NXtiwLPPKg>)\n\n## **DEFILERRULEZ Playthrough Of Mission 9**\n\n\n\nFor video click [here](<https://www.youtube.com/watch?v=IU17bC8sr_g&t=2302s>)\n\n\n\nSpecial thanks to deltronLive, DEFILERRULEZ, and Jayborino for playing, providing entertainment, and feedback for this campaign. Also, special thanks to VastanX for models that improve immersion.<br>\n\n## **Inspiration**\n\nEver since EivindL released Perfect Soldiers and DudkiSC2 started working on Annihilation, I've always wanted to make a campaign of my own. Thank you EivindL and DudkiSC2 for inspiring me to make my own campaign and continue doing your great work.\n\n## **Custom Campaign Initiative**\n\nFor the Custom Campaign Initiative, click [here](<https://www.sc2mapster.com/maps/custom-campaign-initiative/>)\n\n## **Missions**\n\nAct 1 - Requiem for the Koprulu Sector\n\n- 01: The Covert Ops - Release\n- 02: Homecoming - Release\n- 03: The Queen of Blades - Release\n- 04: Crash Landing - Release\n- 05: The Awakening - Release\n- 06: New Found Foes - Release\n- 07: Desperate Times - Release\n- Cinematic - Birth of Order - Release\n- 08: Lost Knowledge - Release\n- 09: Unwelcome Guests - Release\n- 10: Breath of Creation - Release\n- 11: Return to Tarsonis - Release\n- 12: The Descent - Release\n- 13: Captain of My Soul - Release\n- 14: End of the Line - Working On (90%)\n\n<!-- -->\n\nCampaigns That Should Be Played In Between:\n\n- Starcraft 2: Ambivalence\n- Starcraft 2: Birth of Liberty\n\n<!-- -->\n\nAct 2 - Fulfilling a Promise\n\n- 01: Retaking an Old Relic - Planning\n- 02: First Class - No Status\n- 03: Outnumbered - No Status\n- 04: Moria - No Status\n- 05: The Only Inconstant - No Status\n- 06: The Ones Beneath Us - No Status\n- 07: Where It All Began - No Status\n- 08: Secret Science - No Status\n- 09: Old Values Fall - No Status\n- 10: Holding Pattern - No Status\n- 11: Cleaning the Slate - No Status\n- 12: T-Minus 10 - No Status\n- 13: Iron Fist - No Status\n- 14: Gentle Into Goodnight - No Status\n- 15: Not Forlorn - No Status\n- 16: Sound Waves - No Status\n- 17: Powering the Devil - No Status\n- 18: Honouring a Promise - No Status\n- 19: A Score to Settle - No Status\n\n<!-- -->\n\n",
@@ -13,5 +13,127 @@
     ],
     "patchNotes": [],
     "mods": [],
-    "maps": []
+    "maps": [
+        {
+            "name": "Mission Launcher.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty Launcher.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2608051/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty/Shadow of Liberty Launcher.SC2Map"
+        },
+        {
+            "name": "01 The Covert Ops.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 01 The Covert Ops.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2483978/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 1-3/Shadow of Liberty - 01 The Covert Ops.SC2Map"
+        },
+        {
+            "name": "02 Homecoming.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 02 Homecoming.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2483978/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 1-3/Shadow of Liberty - 02 Homecoming.SC2Map"
+        },
+        {
+            "name": "03 The Queen of Blades.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 03 The Queen of Blades.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2483978/download",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/Shadow of Liberty/Shadow of Liberty - 03 The Queen of Blades.SC2Map"
+        },
+        {
+            "name": "04 Crash Landing.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 04 Crash Landing.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2497629/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 4-6/Shadow of Liberty - 04 Crash Landing.SC2Map"
+        },
+        {
+            "name": "05 The Awakening.SC2Map",
+            "description": "\n",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 05 The Awakening.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2497629/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 4-6/Shadow of Liberty - 05 The Awakening.SC2Map"
+        },
+        {
+            "name": "06 New Found Foes.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 06 New Found Foes.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2497629/download",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/Shadow of Liberty/Shadow of Liberty - 06 New Found Foes.SC2Map"
+        },
+        {
+            "name": "07 Desperate Times.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 07 Desperate Times.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2484995/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 7-8 + Cinematic/Shadow of Liberty - 07 Desperate Times.SC2Map"
+        },
+        {
+            "name": "08 Lost Knowledge.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 08 Lost Knowledge.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2484995/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 7-8 + Cinematic/Shadow of Liberty - 08 Lost Knowledge.SC2Map"
+        },
+        {
+            "name": "09 Unwelcome Guests.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 09 Unwelcome Guests.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2632444/download",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/Shadow of Liberty/Shadow of Liberty - 09 Unwelcome Guests.SC2Map"
+        },
+        {
+            "name": "10 Breath of Creation.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 10 Breath of Creation.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2632444/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 9-11/Shadow of Liberty - 10 Breath of Creation.SC2Map"
+        },
+        {
+            "name": "11 Return to Tarsonis.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 11 Return to Tarsonis.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2632444/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 9-11/Shadow of Liberty - 11 Return to Tarsonis.SC2Map"
+        },
+        {
+            "name": "12 The Descent.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 12 The Descent.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2654185/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 12-14/Shadow of Liberty - 12 The Descent.SC2Map"
+        },
+        {
+            "name": "13 Captain of My Soul.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Shadow of Liberty - 13 Captain of My Soul.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2654185/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 12-14/Shadow of Liberty - 13 Captain of My Soul.SC2Map"
+        },
+        {
+            "name": "Birth Of Order.SC2Map",
+            "description": "",
+            "destination": "maps/Shadow of Liberty/Cinematic - Birth Of Order.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-starcraft-2-shadow-of-liberty/files/2484995/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Shadow of Liberty Missions 7-8 + Cinematic/Cinematic - Birth Of Order.SC2Map"
+        }
+    ],
+    "state": "ready"
 }

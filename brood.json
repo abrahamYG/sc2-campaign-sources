@@ -2,11 +2,11 @@
     "id": "brood",
     "name": "Brood",
     "shortName": "Brood",
-    "installed": false,
+    "installed": true,
     "summmary": "",
     "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/34/62/62/636178317456982108.jpg",
-    "description": "Only hours after the Queen of Blades had been neutralised as an immediate threat the various Broodmothers of the Zerg Swarm were suddenly without a unifying force.\n\nSome simply disappeared to fulfil their own agenda, others turned on their kin to determine who was the stronger.\n\nAs with all conflicts there were winners, and losers.\n\nAz’Khar is the Brood Mother of a small Brood with a specific purpose, the cultivation and protection of a small number of eggs that house the developing embryos of the monstrous Leviathans, who serve the swarm as vast carriers. Allowing them to extend their reach across the sector\n\nWith the Queen of Blades gone Az’Khar stood little chance against rival Broodmothers who desired her charges as their own.\n\nReduced to but a handful of Zerg left under her control and with her overriding directive of protecting the Leviathan eggs now impossible to fulfil, Az’Khar is now left with only one option, to run.\n\nBut to do this means to somehow escape Char. Otherwise she will be caught between her sisters and their belief she is too weak to be allowed to live or the Terrans who will destroy all Zerg indiscriminately.\n\n[1 - Survival of the Fittest](<http://www.sc2mapster.com/maps/brood/files/10-brood-1-survival-of-the-fittest/>)![null](<http://static.sc2mapster.com/content/images/32/572/Screenshot2011-07-11_18_35_18.jpg>)\n\n[2 - Duty of Care](<http://www.sc2mapster.com/maps/brood/files/9-brood-2-duty-of-care/>)![null](<http://static.sc2mapster.com/content/images/32/580/Screenshot2011-07-11_21_29_01.jpg>)\n\n[3 - Call from the Dark](<http://www.sc2mapster.com/maps/brood/files/11-brood-3-call-from-the-dark/>)![null](<http://www.sc2mapster.com/media/images/32/647/Screenshot2011-07-11_21_47_54.jpg>)\n\n",
-    "author": "_ForgeUser3617122",
+    "description": "Only hours after the Queen of Blades had been neutralised as an immediate threat the various Broodmothers of the Zerg Swarm were suddenly without a unifying force.\n\nSome simply disappeared to fulfil their own agenda, others turned on their kin to determine who was the stronger.\n\nAs with all conflicts there were winners, and losers.\n\nAz’Khar is the Brood Mother of a small Brood with a specific purpose, the cultivation and protection of a small number of eggs that house the developing embryos of the monstrous Leviathans, who serve the swarm as vast carriers. Allowing them to extend their reach across the sector\n\nWith the Queen of Blades gone Az’Khar stood little chance against rival Broodmothers who desired her charges as their own.\n\nReduced to but a handful of Zerg left under her control and with her overriding directive of protecting the Leviathan eggs now impossible to fulfil, Az’Khar is now left with only one option, to run.\n\nBut to do this means to somehow escape Char. Otherwise she will be caught between her sisters and their belief she is too weak to be allowed to live or the Terrans who will destroy all Zerg indiscriminately.\n\n[1 - Survival of the Fittest](<http://www.sc2mapster.com/maps/brood/files/10-brood-1-survival-of-the-fittest/>)\n\n![null](<https://media.forgecdn.net/attachments/154/273/Screenshot2011-07-11_18_35_18.jpg>)\n\n[2 - Duty of Care](<http://www.sc2mapster.com/maps/brood/files/9-brood-2-duty-of-care/>)\n\n![null](<https://media.forgecdn.net/attachments/154/286/Screenshot2011-07-11_21_29_01.jpg>)\n\n[3 - Call from the Dark](<http://www.sc2mapster.com/maps/brood/files/11-brood-3-call-from-the-dark/>)\n\n![null](<https://media.forgecdn.net/attachments/154/294/Screenshot2011-07-11_21_47_54.jpg>)\n\n",
+    "author": "Debe2233",
     "lastUpdated": "2011-07-24T20:11:48.000Z",
     "screenshots": [
         {
@@ -79,5 +79,6 @@
             "sourceFormat": "",
             "fileEntry": ""
         }
-    ]
+    ],
+    "state": "ready"
 }

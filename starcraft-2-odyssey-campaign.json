@@ -1,7 +1,7 @@
 {
     "id": "starcraft-2-odyssey-campaign",
-    "name": "Starcraft 2: Odyssey Campaign",
-    "shortName": "Starcraft 2: Odyssey Campaign",
+    "name": "Starcraft 2: Odyssey",
+    "shortName": "Starcraft 2: Odyssey",
     "installed": false,
     "summmary": "",
     "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/82/221/62/62/636179430502798540.jpeg",
@@ -13,5 +13,127 @@
     ],
     "patchNotes": [],
     "mods": [],
-    "maps": []
+    "maps": [
+        {
+            "name": "Campaign Launcher",
+            "description": "",
+            "destination": "maps/Odyssey/Odyssey Campaign Launcher.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546824/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 08-14 + Launcher/Odyssey Campaign Launcher.SC2Map"
+        },
+        {
+            "name": "Mission 1 - Hell's Rejects",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 01 - Hell's Rejects.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546502/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 01-07 + Launcher/Act I Mission 01 - Hell's Rejects.SC2Map"
+        },
+        {
+            "name": "Mission 2 - Soldiers of the Federation",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 02 - Soldiers of the Federation.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546502/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 01-07 + Launcher/Act I Mission 02 - Soldiers of the Federation.SC2Map"
+        },
+        {
+            "name": "Mission 3 - The Beast of Statbrough",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 03 - The Beast of Statbrough.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546502/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 01-07 + Launcher/Act I Mission 03 - The Beast of Statbrough.SC2Map"
+        },
+        {
+            "name": "Mission 4 - Unwanted Guests",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 04 - Unwanted Guests.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546502/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 01-07 + Launcher/Act I Mission 04 - Unwanted Guests.SC2Map"
+        },
+        {
+            "name": "Mission 5 - Clipped Wings Part 1",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 05 - Clipped Wings Part 1.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546502/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 01-07 + Launcher/Act I Mission 05 - Clipped Wings Part 1.SC2Map"
+        },
+        {
+            "name": "Mission 6 - Clipped Wings Part 2",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 06 - Clipped Wings Part 2.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546502/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 01-07 + Launcher/Act I Mission 06 - Clipped Wings Part 2.SC2Map"
+        },
+        {
+            "name": "Mission 7 - The Siege of Arkingston",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 07 - The Siege of Arkingston.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546502/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 01-07 + Launcher/Act I Mission 07 - The Siege of Arkingston.SC2Map"
+        },
+        {
+            "name": "Mission 8 - The Federation Strikes Back",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 08 - The Federation Strikes Back.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546824/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 08-14 + Launcher/Act I Mission 08 - The Federation Strikes Back.SC2Map"
+        },
+        {
+            "name": "Mission 9 - Rising Dread",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 09 - Rising Dread.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546824/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 08-14 + Launcher/Act I Mission 09 - Rising Dread.SC2Map"
+        },
+        {
+            "name": "Mission 10 - Outrunning Death",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 10 - Outrunning Death.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546824/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 08-14 + Launcher/Act I Mission 10 - Outrunning Death.SC2Map"
+        },
+        {
+            "name": "Mission 11 - What Lies Beneath",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 11 - What Lies Beneath.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546824/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 08-14 + Launcher/Act I Mission 11 - What Lies Beneath.SC2Map"
+        },
+        {
+            "name": "Mission 12 - Falling From Grace",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 12 - Falling From Grace.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546824/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 08-14 + Launcher/Act I Mission 12 - Falling From Grace.SC2Map"
+        },
+        {
+            "name": "Mission 13 - The Bigger They Are...",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 13 - The Bigger They Are.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546824/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 08-14 + Launcher/Act I Mission 13 - The Bigger They Are.SC2Map"
+        },
+        {
+            "name": "Mission 14 - Limitless",
+            "description": "",
+            "destination": "maps/Odyssey/Act I Mission 14 - Limitless.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/starcraft-2-odyssey-campaign/files/2546824/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Odyssey Campaign Act I 08-14 + Launcher/Act I Mission 14 - Limitless.SC2Map"
+        }
+    ],
+    "state": "ready"
 }
