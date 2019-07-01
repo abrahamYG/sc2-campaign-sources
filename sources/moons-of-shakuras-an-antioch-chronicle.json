@@ -1,0 +1,31 @@
+{
+    "id": "moons-of-shakuras-an-antioch-chronicle",
+    "name": "Moons of Shakuras: An Antioch Chronicle",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/205/322/62/62/636947692506239101.jpeg",
+    "progress": 0,
+    "author": "lucidiguana",
+    "description": "## ![Moons of Shakuras: An Antioch Chronicle](https://media.forgecdn.net/attachments/253/517/moons-logo-rectangle-transparent.png)\n\n## Moons of Shakuras\n\nTeam Antioch is proud to announce our newest project, Moons of Shakuras. Set some time after the events of Legacy of the Void, Moons of Shakuras follows Moloch and Haley Rourke. Still in self-imposed exile, the duo has spent the time since Thoughts in Chaos traveling the outskirts of the Koprulu sector, settling on various planets as they see fit.&#xA0;\n\nWe join their story on one such planet, as their calm life and easy friendship are disrupted by a single, brutal attack. Joined by a new cast of characters aboard the&#xA0;*Scylla*, an independent vessel, Haley and Moloch will embark on a quest to discover the source and motive of the attack. Their journey will take them far: from the seedy underbelly of Terran organized crime families to the edges of of known space.\n\n## The Campaign\n\nMoons of Shakuras takes place over three map packs, each consisting of three maps. The campaign is fully voice-acted, with many members of the Thoughts in Chaos cast returning to reprise their roles and many new members joining the team. Moons of Shakuras also features cutscenes created in the cinematic editor.\n\nWe hope to release the first map pack in 2019, with the others coming as we finish them.\n\n## Team Antioch\n\nAlevice\n\nAzureguy\n\nCaevrane\n\nDarkTZeratul\n\nKnalle\n\nLucidIguana\n\nThreeks\n\nWarGirl\n\n## Original Art By\n\nAlleyViper\n\nCaevrane",
+    "maps": [
+        {
+            "name": "Moons of Shakuras Teaser Trailer",
+            "description": "No changelog provided",
+            "destination": "maps/Moons of Shakuras Teaser Trailer.zip",
+            "source": "https://www.sc2mapster.com/projects/moons-of-shakuras-an-antioch-chronicle/files/2717515/download",
+            "sourceFormat": ".zip",
+            "fileEntry": ""
+        }
+    ],
+    "mods": [],
+    "lastUpdated": "2019-05-29T23:37:49.000Z",
+    "patchNotes": [],
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/253/517/moons-logo-rectangle-transparent.png",
+            "description": "Moons of Shakuras Logo"
+        }
+    ],
+    "entryPoint": "",
+    "installed": false,
+    "videos": [],
+    "state": "ready"
+}

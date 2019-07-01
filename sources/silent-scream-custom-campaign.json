@@ -1,0 +1,41 @@
+{
+    "id": "silent-scream-custom-campaign",
+    "name": "A Silent Scream",
+    "shortName": "A Silent Scream",
+    "installed": true,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/863/62/62/636178336809586109.jpg",
+    "description": "## Intro\n\nA Silent Scream is my first custom campaign. My nickname is IeZaeL , you might know me as the creator of some famous melee maps , such as Coda , that stayed in ladder for over 2 seasons and got played at Blizzcon 2015. Lately I lost passion putting hours of thoughts into a map layout only to find out it will never work, so I started creating a short adventure following the character of Ma'lash, a character that I really liked even though he did not really have a whole lot of story told/to tell. Little is known about Ma'lash past, so I could pretty much insert whatever I wanted into the story. I hope it will be enjoyable to play. It sure was to make.\n\n## The story and the Characters\n\nFollow the adventure of the Highlord Ma'lash before the Whispers of Oblivion events. Featuring :\n\n**Malash** : originally a Daelaam preator, fell in disgrace after the events of the battle of New Dalaran City.\n\n**Thrakos ** : a Tal'darim assassin, he wakes up in a very strange place after a very important confrontation.\n\n**Kassidy** : a member of the Conclave. Captured by Ma'lash after he escaped from Aiur.\n\n**Elyah** : Main Engineer of New Dalaran City. Author of the Communication Towers Project.\n\n**Abraham Drake** : Commander of New Dalaran City army. He had a daughter, Arya Drake, escaped from home and never to be found again.\n\n**The Shrouded Hounds mercenaries **: a group of rebels that have been trying to overtake the government of New Dalaran City for too long.\n\n**Ashara** : a female ghost, always ready to gain some money by doing the most various tasks.\n\n## Features\n\n- High quality terrain with a clean looking style, with various landscapes and artistic styles used. \n- Heavy focus on visual effects to improve the story-telling \n- Custom soundtrack for nearly every mission \n- Non-linear storytelling. \n- Dark and gritty atmosphere \n- You will literally play with the mind of one of your enemy \n- The whole swaggyness of the Tal'Darim faction \n\n\n\n## Missions\n\n- 01\\.Fear No Evil - *Released*\n- 02\\.Crossed - *Released*\n- 03\\.Showdown - *Released*\n- 04\\.No Turning Back - *Released*\n- 05\\.The Sleeping Dens - *Released*\n- 06\\.Demon’s Fair - *Released*\n- 07\\.White Harbour - *Released*\n- 08\\.Ground Zero - *Released*\n- 09\\.Forsaken - *Released*\n- 10\\.The Bullet - *Work in Progress*\n- 11\\.Cobalt - *Planning*\n- 12\\.Last Day on Earth \n- 13\\.Civil War \n- 14\\.Zenit & Nadir \n- 15\\.Homeward Bound \n- 16\\.Coda \n\n\n\n## Tech Tree\n\nA Silent Scream features a modified Protoss Tech tree, with new upgrades and units, that fit the Tal'darim faction better than ever. See below for the full changelog:\n\nZealot : Blood Pact (new ability) , the zealot sacrifices 15hp to slow the attack speed and movement speed of enemies around him in a small radius to a bare minimum. Research at Twilight Council.\n\nStalker : Rage (new ability) , the stalker attack speed is doubled for 5 seconds after using blink. Research at twilight council.\n\nHavoc : can use Force Field, double Shield recharge and Chrono Beam.\n\nAscendant : unchanged from lotv campaign.\n\nBlood Hunter : can use shadow Fury.\n\nArchon : Can use a more powerful Psionic storm, costs 150 energy. Archon starts with 50 energy. Khaydarin Crystal can be researched at Templar Archives to increase archon starting energy to 150.\n\nObserver : unchanged.\n\nWarp Prism : unchanged.\n\nVanguard : Number of shots of the attack halved. Has upgrade called Keras Reactor at the robotic bay to double the shots and allow the unit to hit air units.\n\nWrathwalker : Has incendiary lance weapon and passive, can attack while moving.\n\nDisruptor : unchanged from lotv multiplayer.\n\nSkytalon : has phase armor(doesnt take damage for 2 seconds ).\n\nOracle : Has Time warp, pulsar beam and confusion. Has upgrade at Fleet beacon to improve starting energy and energy regeneration.\n\nDestroyer : unchanged from lotv campaign.\n\nTempest : has passive ability, applies a debuff on attacked units that deals 35 damage in 6 seconds to every unit around the target, and the target itself.\n\nCarrier : unchanged.\n\n## Credits\n\nI took a lot of stuff from sc2mapster assets, most notably;\n\n\\- Tal'darim reskins/portraits for some units by [Hammer107](<http://www.sc2mapster.com/profiles/Hammer107/>)\n\n\\- Terrain for Mission04 was made by [DeltaCadimus](<http://www.sc2mapster.com/profiles/DeltaCadimus/>)\n\n\\- Elders models from Alleyviper85[AV Models](<http://www.sc2mapster.com/assets/av-model-reinforces/>)\n\n\\- The Ras'Gul model/portrait and the hero UI was extracted from the CybroX campaign \"Wrath of the Tal'darim\". Go check it out, It's amazing. This page is being currently updated. Come back later to see it completed!\n\n",
+    "author": "IeZaeL",
+    "lastUpdated": "2016-08-22T18:07:52.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/160/490/Terrain_026.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/491/Terrain_031.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/492/Terrain_004.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/493/Terrain_009.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/494/Terrain_010.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/496/Screenshot2016-01-04_20_50_17.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/497/Screenshot2016-01-19_21_42_15.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/160/499/Terrain_003.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": [],
+    "state": "ready"
+}

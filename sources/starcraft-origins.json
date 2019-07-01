@@ -1,0 +1,20 @@
+{
+    "id": "starcraft-origins",
+    "name": "StarCraft 2: Origins",
+    "shortName": "StarCraft 2: Origins",
+    "installed": true,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/986/62/62/636178342008694183.jpg",
+    "description": "<div><p><em><strong><img src=\"https://media-elerium.cursecdn.com/attachments/160/984/SCObackground.jpg\"></strong></em></p><p></p><p><em><strong>Update 2 (11/8/16):</strong></em> Project has been indefinitely postponed due to development difficulties.</p></div>\n\n**About:**\n\nOrigins is a zerg campaign and prequel to StarCraft 1 played from the perspective of Senior Cerebrate Daggoth, the Overmind's right hand and greatest Cerebrate. It features a focus on accurate voice acting replicating the feel of StarCraft 1, high quality terrain, a new early Zerg tech tree, and expanding the other underdeveloped characters in the swarm. Fourteen missions are currently planned.\n\nOrigins is currently in the alpha state and is an experimental campaign due to its lack of human characters and focus on environmental challenges over that of AI. Many features are planned, but their inclusion and even status of the project is contingent on my time, resources and overall reception of the project.\n\n<div><p></p></div>\n\n**Download:**\n\nOrigins can be downloaded [here](</linkout?remoteUrl=http%253a%252f%252fwww.mediafire.com%252ffile%252fg6zx650d0fj2u99%252fOrigins.Alpha.9.16.zip>). Launch \"OriginsLauncher.sc2map\" from your editor.\n\n**Story:**\n\nOrigins is one of the few stories featuring a totally alien cast, the Overmind, Daggoth, Nargil, Gorn, and Abathur. It begins from the creation of the Zerg on Zerus, and goes into their expansion into the galaxy, assimilating new creatures and visiting other worlds in their search for life, and ultimately, the Protoss. Origins will cater to lovers of sci-fi, and aims to focus on concepts in physics and evolutionary biology. The story aims to be minimalistic and starts off slow. Retcons from StarCraft 2 are largely ignored.\n\n**Gameplay:**\n\nOrigins features three difficulty levels.\n\n- *Casual -* Minimal focus on macro and reduced AI waves. An easy way to simply enjoy the story.\n- *Normal - *A moderate difficulty level for many StarCraft players. Normal provides the optimal experience.\n- *Brutal -* AI waves are stronger and experienced StarCraft players will be challenged.\n\n\n\nIn many missions, the environment will be more challenging than the AI. This is to reinforce the theme of exploration and the evolutionary forces that forged the zerg into the greatest threat of the Milky Way galaxy.\n\n**Credits:**\n\nIskatuMesk - Nargil Voice<br>\n\n Laconius - Daggoth Voice<br>\n\n Crainy - Witness Model<br>\n\n StarCraft Brood War Mod - by Maverck and Mass Recall Team<br>\n\n CybrosX - Mission 1 Terrain, Aerie, Termite and Hornet Models.<br>\n\n Avex - Mission 3 Terrain.<br>\n\n Cerebrate Model - Based on model by Cacho<br>\n\n GhostNova - Zerusian Walker Model<br>\n\n Creative Consultants - FanaticTemplar, Visions of Khas, Turalyon<br>\n\n Trailer Music by LittleVMills<br>\n\n Special Thanks To:<br>\n\n Telenil, Laconius, StratosTygo, DefilerRulez\n\n**Donate:**\n\n<div><p><a href=\"/linkout?remoteUrl=https%253a%252f%252fwww.paypal.com%252fcgi-bin%252fwebscr%253fcmd%253d_donations%2526business%253dQ4XPZDNTEZD2N%2526lc%253dUS%2526item_name%253dGradius%2526item_number%253dGradiusStarCraft%2526currency_code%253dUSD%2526bn%253dPP-DonationsBF%253abtn_donate_LG.gif%253aNonHosted\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\"></a></p></div>\n\nI've been in the StarCraft modding community for years, and helped work on Origins, Subjection and Mass Recall. Donations will not only benefit the Origins campaign, but my assets will be available to the entire modding community.\n\n",
+    "author": "Gradius",
+    "lastUpdated": "2016-08-17T19:34:17.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/160/984/SCObackground.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": [],
+    "state": "ready"
+}
