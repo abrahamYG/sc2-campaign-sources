@@ -7,7 +7,7 @@
     "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/83/616/62/62/636189625320433882.jpeg",
     "description": "# What is this?\nThis is the first release of a StarCraft 2 remake of the seminal StarCraft custom campaign known as the Antioch Chronicles. This project is a high-fidelity reproduction of the original campaign with few enhancements taking advantage of the StarCraft 2 editor.\nThis version contains both episode 1 and 2 of the campaign. It uses the StarCraft: Mass Recall mod, which the creators were generous enough to allow us to use.\n\n# What is the Antioch Chronicles?\nIn 1998, not long after StarCraft was released, a mapmaker calling himself Auspex Turmalis (Ruben Moreno) released episode 1 of a custom campaign that he called The Antioch Chronicles. The campaign featured custom audio, perhaps most notable for how well Auspex reproduced the Protoss audio effects. Also impressive was the fact that Auspex recorded all of the character voices himself.\nEpisode 2 was released in 1999. For the second campaign, creative duties were split between Auspex and Zeus Legion (Eric Dieter), with additional voice support acting by Ytse-Jam (Juan Mantilla) and Macbeth (Eric Ladd). By the release of Episode 2, the Antioch Chronicles had gathered a large and active fan base.\n \n## Episode 3\nUnfortunately, a promised Episode 3 was canceled. However, Team Antioch, with the support of the Original Creators, has released our own version, which you can download at https://www.sc2mapster.com/projects/thoughts-in-chaos . Still, the first two episodes did much to shape the early StarCraft modding community and remain in the popular conscious fifteen years later. For more information about the Antioch Chronicles, visit http://antioch.snow-fall.com/wiki.pl?The_Antioch_Chronicles .\n\n# Watch on Youtube\nCommunity-paragon Jayborino has an ongoing series of playthrough videos. Check out the whole playlist and stick around for his other videos!\n\n# Thanks\nThis project wouldn't be possible without the generous support of Auspex Turmalis, the Star Craft: Mass Recall team, the Custom Campaign Initiative, Jayborino, and the entire SC2Mapster community. Thank you.\n\n# Join the Community\nWant to chat about the Antioch Chronicles? Join us on Discord!",
     "author": "Team Antioch",
-    "lastUpdated": "2018-07-07T20:06:41.000Z",
+    "lastUpdated": "2019-06-02T20:06:41.000Z",
     "screenshots": [
         {
             "src": "https://media.forgecdn.net/attachments/159/977/Terrain_016.jpg"
@@ -123,8 +123,8 @@
     ],
     "patchNotes": [
         {
-            "version": "v1.00",
-            "date": "2019-03-28",
+            "version": "v2.30",
+            "date": "2019-06-02",
             "notes": " * Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n * Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
     ],
@@ -299,6 +299,5 @@
             "source": "https://www.sc2mapster.com/projects/antioch-chronicles-remastered/files/2719211/download",
             "sourceFormat": "zip"
         }
-    ],
-    "state": "ready"
+    ]
 }
