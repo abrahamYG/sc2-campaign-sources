@@ -1,0 +1,55 @@
+{
+    "id": "invicta-campaign",
+    "name": "Invicta",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/207/880/62/62/636970071445795880.jpeg",
+    "progress": 0,
+    "author": "pearlcross8",
+    "description": "The campaign follows the story of a protoss tribe created not long before the events of star craft 2. This tribe has been isolated from the outside universe for their entire existence. After the collapse of the Zealot Imperium (the empire that the tribe created at the start of its existence) the tribe shattered into multiple warring factions: the Invictas. This era become known as the Invicta age.\n\n&#xA0;\n\nA few years later, a coalition called the IAC has been made to keep the peace, however dark forces are at work. The Invicta Inferno is advocating for war and a signal from the outside universe threatens to change everything. Follow the story of three factions: the Invicta Justicar, Inferno and Seleik as a great mystery unravels!\n\n&#xA0;\n\n&#xA0;To Install:\n\n- Unzip the zip-files.\n- Copy the&#xA0;files within the unzipped folder.\n- Open your SC2 directory [by default it should be&#xA0;**C:/Program Files/Starcraft II/**&#xA0;].\n- Open the&#xA0;**Maps**&#xA0;folder within your SC2 directory. If this folder does not exist, create a new folder and name it&#xA0;**Maps**.\n- Inside the&#xA0;**Maps**&#xA0;folder, create a new folder with the name: Invicta**&#xA0;**Campaign.\n- Open the StarCraft 2 editor then click on&#xA0;**File&#xA0;**and&#xA0;**Open.**\n- Find your SC2 directory and the click on the Invicta Campaign folder.\n- Click on the mission you want to play (the map should then load in your editor).\n- Press the test document button (on top bar) and enjoy :)\n\n&#xA0;\n\nDiscord:&#xA0;[https://discord.gg/uGhYMhk](https://discord.gg/uGhYMhk)",
+    "maps": [
+        {
+            "name": "Invicta part 1: The Signal",
+            "description": "No changelog provided",
+            "destination": "maps/Invicta Campaign/Invicta Mission 1.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/invicta-campaign/files/2729658/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Invicta Mission 1.SC2Map"
+        },
+        {
+            "name": "Invicta Part 2: Satherial",
+            "description": "No changelog provided",
+            "destination": "maps/Invicta Campaign/Invicta Mission 2.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/invicta-campaign/files/2730136/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Invicta Mission 2.SC2Map"
+        },
+        {
+            "name": "Invicta Part 3: To Extinguish The Flame",
+            "description": "No changelog provided",
+            "destination": "maps/Invicta Campaign/Invicta Mission 3.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/invicta-campaign/files/2730140/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Invicta Mission 3 updated.SC2Map"
+        },
+        {
+            "name": "Invicta Part 4: When One Falls...",
+            "description": "No changelog provided",
+            "destination": "maps/Invicta Campaign/Invicta Mission 4.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/invicta-campaign/files/2730887/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Invicta Mission 4.SC2Map"
+        }
+        
+    ],
+    "mods": [],
+    "lastUpdated": "2019-06-26T19:06:31.000Z",
+    "patchNotes": [],
+    "screenshots": [
+        {
+            "description": "undefined"
+        }
+    ],
+    "entryPoint": "",
+    "installed": false,
+    "videos": [],
+    "state": "ready"
+}
