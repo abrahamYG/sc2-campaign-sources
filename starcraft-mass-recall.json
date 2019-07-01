@@ -1,0 +1,349 @@
+{
+    "id": "starcraft-mass-recall",
+    "name": "Starcraft: Mass Recall",
+    "shortName": "Starcraft: Mass Recall",
+    "installed": true,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/869/62/62/636178324538244311.png",
+    "description": "![Starcraft: Mass Recall](https://media.forgecdn.net/attachments/156/996/SCMR_logo.png)\n# Starcraft: Mass Recall\n\n**Starcraft: Mass Recall** is a project that recreates the classic Starcraft and Brood War gameplay as well as the entire single-player campaigns within the Starcraft 2 engine.  Mass Recall contains 68 maps, 59 from the original Brood War game, 3 that were hidden or deleted on various Starcraft supports, and 6 from the 1998 demo campaign.\n\nDo not hesitate to leave feedback or suggestions in the comments below.\nAlso check out: \n\n* [our project thread at TeamLiquid](http://www.teamliquid.net/forum/starcraft-2/303166-starcraft-mass-recall-sc1-campaigns-on-sc2-thread)\n* [a commentated playthrough by Jayborino (v6.x, hard difficulty)](https://www.youtube.com/playlist?list=PLMmfhvBzj4FB3tsiNV3d7B2K_9Imbtg6B)\n* a playthrough by professional Starcraft 2 player Crank (HotS version, hard difficulty)\n\n# Top News (Apr 3, 2019):\n\n## BRUTAL DIFFICULTY ENTHUSIASTS WANTED\n\nReports of our demise have been greatly exaggerated. It's taken too long for sure, but we're getting close to releasing the rest of the campaigns for the latest 7.X overhaul of the mod. We are now looking for testers for the brutal difficulty setting of the upcoming Brood War episodes 4-6, as well as the extra campaign \"Loomings\" aka \"Precursor\".\n\nBe advised: this difficulty is meant to be unforgiving and won't be for everyone. You should expect to have a hard time. We would hope you have previous experience in Starcraft 2 at the very least, preferably also in Mass Recall or Brood War. Having completed or even played some of MR on hard or brutal difficulty is certainly a plus. The latest available versions of episodes 1-3 include a brutal difficulty setting, in case you want to try a map or two to get a better idea of what this is.\n\n\nWe're looking to have you test one of the four campaigns mentioned above. We won't expect you to grind through every map from start to finish, so don't fret. Naturally, we would appreciate some level of feedback afterwards to answer these questions:\n\n* Are there maps that don't give you a chance? (you get crushed early on, you've tried a couple of times and don't see any significant mistakes in your play)\n* Are there maps where you run out of steam? (you can make it to 15-20 minutes but can't seem to make any progress with the resources available to you in the early/mid-game)\n* Are there wild difficulty swings within maps? (for example, no room for error in the first 10-15 minutes, afterwards the AI doesn't pose any threat)\n* Are there difficulty swings within the campaign? (some maps being noticeably easier/harder than others)\n* Are there any other issues affecting gameplay?\n\nAgain, we're evaluating the brutal difficulty here specifically. If you're interested, send me a PM and state your preferred race/campaign, if any. I'll get back to you with more details sometime this week. That is to say I might not respond right away but if we're already full, I'll try to notify you ASAP.\n\n## Jan 1st, 2019\n\nStarcraft: Mass Recall 7.0 is live!  We are proud to release the first 3 episodes of Starcraft in Mass Recall for the new 7.0 version!  This updated version is the latest and most complete Mass Recall experience to date which includes a slew of new Starcraft: Remastered features including remastered briefings rooms, loading images, story cinematics, improved FMV cinematics, enhanced audio tracks, and more.   You can download the project under \"Files\" and follow instructions for loading.  \n\nStay tuned for the Brood War episodes being released as well as updated \"Extra\" campaigns, including Loomings, Stukov Series, and the custom remake of Enslavers in Enslavers: Redux!",
+    "author": "karlprojektorinski",
+    "lastUpdated": "2019-03-20T12:43:01.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/156/996/SCMR_logo.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/997/SCMR_banner.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/156/999/setup.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/221/397/stop.png"
+        }
+    ],
+    "patchNotes": [
+        {
+            "version": "v1.00",
+            "date": "2019-03-28",
+            "notes": " * Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n * Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ],
+    "mods": [
+        {
+            "name": "Main Mod",
+            "description": "Main Mod for the Campaign",
+            "destination": "Mods/SCMRmod.SC2Mod",
+            "fileEntry": "Mods/SCMRmod.SC2Mod",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Assets Mod",
+            "description": "Main Mod for the Campaign",
+            "destination": "Mods/SCMRassets.SC2Mod",
+            "fileEntry": "Mods/SCMRassets.SC2Mod",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Cinematics Mod",
+            "description": "Main Mod for the Campaign",
+            "destination": "Mods/SCMRcinematics.SC2Mod",
+            "fileEntry": "Mods/SCMRcinematics.SC2Mod",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Translations Mod",
+            "description": "Main Mod for the Campaign",
+            "destination": "Mods/SCMRlocal.SC2Mod",
+            "fileEntry": "Mods/SCMRlocal.SC2Mod",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        }
+    ],
+    "maps": [
+        {
+            "name": "SCMR Campaign Launcher",
+            "description": "Launcher",
+            "destination": "Maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran00t",
+            "description": "Terran00t",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran00t.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran00t.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran01",
+            "description": "Terran01",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran01.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran01.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran02",
+            "description": "Terran02",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran02.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran02.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran03",
+            "description": "Terran03",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran03.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran03.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran04",
+            "description": "Terran04",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran04.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran04.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran05",
+            "description": "Terran05",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran05.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran05.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran06",
+            "description": "Terran06",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran06.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran06.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran07",
+            "description": "Terran07",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran07.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran07.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran07S",
+            "description": "Terran07S",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran07S.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran07S.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran08",
+            "description": "Terran08",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran08.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran08.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran08S",
+            "description": "Terran08S",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran08S.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran08S.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran09",
+            "description": "Terran09",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran09.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran09.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran09b",
+            "description": "Terran09b",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran09b.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran09b.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Terran10",
+            "description": "Terran10",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran10.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran10.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Zerg01",
+            "description": "Zerg01",
+            "destination": "Maps/Starcraft Mass Recall/2. Overmind/Zerg01.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg01.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Zerg02",
+            "description": "Zerg02",
+            "destination": "Maps/Starcraft Mass Recall/2. Overmind/Zerg02.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg02.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Zerg03",
+            "description": "Zerg03",
+            "destination": "Maps/Starcraft Mass Recall/2. Overmind/Zerg03.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg03.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Zerg04",
+            "description": "Zerg04",
+            "destination": "Maps/Starcraft Mass Recall/2. Overmind/Zerg04.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg04.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Zerg05",
+            "description": "Zerg05",
+            "destination": "Maps/Starcraft Mass Recall/2. Overmind/Zerg05.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg05.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Zerg06",
+            "description": "Zerg06",
+            "destination": "Maps/Starcraft Mass Recall/2. Overmind/Zerg06.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg06.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Zerg07",
+            "description": "Zerg07",
+            "destination": "Maps/Starcraft Mass Recall/2. Overmind/Zerg07.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg07.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Zerg08",
+            "description": "Zerg08",
+            "destination": "Maps/Starcraft Mass Recall/2. Overmind/Zerg08.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg08.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Zerg09",
+            "description": "Zerg09",
+            "destination": "Maps/Starcraft Mass Recall/2. Overmind/Zerg09.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg09.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Zerg10",
+            "description": "Zerg10",
+            "destination": "Maps/Starcraft Mass Recall/2. Overmind/Zerg10.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg10.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Protoss01",
+            "description": "Protoss01",
+            "destination": "Maps/Starcraft Mass Recall/3. The Fall/Protoss01.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss01.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Protoss02",
+            "description": "Protoss02",
+            "destination": "Maps/Starcraft Mass Recall/3. The Fall/Protoss02.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss02.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Protoss03",
+            "description": "Protoss03",
+            "destination": "Maps/Starcraft Mass Recall/3. The Fall/Protoss03.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss03.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Protoss04",
+            "description": "Protoss04",
+            "destination": "Maps/Starcraft Mass Recall/3. The Fall/Protoss04.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss04.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Protoss05",
+            "description": "Protoss05",
+            "destination": "Maps/Starcraft Mass Recall/3. The Fall/Protoss05.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss05.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Protoss06",
+            "description": "Protoss06",
+            "destination": "Maps/Starcraft Mass Recall/3. The Fall/Protoss06.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss06.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Protoss07",
+            "description": "Protoss07",
+            "destination": "Maps/Starcraft Mass Recall/3. The Fall/Protoss07.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss07.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Protoss08",
+            "description": "Protoss08",
+            "destination": "Maps/Starcraft Mass Recall/3. The Fall/Protoss08.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss08.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Protoss09",
+            "description": "Protoss09",
+            "destination": "Maps/Starcraft Mass Recall/3. The Fall/Protoss09.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss09.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Protoss10",
+            "description": "Protoss10",
+            "destination": "Maps/Starcraft Mass Recall/3. The Fall/Protoss10.SC2Map",
+            "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss10.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2654/551/SCMR_v7.0.zip",
+            "sourceFormat": "zip"
+        }
+    ],
+    "state": "ready"
+}

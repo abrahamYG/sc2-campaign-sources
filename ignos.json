@@ -1,0 +1,147 @@
+{
+    "id": "ignos",
+    "name": "Ignos",
+    "shortName": "Ignos",
+    "installed": true,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/81/264/62/62/636178329804986554.jpg",
+    "description": "##  Latest News\n\n**28\\.11.2017**\n\nUploaded a new test mission,.\n\n\n\nThis is a heavily modified version of Ignos02, which is now numbered Ignos03\n[https://www.sc2mapster.com/projects/ignos/files/2546233](<https://www.sc2mapster.com/projects/ignos/files/2546233>)\n\n(temp download while waiting for approval: [https://ufile.io/m9raj](</linkout?remoteUrl=https%253a%252f%252fufile.io%252fm9raj>) )\n\n\n\n**New Stuff:**\n\n*Solarite -*\n\nNew resource that can be summoned at the Forge and found around the map. Can be used in the Solar Menu on new talents.\n\n*Warp Observer - *\n\nNow a hero unit. Can Mass Recall at no cost or cooldown and can get a Solar Talent to Warp in Pylons (10 sec, 200 mineral cost)\n\n*New Caves - *\n\n2 New Caves and more challenging attacks.\n\n*Modified Terrain -*\n\nMuch more of the terrain is now buildable. Secrets are hidden many places.\n\n*Many more doodads and effects have been used. Can affect performance.*\n\n*Bugs may occur. *\n\n![null](<https://media-elerium.cursecdn.com/attachments/220/700/ign3se-4.jpg>)\n\n![null](<https://www.sc2mapster.com/projects/ignos/images>)![null](<https://media-elerium.cursecdn.com/attachments/220/696/ign03-1.jpg>)\n\n![null](<https://media-elerium.cursecdn.com/attachments/220/697/ign3se-2.jpg>)\n\n![null](<https://media-elerium.cursecdn.com/attachments/thumbnails/220/698/310/172/ign3se-2b.jpg>)\n\n![null](<https://media-elerium.cursecdn.com/attachments/220/650/screenshot2017-11-28-17_56_31.jpg>)\n\nIgnos: Custom Campaign\n\n###  What is this\n\nIgnos is a singleplayer campaign for Starcraft 2.\n\n####  About\n\nIn Ignos you play as an isolated Protoss faction fighting to secure their home from the Zerg. When the battle seems lost the Patriarch reveals he has knowledge of forbidden power.\n\n**Ignos features**\n\n- well-developed terrain\n- fun gameplay twists\n- new units and upgrades\n- unique heroes\n- boss battles\n\n\n\nThis campaign requires HotS and Void\n\n###  Content\n\n#### Download Ignos\n\nThe missions can be downloaded here when released.\n\nMissions Compatible with patch 3.0\n\n[Mission 1](<http://www.sc2mapster.com/media/files/900/374/Ignos01.SC2Map>)\n\n[Mission 2](<http://www.sc2mapster.com/media/files/900/226/Ignos02.SC2Map>)\n\n[Mission 3](<http://www.sc2mapster.com/media/files/900/370/Ignos03.SC2Map>)\n\n[Mission 4](<http://www.sc2mapster.com/media/files/900/372/Ignos04.SC2Map>)\n\n###  Installation\n\nPlace the map files in a folder called \"Ignos Campaign\" in your Starcraft/Maps folder\n\nThe path can look like this\n\nC:/Program Files/StarCraft II/Maps/Ignos Campaign/Ignos 01.SC2MAP\n\nIt's important the that maps are in this folder if you want the missions to link. You can also play the missions one by one, then it won't matter where you place them.\n\nIn order to play you have two choices. You can open up the map file in the editor and press \"test map\". Or you can drag the file unto the SC2Switcher program file that you can find under Support in your Starcraft 2 Folder.\n\nStarCraft II/Support\n\n###  Screenshots\n\n\n\n![null](<http://www.sc2mapster.com/thumbman/images/78/930/600x337/Screenshot2014-11-08_01_37_13.jpg.-m1.png>)\n\n![null](<http://www.sc2mapster.com/thumbman/images/78/931/600x337/AA_Use1.jpg.-m1.png>)\n\n![null](<http://www.sc2mapster.com/thumbman/images/76/973/600x404/Ignos4_Start.jpg.-m1.png>)\n\n![null](<http://www.sc2mapster.com/thumbman/images/78/900/600x337/Screenshot2014-11-08_00_22_47.jpg.-m1.png>)\n\n![null](<http://www.sc2mapster.com/thumbman/images/73/27/600x358/Terrain_011.jpg.-m1.png>)\n\n![null](<http://www.sc2mapster.com/thumbman/images/73/28/600x358/Terrain_015.jpg.-m1.png>)\n\n![null](<http://www.sc2mapster.com/thumbman/images/80/765/600x337/Ignos1.jpg.-m1.png>)\n\n###  Feedback\n\nAny feedback will be greatly appreciated. Be sure to post your impressions and thoughts on this page or in [the Ignos thread](<http://www.sc2mapster.com/forums/player-zone/map-feedback/65745-ignos-campaign/>) on the forums.\n\n",
+    "author": "njordys",
+    "lastUpdated": "2018-03-29T09:58:57.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/158/244/Screenshot2016-02-26_14_31_50.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/247/Terrain_257.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/250/Terrain_261.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/253/Terrain_262.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/255/Terrain_015.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/257/Terrain_008.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/258/Terrain_009.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/261/Terrain_011.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/263/Ignos4_Cave.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/266/Ignos4_Cliffs.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/268/Ignos4_Start.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/269/Ignos4_Island.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/271/Terrain_031.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/273/Terrain_032.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/275/Terrain_029.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/277/Terrain_021.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/278/Screenshot2014-11-08_01_18_50.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/280/Screenshot2014-11-07_21_12_23.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/285/Screenshot2014-11-08_00_22_47.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/287/Ignos_Screen_03.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/291/Ignos_Screen_05.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/293/Screenshot2014-11-08_01_37_13.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/297/AA_Use1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/301/Screenshot2015-01-19_16_29_58.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/303/Screenshot2015-01-19_16_30_19.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/305/Ignos1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/307/Ignos4.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/309/Ignos5.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/158/310/Ignos_3_Loading_Screen_B.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/220/650/screenshot2017-11-28-17_56_31.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/220/696/ign03-1.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/220/697/ign3se-2.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/220/698/ign3se-2b.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/220/699/ign3se-3.jpg"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/220/700/ign3se-4.jpg"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": [
+        {
+            "destination": "maps/Ignos Campaign/Ignos01.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/ignos/files/900374/download/Ignos01.SC2Map",
+            "sourceFormat": "sc2map",
+            "name": "Ignos 01"
+        },
+        {
+            "destination": "maps/Ignos Campaign/Ignos02.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/ignos/files/900226/download/Ignos02.SC2Map",
+            "sourceFormat": "sc2map",
+            "name": "Ignos 02"
+        },
+        {
+            "destination": "maps/Ignos Campaign/Ignos03.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/ignos/files/900370/download/Ignos03.SC2Map",
+            "sourceFormat": "sc2map",
+            "name": "Ignos 03"
+        },
+        {
+            "destination": "maps/Ignos Campaign/Ignos04.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/ignos/files/900372/download/Ignos04.SC2Map",
+            "sourceFormat": "sc2map",
+            "name": "Ignos 04"
+        }
+    ],
+    "state": "ready"
+}
