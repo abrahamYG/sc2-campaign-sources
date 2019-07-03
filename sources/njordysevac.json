@@ -110,7 +110,73 @@
         }
     ],
     "patchNotes": [],
-    "mods": [],
-    "maps": [],
+    "mods": [
+        {
+            "name": "BioTech/BioTechOneMod.SC2Mod",
+            "description": "",
+            "destination": "mods/BioTechOneMod.SC2Mod",
+            "source": "https://www.sc2mapster.com/projects/njordysevac/files/811959/download",
+            "sourceFormat": "zip",
+            "fileEntry": "BioTech/BioTechOneMod.SC2Mod"
+        },
+        {
+            "name": "BioTech/BioTechFiveMod.SC2Mod",
+            "description": "",
+            "destination": "mods/BioTechFiveMod.SC2Mod",
+            "source": "https://www.sc2mapster.com/projects/njordysevac/files/811959/download",
+            "sourceFormat": "zip",
+            "fileEntry": "BioTech/BioTechFiveMod.SC2Mod"
+        }
+    ],
+    "maps": [
+        {
+            "name": "BioTech/BioTech1.SC2Map",
+            "description": "",
+            "destination": "maps/BioTech1.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/njordysevac/files/811959/download",
+            "sourceFormat": "zip",
+            "fileEntry": "BioTech/BioTech1.SC2Map"
+        },
+        {
+            "name": "BioTech/BioTech2.SC2Map",
+            "description": "",
+            "destination": "maps/BioTech2.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/njordysevac/files/811959/download",
+            "sourceFormat": "zip",
+            "fileEntry": "BioTech/BioTech2.SC2Map"
+        },
+        {
+            "name": "BioTech/BioTech3.SC2Map",
+            "description": "",
+            "destination": "maps/BioTech3.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/njordysevac/files/811959/download",
+            "sourceFormat": "zip",
+            "fileEntry": "BioTech/BioTech3.SC2Map"
+        },
+        {
+            "name": "BioTech/BioTech4.SC2Map",
+            "description": "",
+            "destination": "maps/BioTech4.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/njordysevac/files/811959/download",
+            "sourceFormat": "zip",
+            "fileEntry": "BioTech/BioTech4.SC2Map"
+        },
+        {
+            "name": "BioTech/BioTech5.SC2Map",
+            "description": "",
+            "destination": "maps/BioTech5.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/njordysevac/files/811959/download",
+            "sourceFormat": "zip",
+            "fileEntry": "BioTech/BioTech5.SC2Map"
+        },
+        {
+            "name": "BioTech/BioTech6.SC2Map",
+            "description": "",
+            "destination": "maps/BioTech6.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/njordysevac/files/811959/download",
+            "sourceFormat": "zip",
+            "fileEntry": "BioTech/BioTech6.SC2Map"
+        }
+    ],
     "state": "ready"
 }

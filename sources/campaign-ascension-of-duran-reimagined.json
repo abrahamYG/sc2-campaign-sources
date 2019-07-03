@@ -49,7 +49,63 @@
             "src": "https://media.forgecdn.net/attachments/251/27/terrain_047.jpg"
         }
     ],
-    "patchNotes": [],
+    "patchNotes": [
+        {
+            "version": "v0.6.2",
+            "date": "2019-05-04",
+            "notes": "* Having Duran selected will now show you the vision range of nearby detectors\n* Added a tiny secret to mission 2\n* Removed Greater Spire in M6\n* Devouring Ones have an attack animation now\n* Fixed a bug that caused certain icons to appear blank when transmutating Guardians\n* Deleted a Battlecruiser doodad that appeared in mission 4 due to a bug\n* The Aldaris Portrait will now properly show up on all non-Tal'darim Protoss buildings\n* Music will now properly play during M3's intro cutscene\n* Tinkered with the M5 intro music\n* Corrected the Unclean One description\n* Fixed what feels like a million skin related bugs that surfaced after the last patch\n"
+        },
+        {
+            "version": "v0.6.1",
+            "date": "2019-04-23",
+            "notes": "* Tweaked the measurements and positioning of certain achievement descriptions in the launcher\n* Heroic units owned by the player will now be red regardless of the team color chosen\n* Fixed a spelling inconsistency in mission 1\n* Overlords in mission 1 will now properly start with their movement speed upgrade\n* Fixed a bug that would cause Hydralisks to disappear when burrowing on certain maps\n* Units and structures owned by the player will now display the proper team color during cutscenes\n* The player is now warned of the drop pods in mission 3\n* Ultralisks with Monarch Blades reasearched now properly benefit from attack upgrades in missions 3, 5 and 6\n* Player 3 in mission 3 now starts with Rapid Regeneration\n* Player 5 in mission 3 now utilizes Monarch Blades\n* The player is now given the Monarch Blades upgrade in mission 4 if he is playing on easy or normal\n* The Torrasque now uses a new portrait\n* The Continue button is no longer interactable in mission 6\n* The Zealots in the mission 6 outro cutscene will now use dark appearances"
+        },
+        {
+            "version": "v0.6",
+            "date": "2019-04-22",
+            "notes": "* Mission 6 has been completed and added to the launcher\n* Players are now able to change their teamcolor- and popup preferences through the mission launcher\n* The transition upon launching a mission has been smoothened\n* Slight changes to the mission launcher menus\n* Minor changes to mission 1 to 3 (e.g. the Executor now has a hero glow effect + nerfs to waves)\n* Defilers are no longer able to use their \"Venom\"-attack on air units\n* Increased Duran movement speed (from 2.199 to 2.25)\n* Increased Nydus Worm health pool (from 200 up to 300)\n* Added a subtitle to the Sharktooth UI\n* Ensnare no longer needs to be researched and will not be applied to friendly units\n* The queue sizes of both the Spawning Pool and the Spire have been increased\n* The Ultralisk upgrades now use custom tooltips\n* The Monarch Blades upgrade which enables Ultralisk splash damage has been added\n* Missions 4 and 5 will now have slightly tighter defenses on hard\n* The Recall graphic will now show up in the end cutscene of mission 5\n* The mouseover events for all achievements now work correctly\n* The Unclean One in M4 will now do the proper amount of damage\n* The score screens will no longer display incorrect stats if elapsed time exceeds an hour\n* Fixed a visual glitch in the corners of the briefing room window\n* Fixed a visual glitch causing the Hydralisk model not to disappear when morphing in Lurkers\n* Fixed a bug that caused the Arbiter and Carrier models to change on certain occasions\n* The score screen in mission 5 will now show the proper amount of times cloak was used\n* Fixed an issue caused by the latest patch that resulted in decals displaying in front of town halls\n* Using Neural Parasite on a unit will now give the player access to all of its abilities\n* Fixed a typo in the Rapid Regeneration description\n* The Dialogues in previous missions have been corrected\n* The achievement popups will now play a custom animation by MoDTassadar\n* Queens will now use a custom portrait by DaveSpectre122\n* Queens now use a new icon and wireframe\n* The Devourer's attack now uses a different projectile\n* The visual indicators for the Ensnare, Lockdown, Acid Spores and Maelstrom effects have been revised"
+        },
+        {
+            "version": "v0.5",
+            "date": "2018-10-31",
+            "notes": "* Mousing over not awarded achievements will now cause them to be less transparent\n* All ground spellcasters now have an attack (except for medics)\n* The Unclean One will now deal twice as much damage as it used to\n* Added a Changelog document to the download\n* Launcher and Maps are no longer downloaded seperately\n* Added a line of dialog at the start of mission 4\n* The player will now have access to additional zerglings on normal and easy difficulties in mission 4\n* The player will now control an additional devouring one instead of one zergling on easy difficulty in mission 4\n* Added a tip to the start of section 3 of mission 4\n* The siege tanks at the beginning of the last section (mission 4) will now start unsieged\n* The enemies entrenched around the Sharktooth (mission 4) will now be revealed if the player gets close\n* Changed the trigger that would previously cause the score screen's \"mission recap\" to be offset\n* Fixed an issue that caused wrong portraits to show up in the mission 3 briefing\n* Fixed message that did not display the sender name in bold letters in mission 3\n* Loading screen tip in mission 4 will actually show up now (finally!)\n* Fixed a few typos\n* The Observatory, Arbiter Tribunal and Citadel of Adun now use custom models by GnaReffotsirk\n* Unclean Ones now have a custom tooltip and their own unit icon + wireframe\n* Slightly decreased the size of the Unclean One model\n* Crulor now uses a new portrait icon during briefings"
+        },
+        {
+            "version": "v0.4.1",
+            "date": "2018-09-19",
+            "notes": "* Tweaked ultralisk dialog in mission 1 (This will serve us well. -> He will serve us well.)\n* Changed tooltips in mission 1 and 3\n* Added loading screen tip to mission 4\n* Fixed a bug that would occasionally cause score screens to go crazy\n* The installation instructions now finally list the correct dependencies\n* Duran model will now be properly scaled in mission 4\n* Duran will now use the correct wireframe in mission 4\n* Duran's hero glow will now show up in mission 4\n* Changed the time certain achievements pop up in mission 3\n* All message sender names (e.g. \"KERRIGAN\") will now properly be displayed in bold letters\n* When leaving mission 3, mission 4 will now properly load"
+        },
+        {
+            "version": "v0.4",
+            "date": "2018-08-21",
+            "notes": "* Mission 4 has been completed and added to the launcher\n* Achievement requirements have been standardised\n* Briefings past mission 1 will now start automatically\n* Duran now benefits from weapon upgrades\n* Duran now benefits from the Carapace lvl 2 upgrade\n* Duran will now do more damage vs medium enemies (20 as opposed to 12.5)\n* Duran will now do more damage vs large enemies (15 as opposed to 6.3)\n* Minor changes to mission 1\n* Duran uses a new model by GhostNova91\n* Dragoons now use the LotV model\n* Rapid regeneration will now use a different icon\n* The Executor portrait has been changed to the Aldaris portrait by Kazor132\n* Dark Swarm will no longer protect from aoe damage, like in SC1\n* Duran's custom tooltip will now properly show up in all missions\n* The Hardened Carapace icon will no longer show up on burrowed Zerglings\n* Hardened Carapace will now accept Hives as its tech requirement as well\n* The Research Burrow icon will no longer show up on Ultralisks"
+        },
+        {
+            "version": "v0.3.2",
+            "date": "2018-07-26",
+            "notes": "* New briefing screens implemented\n* Achievements added to all maps\n* New score screens implemented\n* Tweaked Launcher\n* Player team color is now yellow like in the original AoD\n* Fixed Hydralisk Den tooltip\n* Replaced Nydus Canal with Nydus Network\n \n* Terrain in mission 1 has been redone\n* Available tech tree in mission 2 and onwards expanded\n* Changed bonus objective text in mission 3\n* Added small undefended areas to spawn Nydus Worms on in mission 3\n* Fixed a bug that caused the AI to run out of money in mission 3\n* Attack waves in mission 3 have been tweaked\n* Terrain in mission 3 has been tweaked\n* Changed the depth of field values of the intro cutscene cameras in mission 3\n* Added critters in mission 3"
+        },
+        {
+            "version": "v0.3.1",
+            "date": "2018-05-25",
+            "notes": "* Added bonus objective in mission 1\n* Fixed grammar in mission 2\n* Destroying the Hives in mission 3 is now optional\n* Layout of enemy hive clusters in mission 3 changed\n* Attack waves in mission 3 have been tweaked\n* Fixed an issue with certain objectives not being marked as completed\n* Launcher is available to be downloaded seperatly from missions"
+        },
+        {
+            "version": "v0.3",
+            "date": "2018-05-23",
+            "notes": "* Mission 3 has been completed and added to the launcher\n* Replaced Protoss text crawl with a Zerg one\n* Minor terrain changes\n* Mission 2 briefing tweaked\n* Evolve Hardened Carapace now has a hotkey\n* Added Observers to attack waves in mission 2\n* Changed Duran's description\n* Added glow effect to Duran (to make him stand out more)\n* Increased the size of Duran"
+        },
+        {
+            "version": "v0.2.1",
+            "date": "2018-04-23",
+            "notes": "* Added Changelog section to README\n* Improved installation instructions\n* The briefing text scroll speed is now three times faster\n* Hardened Carapace now properly costs 200|200 in mission 1\n* Fixed a bug that caused deleted doodads to reappear\n* The Protoss Executor is now properly invulnerable upon death\n* Decreased the amount of resources available at high ground expansion"
+        },
+        {
+            "version": " v0.2",
+            "date": "2018-02-24",
+            "notes": "* Added experimental Zergling health upgrade\n* Fixed an issue with blast crater doodads\n* Fixed an issue with the Dark Swarm hotkey\n* Changed intro cinematic (mission 2)\n* Tweaked attack waves (mission 2)"
+        }
+    ],
     "mods": [],
     "maps": [
         {
