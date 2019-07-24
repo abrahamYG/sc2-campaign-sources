@@ -1,0 +1,109 @@
+{
+    "id": "campaign-race-with-destiny-ru",
+    "name": "Race with Destiny (RU)",
+    "shortName": "Race with Destiny (RU)",
+    "installed": true,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/190/241/62/62/636854813463793700.jpeg",
+    "description": "![null](<https://i.imgur.com/jUb45Ry.jpg>)\n# Продолжение Темной Истории\n\n[Shadow of the Past](https://www.sc2mapster.com/projects/campaign-shadow-of-the-past)\n\n## Аннотация\n\n**\\[RU\\] **Обычный зилот неразимов в прошлом, ныне повышенный до ранга адмирала, Толарис был отправлен на службу к дэлаамам, к вершителю Талдариону. Теперь ему предстоит получить достаточно знаний и опыта, чтобы стать вершителем. Так начинается его путь под покровительством одного из самых известных вершителей дэлаамов - Талдариона.\n\nСобытия этой кампании происходят спустя несколько лет после Legacy of the Void.\n\n## Features\n, An exciting and intriguing storyline\n, Different gameplay missions\n, Unique characters\n, Cinematics in all missions\n\n## Main Characters\nTolaris\nDelanar\nTaldarion\nAvalax\nNemezith\nEledis Limberton\n\n## Missions\n- **Mission 1 - The Proof of the Power**\n- **Mission 2 - Among the Shadows**\n- **Mission 3 - A New Threat**\n- **Mission 4 - Dark Citadel**\n- **Mission 5 - Twilight of Talaad (Part\\_1)**\n- **Mission 5 - Twilight of Talaad (Part\\_2)**\n- **Mission 6 - The True Destiny**\n\n## [RU] Прохождение кампании\n\n- [Миссия 1](<https://www.youtube.com/watch?v=fs6ZkOcqzTg&t=4s>)\n- [Миссия 2](<https://www.youtube.com/watch?v=VJdfWRX0kwA&t=940s>)\n- [Миссия 3](<https://www.youtube.com/watch?v=V_D1cRWAMNg&t=2s>)\n- [Миссия 4](<https://www.youtube.com/watch?v=vOnRJQxNjeQ&t=1238s>)\n- [Миссия 5 (Часть 1)](<https://www.youtube.com/watch?v=iV5qaZe7yj0&t=1022s>)\n- [Миссия 5 (Часть 2)](<https://www.youtube.com/watch?v=Mo7PObfj1is&t=11s>)\n- [Миссия 6](<https://www.youtube.com/watch?v=RHA2zTzW3Oo>)\n\n## Special Thanks\n- DeadRat - testing, development\n- DoctorWho - translation and correction of errors, development\n- <хобот>Artem - launcher fixes\n- Inferno - testing, development\n- VastanX - testing and feedbacks\n- KillWithFire - testing and feedbacks\n- T.Chosen1 - testing and feedbacks\n- [Zhigulevsk & Co ](<https://www.youtube.com/channel/UCGytFwnKXbocfnw2JpDcV1g>)\\- campaign passage (on russian)\n\n## Our Group\n\n[Discord](<https://discord.gg/kjDaNJC>)",
+    "author": "zeralan",
+    "lastUpdated": "2019-02-28T13:04:54.000Z",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/246/303/2019-02-11_195017.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/246/304/2019-02-11_204706.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/246/305/2019-02-11_204739.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/246/306/2019-02-11_204930.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/246/307/2019-02-11_204958.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/246/308/2019-02-11_205124.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/246/309/2019-02-11_205158.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/246/310/2019-02-11_205300.png"
+        },
+        {
+            "src": "https://media.forgecdn.net/attachments/246/311/2019-02-11_205337.png"
+        }
+    ],
+    "patchNotes": [],
+    "mods": [],
+    "maps": [
+        {
+            "name": "Mission Launcher",
+            "description": "",
+            "destination": "maps/RwD/RwD_Launcher.sc2map",
+            "source": "https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2681447/download",
+            "sourceFormat": "zip",
+            "fileEntry": "RwD_Launcher.sc2map"
+        },
+        {
+            "name": "The Proof of the Power",
+            "description": "",
+            "destination": "maps/RwD/Mission 1.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674783/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Mission 1.SC2Map"
+        },
+        {
+            "name": "Among the Shadows",
+            "description": "",
+            "destination": "maps/RwD/Mission 2.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674784/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Mission 2.SC2Map"
+        },
+        {
+            "name": "A New Threat",
+            "description": "",
+            "destination": "maps/RwD/Mission 3.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674785/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Mission 3.SC2Map"
+        },
+        {
+            "name": "Dark Citadel",
+            "description": "",
+            "destination": "maps/RwD/Mission 4.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674786/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Mission 4.SC2Map"
+        },
+        {
+            "name": "Twilight of Talaad (Part_1)",
+            "description": "",
+            "destination": "maps/RwD/Mission 5 (Part_1).SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674787/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Mission 5 (Part_1).SC2Map"
+        },
+        {
+            "name": "Twilight of Talaad (Part_2)",
+            "description": "",
+            "destination": "maps/RwD/Mission 5 (Part_2).SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674788/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Mission 5 (Part_2).SC2Map"
+        },
+        {
+            "name": "The True Destiny",
+            "description": "",
+            "destination": "maps/RwD/Mission 6.SC2Map",
+            "source": "https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2674789/download",
+            "sourceFormat": "zip",
+            "fileEntry": "Mission 6.SC2Map"
+        }
+    ],
+    "state": "ready"
+}
