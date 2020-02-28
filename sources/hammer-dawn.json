@@ -85,7 +85,7 @@
             "name": "Hammer of Dawn Mod",
             "description": "",
             "destination": "mods/Hammer_of_Dawn_QWER.SC2Mod",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/921156/download",
+            "source": "https://edge.forgecdn.net/files/921/156/Mods_Pack_01.zip",
             "sourceFormat": "zip",
             "fileEntry": "Mods Pack 01/Hammer_of_Dawn_QWER.SC2Mod"
         },
@@ -93,7 +93,7 @@
             "name": "Swarm of Amon Mod",
             "description": "",
             "destination": "mods/Swarm_of_Amon.SC2Mod",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/921156/download",
+            "source": "https://edge.forgecdn.net/files/921/156/Mods_Pack_01.zip",
             "sourceFormat": "zip",
             "fileEntry": "Mods Pack 01/Swarm_of_Amon.SC2Mod"
         }
@@ -103,7 +103,7 @@
             "name": "Mission 1 Remake : Temple of Doom",
             "description": "",
             "destination": "maps/01_temple_of_doom_1.8_Remake.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/924058/download",
+            "source": "https://edge.forgecdn.net/files/924/58/01_temple_of_doom_1.8_Remake.SC2Map",
             "sourceFormat": "sc2map",
             "fileEntry": "01_temple_of_doom_1.8_Remake.SC2Map"
         },
@@ -111,7 +111,7 @@
             "name": "Mission 1 Pilot: Temple of Doom",
             "description": "",
             "destination": "maps/01_temple_of_doom_5.8_QWER.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/920549/download",
+            "source": "https://edge.forgecdn.net/files/920/549/01_temple_of_doom_5.8_QWER.SC2Map",
             "sourceFormat": "sc2map",
             "fileEntry": "01_temple_of_doom_5.8_QWER.SC2Map"
         },
@@ -119,7 +119,7 @@
             "name": "Mission 2 : Maze Runner",
             "description": "",
             "destination": "maps/02_maze_runner_5.1_QWER.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/920623/download",
+            "source": "https://edge.forgecdn.net/files/920/623/02_maze_runner_5.1_QWER.SC2Map",
             "sourceFormat": "sc2map",
             "fileEntry": "02_maze_runner_5.1_QWER.SC2Map"
         },
@@ -127,7 +127,7 @@
             "name": "Mission 3 : Cradle of Life",
             "description": "",
             "destination": "maps/03_cradle_of_life_4.8B_QWER.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/922045/download",
+            "source": "https://edge.forgecdn.net/files/922/45/03_cradle_of_life_4.8B_QWER.SC2Map",
             "sourceFormat": "sc2map",
             "fileEntry": "03_cradle_of_life_4.8B_QWER.SC2Map"
         },
@@ -135,7 +135,7 @@
             "name": "Mission 4 : Paradise Lost",
             "description": "",
             "destination": "maps/04_paradise_lost_5.9_QWER.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/922039/download",
+            "source": "https://edge.forgecdn.net/files/922/39/04_paradise_lost_5.9_QWER.SC2Map",
             "sourceFormat": "sc2map",
             "fileEntry": "04_paradise_lost_5.9_QWER.SC2Map"
         },
@@ -143,7 +143,7 @@
             "name": "Mission 5 : Stranded",
             "description": "",
             "destination": "maps/05_stranded_3.9_QWER.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/921888/download",
+            "source": "https://edge.forgecdn.net/files/921/888/05_stranded_3.9_QWER.SC2Map",
             "sourceFormat": "sc2map",
             "fileEntry": "05_stranded_3.9_QWER.SC2Map"
         },
@@ -151,7 +151,7 @@
             "name": "Mission 6 : Last Remnant",
             "description": "",
             "destination": "maps/06_last_remnant_6.7_QWER.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/922391/download",
+            "source": "https://edge.forgecdn.net/files/922/391/06_last_remnant_6.7_QWER.SC2Map",
             "sourceFormat": "sc2map",
             "fileEntry": "06_last_remnant_6.7_QWER.SC2Map"
         },
@@ -159,7 +159,7 @@
             "name": "Mission 7 : Lost World",
             "description": "",
             "destination": "maps/07_Lost_World_3.5_QWER.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/922881/download",
+            "source": "https://edge.forgecdn.net/files/922/881/07_Lost_World_3.5_QWER.SC2Map",
             "sourceFormat": "sc2map",
             "fileEntry": "07_Lost_World_3.5_QWER.SC2Map"
         },
@@ -167,7 +167,7 @@
             "name": "Mission 8 : Attack on Titans",
             "description": "",
             "destination": "maps/08_Attack_on_Titans_3.7_QWER.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/935774/download",
+            "source": "https://edge.forgecdn.net/files/935/774/08_Attack_on_Titans_3.7_QWER.SC2Map",
             "sourceFormat": "sc2map",
             "fileEntry": "08_Attack_on_Titans_3.7_QWER.SC2Map"
         },
@@ -175,7 +175,7 @@
             "name": "Mission 9 : Remember Me",
             "description": "",
             "destination": "maps/09_Remember_Me_9.5A_QWER.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/hammer-dawn/files/957013/download",
+            "source": "https://edge.forgecdn.net/files/957/13/09_Remember_Me_9.5A_QWER.SC2Map",
             "sourceFormat": "sc2map",
             "fileEntry": "09_Remember_Me_9.5A_QWER.SC2Map"
         }

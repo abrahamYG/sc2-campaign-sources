@@ -20,7 +20,7 @@
             "name": "Mission 01 - Purification ",
             "description": "",
             "destination": "maps/UoP/UoP_Mission1.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/custom-dlc-unification-purifiers/files/916050/download",
+            "source": "https://edge.forgecdn.net/files/916/50/_UoP__Mission_1.zip",
             "sourceFormat": "zip",
             "fileEntry": "UoP/UoP_Mission1.SC2Map"
         },
@@ -28,7 +28,7 @@
             "name": "Mission 02 - Greater Threat",
             "description": "",
             "destination": "maps/UoP/UoP_Mission2.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/custom-dlc-unification-purifiers/files/916637/download",
+            "source": "https://edge.forgecdn.net/files/916/637/_UoP__Mission_2.zip",
             "sourceFormat": "zip",
             "fileEntry": "UoP/UoP_Mission2.SC2Map"
         },
@@ -36,7 +36,7 @@
             "name": "Misison 03 - New Enemy",
             "description": "",
             "destination": "maps/UoP/UoP_Mission3.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/custom-dlc-unification-purifiers/files/916641/download",
+            "source": "https://edge.forgecdn.net/files/916/641/_UoP__Mission_3.zip",
             "sourceFormat": "zip",
             "fileEntry": "UoP/UoP_Mission3.SC2Map"
         },
@@ -44,7 +44,7 @@
             "name": "Mission 04 - Unification ",
             "description": "",
             "destination": "maps/UoP/UoP_Mission4.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/custom-dlc-unification-purifiers/files/916642/download",
+            "source": "https://edge.forgecdn.net/files/916/642/_UoP__Mission_4.zip",
             "sourceFormat": "zip",
             "fileEntry": "UoP/UoP_Mission4.SC2Map"
         }

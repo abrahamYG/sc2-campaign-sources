@@ -56,7 +56,7 @@
             "name": "Mission Launcher",
             "description": "Mission Launcher for Ascension of Duran",
             "destination": "maps/AoD Campaign/AoD Launcher.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "source": "https://edge.forgecdn.net/files/2707/108/AoD Campaign.zip",
             "sourceFormat": "zip",
             "fileEntry": "AoD Campaign/AoD Launcher.SC2Map"
         },
@@ -64,7 +64,7 @@
             "name": "Vengeance",
             "description": "Your brood has been slaughtered. The wretched Dark Templar killed your Cerebrate. You cannot hear the Hive Mind anymore; the calming voices of your thousands of brothers and sisters. All you can still hear are the agonized screams of your children. Faint - yet full of pain. \n\nYou are filled with rage. You thirst for revenge. But what could possibly still this thirst? Who could still this thirst?",
             "destination": "maps/AoD Campaign/AoD 01.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "source": "https://edge.forgecdn.net/files/2707/108/AoD Campaign.zip",
             "sourceFormat": "zip",
             "fileEntry": "AoD Campaign/AoD 01.SC2Map"
         },
@@ -72,7 +72,7 @@
             "name": "The Test",
             "description": "While some of your children still feed on the battered corpses of your enemies, Duran has led you through the Warp Gate. He intends to serve a new master and thinks that he will find him on Aiur. Your hatred for the Protoss still burns like a star and you hunger for more of them to kill, so Aiur is a welcome destination for you. \n\nBut what about the waring Cerebrates? You fear that there might be more enemies waiting for you than just the firstborn.",
             "destination": "maps/AoD Campaign/AoD 02.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "source": "https://edge.forgecdn.net/files/2707/108/AoD Campaign.zip",
             "sourceFormat": "zip",
             "fileEntry": "AoD Campaign/AoD 02.SC2Map"
         },
@@ -80,7 +80,7 @@
             "name": "Swarms of Aiur",
             "description": "The Queen of Blades has welcomed you among her minions, but the survival of your children is not yet assured. As you look upon the followers of your new master, you begin to realize that the Queen has been absent for far too long. \n\nTurmoil is spreading through the local broods, their thoughts lack determination and their minds are full of doubt. \n\nWhen it is their turn to gaze upon their new allies, they see a weak, exhausted band of refugees. Prey. You can feel it. And they know you can.",
             "destination": "maps/AoD Campaign/AoD 03.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "source": "https://edge.forgecdn.net/files/2707/108/AoD Campaign.zip",
             "sourceFormat": "zip",
             "fileEntry": "AoD Campaign/AoD 03.SC2Map"
         },
@@ -88,7 +88,7 @@
             "name": "Sharktooth",
             "description": "When you stand amidst the hives that once threatened to destroy you, you feel no hatred for them. You thought that they were your enemies, but when you fought at their side, your mind reached out to the ones who rebelled and you felt that there was something clouding their thoughts, something that had driven them into this frenzy in the first place.\n\nWhen you pierced the shroud to see what it was all you found was darkness.",
             "destination": "maps/AoD Campaign/AoD 04.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "source": "https://edge.forgecdn.net/files/2707/108/AoD Campaign.zip",
             "sourceFormat": "zip",
             "fileEntry": "AoD Campaign/AoD 04.SC2Map"
         },
@@ -96,7 +96,7 @@
             "name": "The Keystone",
             "description": "You never infested terrans before, but you did what you had to. It was when you began hearing their screams that you felt the darkness again. \n\nThe voices whispered of deceit. A tortured soul that wants to break free. The more obedient your new brethren got, the fewer voices remained and when you finished your work, the Hive Mind had long since drowned out what was left of them.",
             "destination": "maps/AoD Campaign/AoD 05.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "source": "https://edge.forgecdn.net/files/2707/108/AoD Campaign.zip",
             "sourceFormat": "zip",
             "fileEntry": "AoD Campaign/AoD 05.SC2Map"
         },
@@ -104,7 +104,7 @@
             "name": "Betrayal",
             "description": "You are aware of what I have done and I am not asking you to like it.\n\tKnow that I have only allied with the Protoss in order to get the artifact - but now that I have it, I am able to share. Kerrigan. Duran. I can help you break free from their control! We will carry the legacy of the Overmind across the stars and we will never have to harm our kind again!\n\nHelp me and we will kill the false rulers. Help me and we will be Zerg again.\n\nI don't want to have to kill you too.",
             "destination": "maps/AoD Campaign/AoD 06.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-ascension-of-duran-reimagined/files/2707108/download",
+            "source": "https://edge.forgecdn.net/files/2707/108/AoD Campaign.zip",
             "sourceFormat": "zip",
             "fileEntry": "AoD Campaign/AoD 06.SC2Map"
         }

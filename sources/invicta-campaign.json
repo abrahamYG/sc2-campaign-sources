@@ -10,7 +10,7 @@
             "name": "Invicta part 1: The Signal",
             "description": "No changelog provided",
             "destination": "maps/Invicta Campaign/Invicta Mission 1.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/invicta-campaign/files/2729658/download",
+            "source": "https://edge.forgecdn.net/files/2729/658/Invicta mission 1.zip",
             "sourceFormat": "zip",
             "fileEntry": "Invicta Mission 1.SC2Map"
         },
@@ -18,7 +18,7 @@
             "name": "Invicta Part 2: Satherial",
             "description": "No changelog provided",
             "destination": "maps/Invicta Campaign/Invicta Mission 2.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/invicta-campaign/files/2730136/download",
+            "source": "https://edge.forgecdn.net/files/2730/136/Invicta mission 2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Invicta Mission 2.SC2Map"
         },

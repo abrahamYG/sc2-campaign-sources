@@ -44,7 +44,7 @@
             "name": "Harbinger",
             "description": "",
             "destination": "maps/Abandonment_01_-_Harbinger.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/abandoment-campaign/files/828852/download",
+            "source": "https://edge.forgecdn.net/files/828/852/Abandonment_01_-_Harbinger.SC2Map",
             "sourceFormat": "",
             "fileEntry": ""
         },
@@ -52,7 +52,7 @@
             "name": "Siege of Palmyra",
             "description": "",
             "destination": "maps/Abandonment_02_-_Siege_of_Palmyra.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/abandoment-campaign/files/809188/download",
+            "source": "https://edge.forgecdn.net/files/809/188/Abandonment_02_-_Siege_of_Palmyra.SC2Map",
             "sourceFormat": "",
             "fileEntry": ""
         }

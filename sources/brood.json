@@ -59,7 +59,7 @@
             "name": "Survival of the Fittest",
             "description": "",
             "destination": "maps/Brood1-SurvivaloftheFittest.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/brood/files/531113/download",
+            "source": "https://edge.forgecdn.net/files/531/113/Brood1-SurvivaloftheFittest.SC2Map",
             "sourceFormat": "",
             "fileEntry": "Brood1-SurvivaloftheFittest.SC2Map"
         },
@@ -67,7 +67,7 @@
             "name": "Duty of Care",
             "description": "",
             "destination": "maps/Brood2-DutyOfCare.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/brood/files/531102/download",
+            "source": "https://edge.forgecdn.net/files/531/102/Brood2-DutyOfCare.SC2Map",
             "sourceFormat": "",
             "fileEntry": "Brood2-DutyOfCare.SC2Map"
         },
@@ -75,7 +75,7 @@
             "name": "Call from the Dark",
             "description": "",
             "destination": "maps/Brood3_-_Call_From_the_Dark.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/brood/files/533711/download",
+            "source": "https://edge.forgecdn.net/files/533/711/Brood3_-_Call_From_the_Dark.SC2Map",
             "sourceFormat": "",
             "fileEntry": ""
         }
