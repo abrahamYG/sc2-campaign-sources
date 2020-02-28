@@ -94,7 +94,7 @@
             "name": "Cinematic - Forbidden Truth",
             "description": "",
             "destination": "maps/Ascension/darktruth01.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-ascension/files/2546603/download",
+            "source": "https://edge.forgecdn.net/files/2546/603/CINEMATIC01.zip",
             "sourceFormat": "zip",
             "fileEntry": "CINEMATIC01/darktruth01.SC2Map"
         },
@@ -102,7 +102,7 @@
             "name": "00 Prologue - Homecoming",
             "description": "",
             "destination": "maps/Ascension/00prologue02a.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-ascension/files/2705106/download",
+            "source": "https://edge.forgecdn.net/files/2705/106/00 Prologue V4.zip",
             "sourceFormat": "zip",
             "fileEntry": "Prologue V4/00prologue02a.SC2Map"
         },
@@ -110,7 +110,7 @@
             "name": "01 Departure",
             "description": "",
             "destination": "maps/Ascension/01departure02b.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-ascension/files/2578523/download",
+            "source": "https://edge.forgecdn.net/files/2578/523/Mission 01 V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Mission 01 V2/01departure02b.SC2Map"
         },
@@ -118,7 +118,7 @@
             "name": "02 Path of Ascension",
             "description": "",
             "destination": "maps/Ascension/02thepath01d.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-ascension/files/2620845/download",
+            "source": "https://edge.forgecdn.net/files/2620/845/Mission 02 V3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Mission 02 V3/02thepath01d.SC2Map"
         },
@@ -126,7 +126,7 @@
             "name": "03 Rak'shir !",
             "description": "",
             "destination": "maps/Ascension/03rakshir04c.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-ascension/files/2582869/download",
+            "source": "https://edge.forgecdn.net/files/2582/869/Mission 03 V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Mission 03 V2/03rakshir04c.SC2Map"
         },
@@ -134,7 +134,7 @@
             "name": "04 Highway to Hell",
             "description": "",
             "destination": "maps/Ascension/04highway03c.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-ascension/files/2596732/download",
+            "source": "https://edge.forgecdn.net/files/2596/732/Mission 04 V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Mission 04 V2/04highway03c.SC2Map"
         },
@@ -142,7 +142,7 @@
             "name": "05 Epilogue - Lingering Truth",
             "description": "",
             "destination": "maps/Ascension/05epilogue02c.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-ascension/files/2633114/download",
+            "source": "https://edge.forgecdn.net/files/2633/114/Epilogue V1.zip",
             "sourceFormat": "zip",
             "fileEntry": "Epilogue V1/05epilogue02c.SC2Map"
         }

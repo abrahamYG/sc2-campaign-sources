@@ -120,25 +120,25 @@
     "maps": [
         {
             "destination": "maps/Ignos Campaign/Ignos01.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/ignos/files/900374/download/Ignos01.SC2Map",
+            "source": "https://edge.forgecdn.net/files/900/374/Ignos01.SC2Map/Ignos01.SC2Map",
             "sourceFormat": "sc2map",
             "name": "Ignos 01"
         },
         {
             "destination": "maps/Ignos Campaign/Ignos02.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/ignos/files/900226/download/Ignos02.SC2Map",
+            "source": "https://edge.forgecdn.net/files/900/226/Ignos02.SC2Map/Ignos02.SC2Map",
             "sourceFormat": "sc2map",
             "name": "Ignos 02"
         },
         {
             "destination": "maps/Ignos Campaign/Ignos03.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/ignos/files/900370/download/Ignos03.SC2Map",
+            "source": "https://edge.forgecdn.net/files/900/370/Ignos03.SC2Map/Ignos03.SC2Map",
             "sourceFormat": "sc2map",
             "name": "Ignos 03"
         },
         {
             "destination": "maps/Ignos Campaign/Ignos04.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/ignos/files/900372/download/Ignos04.SC2Map",
+            "source": "https://edge.forgecdn.net/files/900/372/Ignos04.SC2Map/Ignos04.SC2Map",
             "sourceFormat": "sc2map",
             "name": "Ignos 04"
         }

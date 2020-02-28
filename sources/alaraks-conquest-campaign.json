@@ -31,7 +31,7 @@
             "name": "Tal'darim.SC2Mod",
             "description": "",
             "destination": "mods/Tal'darim.SC2Mod",
-            "source": "https://www.sc2mapster.com/projects/alaraks-conquest-campaign/files/2543418/download",
+            "source": "https://edge.forgecdn.net/files/2543/418/AlaraksConquest_Missions1-3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Tal'darim.SC2Mod"
         },
@@ -39,7 +39,7 @@
             "name": "AC-PurifierMod.SC2Mod",
             "description": "",
             "destination": "mods/AC-PurifierMod.SC2Mod",
-            "source": "https://www.sc2mapster.com/projects/alaraks-conquest-campaign/files/2543418/download",
+            "source": "https://edge.forgecdn.net/files/2543/418/AlaraksConquest_Missions1-3.zip",
             "sourceFormat": "zip",
             "fileEntry": "AC-PurifierMod.SC2Mod"
         }
@@ -49,7 +49,7 @@
             "name": "AlarakMissionSelect.SC2Map",
             "description": "",
             "destination": "maps/AlarakMissionSelect.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/alaraks-conquest-campaign/files/2543418/download",
+            "source": "https://edge.forgecdn.net/files/2543/418/AlaraksConquest_Missions1-3.zip",
             "sourceFormat": "zip",
             "fileEntry": "AlarakMissionSelect.SC2Map"
         },
@@ -57,7 +57,7 @@
             "name": "Alarak1.SC2Map",
             "description": "",
             "destination": "maps/Alarak1.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/alaraks-conquest-campaign/files/2543418/download",
+            "source": "https://edge.forgecdn.net/files/2543/418/AlaraksConquest_Missions1-3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Alarak1.SC2Map"
         },
@@ -65,7 +65,7 @@
             "name": "Alarak2.SC2Map",
             "description": "",
             "destination": "maps/Alarak2.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/alaraks-conquest-campaign/files/2543418/download",
+            "source": "https://edge.forgecdn.net/files/2543/418/AlaraksConquest_Missions1-3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Alarak2.SC2Map"
         },
@@ -73,7 +73,7 @@
             "name": "Alarak3V2.SC2Map",
             "description": "",
             "destination": "maps/Alarak3V2.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/alaraks-conquest-campaign/files/2543418/download",
+            "source": "https://edge.forgecdn.net/files/2543/418/AlaraksConquest_Missions1-3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Alarak3V2.SC2Map"
         },
@@ -81,7 +81,7 @@
             "name": "AlarakCinematic.SC2Map",
             "description": "",
             "destination": "maps/AlarakCinematic.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/alaraks-conquest-campaign/files/2543418/download",
+            "source": "https://edge.forgecdn.net/files/2543/418/AlaraksConquest_Missions1-3.zip",
             "sourceFormat": "zip",
             "fileEntry": "AlarakCinematic.SC2Map"
         }

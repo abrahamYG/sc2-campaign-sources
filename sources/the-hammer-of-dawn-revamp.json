@@ -52,7 +52,7 @@
             "name": "Hammer of Dawn Mod",
             "description": "",
             "destination": "modsV2/HoD_Revamped.SC2Mod",
-            "source": "https://www.sc2mapster.com/projects/the-hammer-of-dawn-revamp/files/2721778/download",
+            "source": "https://edge.forgecdn.net/files/2721/778/HoDModsV2.zip",
             "sourceFormat": "zip",
             "fileEntry": "HoDModsV2/HoD_Revamped.SC2Mod"
         }
@@ -70,7 +70,7 @@
             "name": "Prologue : Last Day of War",
             "description": "",
             "destination": "maps/hodrevamped/00PrologueHoD01X2.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/the-hammer-of-dawn-revamp/files/2707968/download",
+            "source": "https://edge.forgecdn.net/files/2707/968/HoDPrologueV1c.zip",
             "sourceFormat": "zip",
             "fileEntry": "HoDPrologueV1c/00PrologueHoD01X2.SC2Map"
         },
@@ -78,7 +78,7 @@
             "name": "Cinematic 01 - Home Sweet Home",
             "description": "",
             "destination": "maps/hodrevamped/00cinematic05X2.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/the-hammer-of-dawn-revamp/files/2697618/download",
+            "source": "https://edge.forgecdn.net/files/2697/618/HoDCinematic01V1.zip",
             "sourceFormat": "zip",
             "fileEntry": "HoDCinematic01V1/00cinematic05X2.SC2Map"
         },
@@ -86,7 +86,7 @@
             "name": "Mission 1  : Temple of Doom",
             "description": "",
             "destination": "maps/hodrevamped/01templeofdoom01X2.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/the-hammer-of-dawn-revamp/files/2698250/download",
+            "source": "https://edge.forgecdn.net/files/2698/250/HoDMission01V1.zip",
             "sourceFormat": "zip",
             "fileEntry": "HoDMission01V1/01templeofdoom01X2.SC2Map"
         },
@@ -94,7 +94,7 @@
             "name": "Mission 2 : Maze Runner",
             "description": "",
             "destination": "maps/hodrevamped/02mazerunner04X3.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/the-hammer-of-dawn-revamp/files/2707976/download",
+            "source": "https://edge.forgecdn.net/files/2707/976/HoDMission02V1c.zip",
             "sourceFormat": "zip",
             "fileEntry": "HoDMission02V1c/02mazerunner04X3.SC2Map"
         },
@@ -102,7 +102,7 @@
             "name": "Mission 3 : Cradle of Life",
             "description": "",
             "destination": "maps/hodrevamped/03cradleoflife09X6.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/the-hammer-of-dawn-revamp/files/2698286/download",
+            "source": "https://edge.forgecdn.net/files/2698/286/HoDMission03V1.zip",
             "sourceFormat": "zip",
             "fileEntry": "HoDMission03V1/03cradleoflife09X6.SC2Map"
         },
@@ -110,7 +110,7 @@
             "name": "Cinematic 02 : Vision of Future",
             "description": "",
             "destination": "maps/hodrevamped/04cinematic06D.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/the-hammer-of-dawn-revamp/files/2723659/download",
+            "source": "https://edge.forgecdn.net/files/2723/659/Cinematic02-V02.zip",
             "sourceFormat": "zip",
             "fileEntry": "Cinematic02-V02/04cinematic06D.SC2Map"
         },
@@ -118,7 +118,7 @@
             "name": "Mission 4 : Paradise Lost",
             "description": "",
             "destination": "maps/hodrevamped/04paradiselost02B.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/the-hammer-of-dawn-revamp/files/2724094/download",
+            "source": "https://edge.forgecdn.net/files/2724/94/Mission04V01.zip",
             "sourceFormat": "zip",
             "fileEntry": "Mission04V01/04paradiselost02B.SC2Map"
         },

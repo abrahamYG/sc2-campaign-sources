@@ -44,7 +44,7 @@
             "name": "Mission Launcher",
             "description": "",
             "destination": "maps/RwD/RwD_Launcher.sc2map",
-            "source": "https://www.sc2mapster.com/projects/campaign-race-with-destiny/files/2681447/download",
+            "source": "https://edge.forgecdn.net/files/2681/447/RwD_Launcher.zip",
             "sourceFormat": "zip",
             "fileEntry": "RwD_Launcher.sc2map"
         },

@@ -98,7 +98,7 @@
             "name": "Mission Launcher",
             "description": "",
             "destination": "maps/NoirAutomata/NAMissionLauncher43C.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2723827/download",
+            "source": "https://edge.forgecdn.net/files/2723/827/AutomataUpdateJune12th2019.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/NAMissionLauncher43C.SC2Map"
         },
@@ -106,7 +106,7 @@
             "name": "War Journal : Artanis",
             "description": "",
             "destination": "maps/NoirAutomata/WJArtanis07C.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://edge.forgecdn.net/files/2528/966/NoirAutomata.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/WJArtanis07C.SC2Map"
         },
@@ -114,7 +114,7 @@
             "name": "Prologue - Under Siege",
             "description": "",
             "destination": "maps/NoirAutomata/00UnderSiege20C.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://edge.forgecdn.net/files/2528/966/NoirAutomata.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/00UnderSiege20C.SC2Map"
         },
@@ -122,7 +122,7 @@
             "name": "01. Red Snow",
             "description": "",
             "destination": "maps/NoirAutomata/01RedSnow25B.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://edge.forgecdn.net/files/2528/966/NoirAutomata.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/01RedSnow25B.SC2Map"
         },
@@ -130,7 +130,7 @@
             "name": "02. Attack on Titan",
             "description": "",
             "destination": "maps/NoirAutomata/02AttackOn19B.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://edge.forgecdn.net/files/2528/966/NoirAutomata.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/02AttackOn19B.SC2Map"
         },
@@ -138,7 +138,7 @@
             "name": "03. Perfect Soldier",
             "description": "",
             "destination": "maps/NoirAutomata/03perfectsoldier10B.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://edge.forgecdn.net/files/2528/966/NoirAutomata.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/03perfectsoldier10B.SC2Map"
         },
@@ -146,7 +146,7 @@
             "name": "04. El Diablo",
             "description": "",
             "destination": "maps/NoirAutomata/04eldiablo10B.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://edge.forgecdn.net/files/2528/966/NoirAutomata.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/04eldiablo10B.SC2Map"
         },
@@ -154,7 +154,7 @@
             "name": "05. Wrath of the Tal'darim",
             "description": "",
             "destination": "maps/NoirAutomata/05thewrath05A.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://edge.forgecdn.net/files/2528/966/NoirAutomata.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/05thewrath05A.SC2Map"
         },
@@ -162,7 +162,7 @@
             "name": "Memoir : Hall of Heroes",
             "description": "",
             "destination": "maps/NoirAutomata/Memoir02D.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://edge.forgecdn.net/files/2528/966/NoirAutomata.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/Memoir02D.SC2Map"
         },
@@ -170,7 +170,7 @@
             "name": "06. In the Hunt",
             "description": "",
             "destination": "maps/NoirAutomata/06inthehunt14B.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://edge.forgecdn.net/files/2528/966/NoirAutomata.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/06inthehunt14B.SC2Map"
         },
@@ -178,7 +178,7 @@
             "name": "Epilogue - Last Stand",
             "description": "",
             "destination": "maps/NoirAutomata/07laststand12C.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-automata/files/2528966/download",
+            "source": "https://edge.forgecdn.net/files/2528/966/NoirAutomata.zip",
             "sourceFormat": "zip",
             "fileEntry": "NoirAutomata/07laststand12C.SC2Map"
         }
