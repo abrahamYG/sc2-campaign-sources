@@ -1,0 +1,36 @@
+{
+    "id": "sunya-saga",
+    "name": "Sunya: Saga",
+    "thumbnail": "https://media.forgecdn.net/avatars/252/333/637187814518623631.jpeg",
+    "progress": 0,
+    "author": "kukusik99",
+    "description": "",
+    "maps": [
+        {
+            "name": "Campaign Launcher",
+            "description": "Launcher",
+            "destination": "Maps/Sunya/Launcher.sc2map",
+            "fileEntry": "Sunya/Launcher.sc2map",
+            "source": "https://media.forgecdn.net/files/2893/435/Sunya.zip",
+            "sourceFormat": "zip"
+        }
+    ],
+    "mods": [],
+    "lastUpdated": "2019-06-27T21:00:14.000Z",
+    "patchNotes": [],
+    "screenshots": [
+        {
+            "description": "undefined"
+        }
+    ],
+    "entryPoint": "",
+    "installed": false,
+    "videos": [],
+    "state": "ready"
+}
+/*Sunya\Launcher.sc2map
+Sunya\Sunya 01.sc2map
+Sunya\Sunya 02.sc2map
+Sunya\Sunya 03.sc2map
+Sunya\Sunya 04.sc2map
+Sunya\Sunya 05.sc2map*/
