@@ -20,7 +20,7 @@
             "name": "Outcome",
             "description": "",
             "destination": "maps/Abathur_01.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-evolution-swarm/files/922739/download",
+            "source": "https://edge.forgecdn.net/files/922/739/EotS_Mission_1.zip",
             "sourceFormat": "zip",
             "fileEntry": "Abathur_01.SC2Map"
         },
@@ -28,7 +28,7 @@
             "name": "Gathering",
             "description": "",
             "destination": "maps/Abathur_02.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-evolution-swarm/files/950243/download",
+            "source": "https://edge.forgecdn.net/files/950/243/Abathur_Mission_02.zip",
             "sourceFormat": "zip",
             "fileEntry": "Abathur_02.SC2Map"
         },
@@ -36,7 +36,7 @@
             "name": "Threatened Memories ",
             "description": "",
             "destination": "maps/Abathur_03.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/campaign-evolution-swarm/files/950246/download",
+            "source": "https://edge.forgecdn.net/files/950/246/Abathur_Mission_03.zip",
             "sourceFormat": "zip",
             "fileEntry": "Abathur_03.SC2Map"
         }

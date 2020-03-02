@@ -20,7 +20,7 @@
             "name": "Mission Launcher",
             "description": "",
             "destination": "maps/HotB/HotB_Launcher.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/913684/download",
+            "source": "https://edge.forgecdn.net/files/913/684/Launcher___Mission_9___10.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB_Launcher.SC2Map"
         },
@@ -28,7 +28,7 @@
             "name": "01 - The Beginning",
             "description": "",
             "destination": "maps/HotB/HotB01Aiur.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/910949/download",
+            "source": "https://edge.forgecdn.net/files/910/949/Mission_1.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB01Aiur.SC2Map"
         },
@@ -36,7 +36,7 @@
             "name": "02 - The Coming Brood",
             "description": "",
             "destination": "maps/HotB/HotB02Aiur.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/910950/download",
+            "source": "https://edge.forgecdn.net/files/910/950/Mission_2.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB02Aiur.SC2Map"
         },
@@ -44,7 +44,7 @@
             "name": "03 - The Grasp of Enemy",
             "description": "",
             "destination": "maps/HotB/HotB03Zerus.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/910951/download",
+            "source": "https://edge.forgecdn.net/files/910/951/Mission_3.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB03Zerus.SC2Map"
         },
@@ -52,7 +52,7 @@
             "name": "04 - Needles in the Fire",
             "description": "",
             "destination": "maps/HotB/HotB04Zerus.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/910953/download",
+            "source": "https://edge.forgecdn.net/files/910/953/Mission_4.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB04Zerus.SC2Map"
         },
@@ -60,7 +60,7 @@
             "name": "05 - Eyes of Darkness",
             "description": "",
             "destination": "maps/HotB/HotB05Slayn.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/910955/download",
+            "source": "https://edge.forgecdn.net/files/910/955/Mission_5.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB05Slayn.SC2Map"
         },
@@ -68,7 +68,7 @@
             "name": "06 - Deception of Fear",
             "description": "",
             "destination": "maps/HotB/HotB/HotB06Slayn.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/910946/download",
+            "source": "https://edge.forgecdn.net/files/910/946/Mission_6.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB/HotB06Slayn.SC2Map"
         },
@@ -76,7 +76,7 @@
             "name": "07 - The Fall of the Queen",
             "description": "",
             "destination": "maps/HotB/HotB07Slayn.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/912948/download",
+            "source": "https://edge.forgecdn.net/files/912/948/Mission_7.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB07Slayn.SC2Map"
         },
@@ -84,7 +84,7 @@
             "name": "08 - Radgar's Wrath",
             "description": "",
             "destination": "maps/HotB/HotB08Kaldir.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/913682/download",
+            "source": "https://edge.forgecdn.net/files/913/682/Mission_08.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB08Kaldir.SC2Map"
         },
@@ -92,7 +92,7 @@
             "name": "09 - Frozen Essence",
             "description": "",
             "destination": "maps/HotB/HotB09Kaldir.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/913684/download",
+            "source": "https://edge.forgecdn.net/files/913/684/Launcher___Mission_9___10.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB09Kaldir.SC2Map"
         },
@@ -100,7 +100,7 @@
             "name": "10 - Return of Lost",
             "description": "",
             "destination": "maps/HotB/HotB10Kaldir.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/shadow-brood-campaign/files/913684/download",
+            "source": "https://edge.forgecdn.net/files/913/684/Launcher___Mission_9___10.zip",
             "sourceFormat": "zip",
             "fileEntry": "HotB10Kaldir.SC2Map"
         }

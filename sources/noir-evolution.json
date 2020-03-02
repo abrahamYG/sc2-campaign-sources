@@ -79,7 +79,7 @@
             "name": "Mod",
             "description": "",
             "destination": "mods/EDZRMODS2.SC2Mod",
-            "source": "https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download",
+            "source": "https://edge.forgecdn.net/files/2680/526/Evolution V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Evol V2/EDZRMODS2.SC2Mod"
         }
@@ -89,7 +89,7 @@
             "name": "Mission Launcher",
             "description": "",
             "destination": "maps/Heroes/evolauncher03.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download",
+            "source": "https://edge.forgecdn.net/files/2680/526/Evolution V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Evol V2/evolauncher03.SC2Map"
         },
@@ -97,7 +97,7 @@
             "name": "Prologue - Back in the Saddle",
             "description": "",
             "destination": "maps/Heroes/00prologue01e.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download",
+            "source": "https://edge.forgecdn.net/files/2680/526/Evolution V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Evol V2/00prologue01e.SC2Map"
         },
@@ -105,7 +105,7 @@
             "name": "Memoir : Queen of Blades",
             "description": "",
             "destination": "maps/Heroes/WJQoB04c.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download",
+            "source": "https://edge.forgecdn.net/files/2680/526/Evolution V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Evol V2/WJQoB04c.SC2Map"
         },
@@ -113,7 +113,7 @@
             "name": "01 Enemy Unknown",
             "description": "",
             "destination": "maps/Heroes/01enemy02c.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download",
+            "source": "https://edge.forgecdn.net/files/2680/526/Evolution V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Evol V2/01enemy02c.SC2Map"
         },
@@ -121,7 +121,7 @@
             "name": "02 What Lies Beneath",
             "description": "",
             "destination": "maps/Heroes/02whatlies01a.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download",
+            "source": "https://edge.forgecdn.net/files/2680/526/Evolution V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Evol V2/02whatlies01a.SC2Map"
         },
@@ -129,7 +129,7 @@
             "name": "03 Graveyard of Memories",
             "description": "",
             "destination": "maps/Heroes/03graveyard11b.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download",
+            "source": "https://edge.forgecdn.net/files/2680/526/Evolution V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Evol V2/03graveyard11b.SC2Map"
         },
@@ -137,7 +137,7 @@
             "name": "04 The Gauntlet",
             "description": "",
             "destination": "maps/Heroes/04gauntlet12b.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download",
+            "source": "https://edge.forgecdn.net/files/2680/526/Evolution V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Evol V2/04gauntlet12b.SC2Map"
         },
@@ -145,7 +145,7 @@
             "name": "Memory : Alexei Stukov",
             "description": "",
             "destination": "maps/Heroes/memorystu03a.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download",
+            "source": "https://edge.forgecdn.net/files/2680/526/Evolution V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Evol V2/memorystu03a.SC2Map"
         },
@@ -153,7 +153,7 @@
             "name": "Epilogue - Dark Destiny",
             "description": "",
             "destination": "maps/Heroes/05epilogue04a.SC2Map",
-            "source": "https://www.sc2mapster.com/projects/noir-evolution/files/2680526/download",
+            "source": "https://edge.forgecdn.net/files/2680/526/Evolution V2.zip",
             "sourceFormat": "zip",
             "fileEntry": "Evol V2/05epilogue04a.SC2Map"
         }

@@ -10,7 +10,7 @@
             "name": "Prologue: The Talon [part 2] V5",
             "description": "**Map 2: The Talon [part2]**\n\nMake sure you have the Talon Faction Mod installed to play this mission.&#xA0;[>> Get it here<<](https://www.sc2mapster.com/projects/starcraft-time-splitters/files/2622657)\n\n&#xA0;\n\n**Version 5 Update**\n\n- Updated Mission 2 for compatibility with latest mod version.\n- Fixed an issue where Volchron would not appear during the ending cinematic (hopefully)\n- Changed functionality of the Golem to that of the Multiplayer Mod version.&#xA0;Golem can now choose between the Bane Golem and Steel Golem infusions. Temporary duration remains.\n\n&#xA0;\n\n**Leave Feedback**\nPlease help make the mission better by leaving feedback&#xA0;[here.](https://www.sc2mapster.com/forums/player-zone/map-feedback/234707-starcraft-time-splitters-campaign-feedback)&#xA0;\n\nThanks to all feedback received to date, the first map will now be officially released.\n\nFor special thanks: see main page.",
             "destination": "maps/Prologue_The-Talon-[part2]_V5.zip",
-            "source": "https://www.sc2mapster.com/projects/starcraft-time-splitters/files/2731679/download",
+            "source": "https://edge.forgecdn.net/files/2731/679/Prologue_The-Talon-[part2]_V5.zip",
             "sourceFormat": ".zip",
             "fileEntry": ""
         },
@@ -18,7 +18,7 @@
             "name": "Prologue: The Talon [part 1] V7",
             "description": "**Map 1: The Talon [part1]**\n\nMake sure you have the Talon Faction Mod installed to play this mission.&#xA0;[>> Get it here<<](https://www.sc2mapster.com/projects/starcraft-time-splitters/files/2622657)\n\n&#xA0;\n\n**Version 7 Update**\n\n- Updated Mission 1 for compatibility with latest mod version.\n- Fixed an issue where units could walk through rocks.\n\nFor more details of version history, see version history readme file enclosed in the download package.\n\n&#xA0;\n\n**Leave Feedback**\nPlease help make the mission better by leaving feedback&#xA0;[here.](https://www.sc2mapster.com/forums/player-zone/map-feedback/234707-starcraft-time-splitters-campaign-feedback)&#xA0;\n\nThanks to all feedback received to date, the first map will now be officially released.\n\nFor special thanks: see main page.",
             "destination": "maps/Prologue_The-Talon-[part1]_V7.zip",
-            "source": "https://www.sc2mapster.com/projects/starcraft-time-splitters/files/2731677/download",
+            "source": "https://edge.forgecdn.net/files/2731/677/Prologue_The-Talon-[part1]_V7.zip",
             "sourceFormat": ".zip",
             "fileEntry": ""
         },
@@ -26,7 +26,7 @@
             "name": "Mission Launcher V4",
             "description": "**Mission Launcher**\n\nMission Launcher for the Starcraft: Time Splitters campaign.\n\n&#xA0;\n\n**Quick Installation**\n\n- Unzip the zip-file.\n- Copy the TS00_Launcher.sc2map file within the unzipped folder.\n- Open your SC2 directory [by default it should be&#xA0;**C:/Program Flies/Starcraft II/**&#xA0;]\n- Open the&#xA0;**Maps**&#xA0;folder within your SC2 directory. If this folder does not exist, create a new folder and name it&#xA0;**Maps**.\n- Inside the Maps folder, create a new folder with the name:&#xA0;**SCTimeSplitters**.\n- Paste the TS00_Launcher.sc2map inside the SCTimeSplitters folder.\n- Run SC2 editor and run the launcher.\n\n&#xA0;\n\n**Leave Feedback**\nPlease help make the missions better by leaving feedback&#xA0;[here.](https://www.sc2mapster.com/forums/player-zone/map-feedback/234707-starcraft-time-splitters-campaign-feedback)&#xA0;\n\nFor special thanks: see main page",
             "destination": "maps/Mission_Launcher_V4.zip",
-            "source": "https://www.sc2mapster.com/projects/starcraft-time-splitters/files/2731671/download",
+            "source": "https://edge.forgecdn.net/files/2731/671/Mission_Launcher_V4.zip",
             "sourceFormat": ".zip",
             "fileEntry": ""
         },
@@ -34,7 +34,7 @@
             "name": "Talon Faction Mod V2.18",
             "description": "**Updated 27-06-2019**\n\nBiocrafters Changes\n- Added Crystalwing for the Biocrafters. Shard launching flyer trained from either the Portal or Stargate.\n- Lancer Shard Launch ability changed. Shard Launch now deals 10 damage (+100 energy reduction) and also reduces vision to 2\n for a duration of 2 seconds. The ability now affects all enemy targets in a 3 radius area.\n\nForgers Changes\n- Changed Dominator Quantum Reactor upgrade name to Dispersing Singularity.\n- Added new Quantum Reactor upgrade for Dominator. Both air and ground attacks deal increased damage\n and can attack targets at 16 range. Weapon cooldown is however increased.\n\nCyber Initiative Changes\n- Enlightend now deal 25 base damage, was 20 (+10 vs massive) to reduce overlap with Silent.\n- Enlightend cost is now 250/125, was 250/100,\n- Silent Null Charged Claw Missile upgrade changed. Now also increases damage dealth in impact area (radius 1.5)\n- Fixed an issue where Enlightened were trained 4 at a time from the Portal\n\nGeneral Changes/Fixes\n- Fixed entries where chosen warchest equipment would still be used.\n- Added icons for upgradeable traits in the command card for all units.",
             "destination": "maps/Talon_Faction_Mod_V2.18.zip",
-            "source": "https://www.sc2mapster.com/projects/starcraft-time-splitters/files/2731667/download",
+            "source": "https://edge.forgecdn.net/files/2731/667/Talon_Faction_Mod_V2.18.zip",
             "sourceFormat": ".zip",
             "fileEntry": ""
         }
