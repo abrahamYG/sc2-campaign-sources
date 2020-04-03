@@ -80,7 +80,7 @@
             "sourceFormat": "zip"
         },
         {
-            "name": "SCMR Localization English v7.1",
+            "name": "SCMR Localization English",
             "description": "Localization Mod for the Campaign",
             "destination": "Mods/SCMRlocal.SC2Mod",
             "fileEntry": "Mods/SCMRlocal.SC2Mod",
@@ -98,17 +98,9 @@
             "fileEntry": "Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map"
         },
         {
-            "name": "SCMRsetup",
-            "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
-            "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
-            "sourceFormat": "zip",
-            "fileEntry": "Starcraft Mass Recall/SCMRsetup.SC2Map"
-        },
-        {
             "name": "Terran00t",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran00t.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran00t.SC2Map"
@@ -116,7 +108,7 @@
         {
             "name": "Terran01",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran01.SC2Map"
@@ -124,7 +116,7 @@
         {
             "name": "Terran02",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran02.SC2Map"
@@ -132,7 +124,7 @@
         {
             "name": "Terran03",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran03.SC2Map"
@@ -140,7 +132,7 @@
         {
             "name": "Terran04",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran04.SC2Map"
@@ -148,7 +140,7 @@
         {
             "name": "Terran05",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran05.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran05.SC2Map"
@@ -156,7 +148,7 @@
         {
             "name": "Terran06",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran06.SC2Map"
@@ -164,7 +156,7 @@
         {
             "name": "Terran07",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran07.SC2Map"
@@ -172,7 +164,7 @@
         {
             "name": "Terran07S",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran07S.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran07S.SC2Map"
@@ -180,7 +172,7 @@
         {
             "name": "Terran08",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran08.SC2Map"
@@ -188,7 +180,7 @@
         {
             "name": "Terran08S",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran08S.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran08S.SC2Map"
@@ -196,7 +188,7 @@
         {
             "name": "Terran09",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran09.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran09.SC2Map"
@@ -204,7 +196,7 @@
         {
             "name": "Terran09b",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran09b.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran09b.SC2Map"
@@ -212,7 +204,7 @@
         {
             "name": "Terran10",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran10.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran10.SC2Map"
@@ -220,7 +212,7 @@
         {
             "name": "Zerg01",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg01.SC2Map"
@@ -228,7 +220,7 @@
         {
             "name": "Zerg02",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg02.SC2Map"
@@ -236,7 +228,7 @@
         {
             "name": "Zerg03",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg03.SC2Map"
@@ -244,7 +236,7 @@
         {
             "name": "Zerg04",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg04.SC2Map"
@@ -252,7 +244,7 @@
         {
             "name": "Zerg05",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg05.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg05.SC2Map"
@@ -260,7 +252,7 @@
         {
             "name": "Zerg06",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg06.SC2Map"
@@ -268,7 +260,7 @@
         {
             "name": "Zerg07",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg07.SC2Map"
@@ -276,7 +268,7 @@
         {
             "name": "Zerg08",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg08.SC2Map"
@@ -284,7 +276,7 @@
         {
             "name": "Zerg09",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg09.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg09.SC2Map"
@@ -292,7 +284,7 @@
         {
             "name": "Zerg10",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg10.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg10.SC2Map"
@@ -300,7 +292,7 @@
         {
             "name": "Protoss01",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss01.SC2Map"
@@ -308,7 +300,7 @@
         {
             "name": "Protoss02",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss02.SC2Map"
@@ -316,7 +308,7 @@
         {
             "name": "Protoss03",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss03.SC2Map"
@@ -324,7 +316,7 @@
         {
             "name": "Protoss04",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss04.SC2Map"
@@ -332,7 +324,7 @@
         {
             "name": "Protoss05",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss05.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss05.SC2Map"
@@ -340,7 +332,7 @@
         {
             "name": "Protoss06",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss06.SC2Map"
@@ -348,7 +340,7 @@
         {
             "name": "Protoss07",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss07.SC2Map"
@@ -356,7 +348,7 @@
         {
             "name": "Protoss08",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss08.SC2Map"
@@ -364,7 +356,7 @@
         {
             "name": "Protoss09",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss09.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss09.SC2Map"
@@ -372,7 +364,7 @@
         {
             "name": "Protoss10",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss10.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss10.SC2Map"
@@ -380,7 +372,7 @@
         {
             "name": "ProtossX01",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX01.SC2Map"
@@ -388,7 +380,7 @@
         {
             "name": "ProtossX02",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX02.SC2Map"
@@ -396,7 +388,7 @@
         {
             "name": "ProtossX03",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX03.SC2Map"
@@ -404,7 +396,7 @@
         {
             "name": "ProtossX04",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX04.SC2Map"
@@ -412,7 +404,7 @@
         {
             "name": "ProtossX05",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX05.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX05.SC2Map"
@@ -420,7 +412,7 @@
         {
             "name": "ProtossX06",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX06.SC2Map"
@@ -428,7 +420,7 @@
         {
             "name": "ProtossX07",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX07.SC2Map"
@@ -436,7 +428,7 @@
         {
             "name": "ProtossX08",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX08.SC2Map"
@@ -444,7 +436,7 @@
         {
             "name": "TerranX01",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX01.SC2Map"
@@ -452,7 +444,7 @@
         {
             "name": "TerranX02",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX02.SC2Map"
@@ -460,7 +452,7 @@
         {
             "name": "TerranX03",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX03.SC2Map"
@@ -468,7 +460,7 @@
         {
             "name": "TerranX04",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX04.SC2Map"
@@ -476,7 +468,7 @@
         {
             "name": "TerranX05a",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX05a.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX05a.SC2Map"
@@ -484,7 +476,7 @@
         {
             "name": "TerranX05b",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX05b.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX05b.SC2Map"
@@ -492,7 +484,7 @@
         {
             "name": "TerranX06",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX06.SC2Map"
@@ -500,7 +492,7 @@
         {
             "name": "TerranX07",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX07.SC2Map"
@@ -508,7 +500,7 @@
         {
             "name": "TerranX08",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX08.SC2Map"
@@ -516,7 +508,7 @@
         {
             "name": "ZergX01",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX01.SC2Map"
@@ -524,7 +516,7 @@
         {
             "name": "ZergX02",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX02.SC2Map"
@@ -532,7 +524,7 @@
         {
             "name": "ZergX03",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX03.SC2Map"
@@ -540,7 +532,7 @@
         {
             "name": "ZergX04",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX04.SC2Map"
@@ -548,7 +540,7 @@
         {
             "name": "ZergX05",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX05.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX05.SC2Map"
@@ -556,7 +548,7 @@
         {
             "name": "ZergX06",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX06.SC2Map"
@@ -564,7 +556,7 @@
         {
             "name": "ZergX07",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX07.SC2Map"
@@ -572,7 +564,7 @@
         {
             "name": "ZergX08",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX08.SC2Map"
@@ -580,7 +572,7 @@
         {
             "name": "ZergX09",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX09.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX09.SC2Map"
@@ -588,7 +580,7 @@
         {
             "name": "ZergX09S",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX09S.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX09S.SC2Map"
@@ -596,7 +588,7 @@
         {
             "name": "ZergX10",
             "description": "",
-            "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
+            "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX10.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX10.SC2Map"
