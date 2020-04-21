@@ -2,7 +2,7 @@
     "id": "starcraft-mass-recall",
     "name": "Starcraft: Mass Recall",
     "shortName": "Starcraft: Mass Recall",
-    "installed": false,
+    "installed": true,
     "summmary": "",
     "thumbnail": "https://media.forgecdn.net/avatars/thumbnails/80/869/62/62/636178324538244311.png",
     "description": "![Starcraft: Mass Recall](https://media.forgecdn.net/attachments/156/996/SCMR_logo.png)\n# Starcraft: Mass Recall\n\n**Starcraft: Mass Recall** is a project that recreates the classic Starcraft and Brood War gameplay as well as the entire single-player campaigns within the Starcraft 2 engine.  Mass Recall contains 68 maps, 59 from the original Brood War game, 3 that were hidden or deleted on various Starcraft supports, and 6 from the 1998 demo campaign.\n\nDo not hesitate to leave feedback or suggestions in the comments below.\nAlso check out: \n\n* [our project thread at TeamLiquid](http://www.teamliquid.net/forum/starcraft-2/303166-starcraft-mass-recall-sc1-campaigns-on-sc2-thread)\n* [a commentated playthrough by Jayborino (v6.x, hard difficulty)](https://www.youtube.com/playlist?list=PLMmfhvBzj4FB3tsiNV3d7B2K_9Imbtg6B)\n* a playthrough by professional Starcraft 2 player Crank (HotS version, hard difficulty)\n\n# Top News (Apr 3, 2019):\n\n## BRUTAL DIFFICULTY ENTHUSIASTS WANTED\n\nReports of our demise have been greatly exaggerated. It's taken too long for sure, but we're getting close to releasing the rest of the campaigns for the latest 7.X overhaul of the mod. We are now looking for testers for the brutal difficulty setting of the upcoming Brood War episodes 4-6, as well as the extra campaign \"Loomings\" aka \"Precursor\".\n\nBe advised: this difficulty is meant to be unforgiving and won't be for everyone. You should expect to have a hard time. We would hope you have previous experience in Starcraft 2 at the very least, preferably also in Mass Recall or Brood War. Having completed or even played some of MR on hard or brutal difficulty is certainly a plus. The latest available versions of episodes 1-3 include a brutal difficulty setting, in case you want to try a map or two to get a better idea of what this is.\n\n\nWe're looking to have you test one of the four campaigns mentioned above. We won't expect you to grind through every map from start to finish, so don't fret. Naturally, we would appreciate some level of feedback afterwards to answer these questions:\n\n* Are there maps that don't give you a chance? (you get crushed early on, you've tried a couple of times and don't see any significant mistakes in your play)\n* Are there maps where you run out of steam? (you can make it to 15-20 minutes but can't seem to make any progress with the resources available to you in the early/mid-game)\n* Are there wild difficulty swings within maps? (for example, no room for error in the first 10-15 minutes, afterwards the AI doesn't pose any threat)\n* Are there difficulty swings within the campaign? (some maps being noticeably easier/harder than others)\n* Are there any other issues affecting gameplay?\n\nAgain, we're evaluating the brutal difficulty here specifically. If you're interested, send me a PM and state your preferred race/campaign, if any. I'll get back to you with more details sometime this week. That is to say I might not respond right away but if we're already full, I'll try to notify you ASAP.\n\n## Jan 1st, 2019\n\nStarcraft: Mass Recall 7.0 is live!  We are proud to release the first 3 episodes of Starcraft in Mass Recall for the new 7.0 version!  This updated version is the latest and most complete Mass Recall experience to date which includes a slew of new Starcraft: Remastered features including remastered briefings rooms, loading images, story cinematics, improved FMV cinematics, enhanced audio tracks, and more.   You can download the project under \"Files\" and follow instructions for loading.  \n\nStay tuned for the Brood War episodes being released as well as updated \"Extra\" campaigns, including Loomings, Stukov Series, and the custom remake of Enslavers in Enslavers: Redux!",
@@ -91,494 +91,495 @@
     "maps": [
         {
             "name": "SCMR Campaign Launcher",
-            "description": "",
+            "description": "Map Launcher for the Campaign",
             "destination": "maps/Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/SCMR Campaign Launcher.SC2Map"
         },
         {
-            "name": "Terran00t",
-            "description": "",
+            "name": "Tutorial : Boot Camp",
+            "description": "Office of the Colonial Magistrate\n- Mar Sara Colony\n- 2:25 SCT, 12.12.2499",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran00t.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran00t.SC2Map"
         },
         {
-            "name": "Terran01",
-            "description": "",
+            "name": "Terran 01: Wasteland",
+            "description": "Office of the Colonial Magistrate\n- Mar Sara Colony",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran01.SC2Map"
         },
         {
-            "name": "Terran02",
-            "description": "",
+            "name": "Terran 02: Backwater Station",
+            "description": "Office of the Colonial Magistrate\n- Mar Sara Colony",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran02.SC2Map"
         },
         {
-            "name": "Terran03",
-            "description": "",
+            "name": "Terran 03: Desperate Alliance",
+            "description": "Office of the Colonial Magistrate\n- Mar Sara Colony",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran03.SC2Map"
         },
         {
-            "name": "Terran04",
-            "description": "",
+            "name": "Terran 04: The Jacobs Installation",
+            "description": "Office of the former Colonial Magistrate\n- Mar Sara Colony\n- Three hours after colonial evacuation",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran04.SC2Map"
         },
         {
-            "name": "Terran05",
-            "description": "",
+            "name": "Terran 05: Revolution",
+            "description": "Secret Staging Area\n- Second moon of Antiga Prime",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran05.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran05.SC2Map"
         },
         {
-            "name": "Terran06",
-            "description": "",
+            "name": "Terran 06: Norad II",
+            "description": "Secret Staging Area\n- Antiga Prime Colony",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran06.SC2Map"
         },
         {
-            "name": "Terran07",
-            "description": "",
+            "name": "Terran 07: The Trump Card",
+            "description": "Secret Staging Area\n- Antiga Prime Colony",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran07.SC2Map"
         },
         {
-            "name": "Terran07S",
-            "description": "",
+            "name": "Terran 07 Bonus: Biting the Bullet",
+            "description": "Secret Staging Area\n- Antiga Prime Colony",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran07S.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran07S.SC2Map"
         },
         {
-            "name": "Terran08",
-            "description": "",
+            "name": "Terran 08: The Big Push",
+            "description": "Command Ship Hyperion\n- Holding perimeter orbit over\n- Confederate Capitol World Tarsonis",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran08.SC2Map"
         },
         {
-            "name": "Terran08S",
-            "description": "",
+            "name": "Terran 08 Bonus: Operation Silent Scream",
+            "description": "Command Ship Hyperion\n- Holding perimeter orbit over\n- Confederate Capitol World Tarsonis",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran08S.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran08S.SC2Map"
         },
         {
-            "name": "Terran09",
-            "description": "",
+            "name": "Terran 09: New Gettysburg",
+            "description": "Command Ship Hyperion\n- Holding perimeter orbit over\n- Confederate Capitol World Tarsonis",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran09.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran09.SC2Map"
         },
         {
-            "name": "Terran09b",
-            "description": "",
+            "name": "Terran 09 b",
+            "description": "Command Ship Hyperion\n- Holding perimeter orbit over\n- Confederate Capitol World Tarsonis",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran09b.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran09b.SC2Map"
         },
         {
-            "name": "Terran10",
-            "description": "",
+            "name": "Terran 10: The Hammer Falls",
+            "description": "Command Ship Hyperion\n- Holding perimeter orbit over\n- Confederate Capitol World Tarsonis",
             "destination": "Maps/Starcraft Mass Recall/1. Rebel Yell/Terran10.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/1. Rebel Yell/Terran10.SC2Map"
         },
         {
-            "name": "Zerg01",
-            "description": "",
+            "name": "Zerg 01: Among the Ruins",
+            "description": "Confederate Capitol World Tarsonis",
             "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg01.SC2Map"
         },
         {
-            "name": "Zerg02",
-            "description": "",
+            "name": "Zerg 02: Egression",
+            "description": "Confederate Capitol World Tarsonis ",
             "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg02.SC2Map"
         },
         {
-            "name": "Zerg03",
-            "description": "",
+            "name": "Zerg 03: The New Dominion",
+            "description": "Primary Hive Cluster\n- Planet Char",
             "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg03.SC2Map"
         },
         {
-            "name": "Zerg04",
-            "description": "",
+            "name": "Zerg 04: Agent of the Swarm",
+            "description": "Primary Hive Cluster\n- Planet Char",
             "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg04.SC2Map"
         },
         {
-            "name": "Zerg05",
-            "description": "",
+            "name": "Zerg 05: The Amerigo",
+            "description": "Primary Hive Cluster\n- Planet Char",
             "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg05.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg05.SC2Map"
         },
         {
-            "name": "Zerg06",
-            "description": "",
+            "name": "Zerg 06: The Dark Templar",
+            "description": "Primary Hive Cluster\n- Planet Char",
             "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg06.SC2Map"
         },
         {
-            "name": "Zerg07",
-            "description": "",
+            "name": "Zerg 07: The Culling",
+            "description": "Primary Hive Cluster\n- Planet Char\n- One Hour Later",
             "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg07.SC2Map"
         },
         {
-            "name": "Zerg08",
-            "description": "",
+            "name": "Zerg 08: Eye for an Eye",
+            "description": "Primary Hive Cluster\n- Planet Char",
             "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg08.SC2Map"
         },
         {
-            "name": "Zerg09",
-            "description": "",
+            "name": "Zerg 09: The Invasion of Aiur",
+            "description": "Zerg Swarm\n- High orbit over\n- Protoss Homeworld of Aiur",
             "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg09.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg09.SC2Map"
         },
         {
-            "name": "Zerg10",
-            "description": "",
+            "name": "Zerg 10: Full Circle",
+            "description": "Zerg Swarm\n- High orbit over\n- Protoss Homeworld of Aiur",
             "destination": "maps/Starcraft Mass Recall/2. Overmind/Zerg10.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/2. Overmind/Zerg10.SC2Map"
         },
         {
-            "name": "Protoss01",
-            "description": "",
+            "name": "Protoss 01: First Strike",
+            "description": "Citadel of the new Protoss Executor\n- Two days after the Zerg invasion",
             "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss01.SC2Map"
         },
         {
-            "name": "Protoss02",
-            "description": "",
+            "name": "Protoss 02: Into the Flames",
+            "description": "Citadel of the Executor\n- The following night",
             "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss02.SC2Map"
         },
         {
-            "name": "Protoss03",
-            "description": "",
+            "name": "Protoss 03: Higher Ground",
+            "description": "Citadel of the Executor\n- Two hours later",
             "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss03.SC2Map"
         },
         {
-            "name": "Protoss04",
-            "description": "",
+            "name": "Protoss 04: The Hunt for Tassadar",
+            "description": "Protoss Command Ship Gantrithor\n- Holding orbit over the planet Char",
             "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss04.SC2Map"
         },
         {
-            "name": "Protoss05",
-            "description": "",
+            "name": "Protoss 05: Choosing Sides",
+            "description": "Protoss Command Ship Gantrithor\n- Low orbit over the planet Char\n- One hour later",
             "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss05.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss05.SC2Map"
         },
         {
-            "name": "Protoss06",
-            "description": "",
+            "name": "Protoss 06: Into the Darkness",
+            "description": "Protoss Command Ship Gantrithor\n- Low orbit over the planet Char",
             "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss06.SC2Map"
         },
         {
-            "name": "Protoss07",
-            "description": "",
+            "name": "Protoss 07: Homeland",
+            "description": "Protoss Command Ship Gantrithor\n- Holding Orbit over the planet Aiur",
             "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss07.SC2Map"
         },
         {
-            "name": "Protoss08",
-            "description": "",
+            "name": "Protoss 08: The Trial of Tassadar",
+            "description": "Protoss Command Ship Gantrithor\n- Holding Orbit over the planet Aiur",
             "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss08.SC2Map"
         },
         {
-            "name": "Protoss09",
-            "description": "",
+            "name": "Protoss 09: Shadow Hunters",
+            "description": "Protoss Command Ship Gantrithor\n- Low orbit over the planet Aiur",
             "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss09.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss09.SC2Map"
         },
         {
-            "name": "Protoss10",
-            "description": "",
+            "name": "Protoss 10: Eye of the Storm",
+            "description": "Protoss Command Ship Gantrithor\n- Low orbit over the planet Aiur",
             "destination": "maps/Starcraft Mass Recall/3. The Fall/Protoss10.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/3. The Fall/Protoss10.SC2Map"
         },
+
         {
-            "name": "ProtossX01",
-            "description": "",
+            "name": "Expansion Protoss 01: Escape from Aiur",
+            "description": "Isolated Protoss base on the planet Aiur",
             "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX01.SC2Map"
         },
         {
-            "name": "ProtossX02",
-            "description": "",
+            "name": "Expansion Protoss 02: Dunes of Shakuras",
+            "description": "Protoss base camp on the planet Shakuras",
             "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX02.SC2Map"
         },
         {
-            "name": "ProtossX03",
-            "description": "",
+            "name": "Expansion Protoss 03: Legacy of the Xel'Naga",
+            "description": "Main Protoss settlement at New Antioch, Shakuras",
             "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX03.SC2Map"
         },
         {
-            "name": "ProtossX04",
-            "description": "",
+            "name": "Expansion Protoss 04: The Quest for Uraj",
+            "description": "Protoss fleet orbiting the planet Braxis",
             "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX04.SC2Map"
         },
         {
-            "name": "ProtossX05",
-            "description": "",
+            "name": "Expansion Protoss 05: The Battle of Braxis",
+            "description": "Protoss fleet, high orbit over the planet Braxis",
             "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX05.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX05.SC2Map"
         },
         {
-            "name": "ProtossX06",
-            "description": "",
+            "name": "Expansion Protoss 06: Return to Char",
+            "description": "Protoss fleet, high orbit over the planet Char",
             "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX06.SC2Map"
         },
         {
-            "name": "ProtossX07",
-            "description": "",
+            "name": "Expansion Protoss 07: The Insurgent",
+            "description": "Executor's Citadel at New Antioch, Shakuras",
             "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX07.SC2Map"
         },
         {
-            "name": "ProtossX08",
-            "description": "",
+            "name": "Expansion Protoss 08: Countdown",
+            "description": "Main Protoss base, the planet Shakuras",
             "destination": "maps/Starcraft Mass Recall/4. The Stand/ProtossX08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/4. The Stand/ProtossX08.SC2Map"
         },
         {
-            "name": "TerranX01",
-            "description": "",
+            "name": "Expansion Terran 01: First Strike",
+            "description": "UED Flagship Aleksander, High Orbit over the\n\nplanet Braxis; Outlying Dominion stronghold",
             "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX01.SC2Map"
         },
         {
-            "name": "TerranX02",
-            "description": "",
+            "name": "Expansion Terran 02: The Dylarian Shipyards",
+            "description": "UED Flagship Aleksander, holding perimeter\n\norbit over the Dylarian Shipyards, outlying\n\nDominion trade center",
             "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX02.SC2Map"
         },
         {
-            "name": "TerranX03",
-            "description": "",
+            "name": "Expansion Terran 03: Ruins of Tarsonis",
+            "description": "UED Flagship Aleksander, low orbit over the\n\nplanet Tarsonis; former capitol world of the\n\nTerran Confederacy",
             "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX03.SC2Map"
         },
         {
-            "name": "TerranX04",
-            "description": "",
+            "name": "Expansion Terran 04: Assault on Korhal",
+            "description": "UED Flagship Aleksander, low orbit over the\n\nplanet Korhal; Dominion throne-world",
             "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX04.SC2Map"
         },
         {
-            "name": "TerranX05a",
-            "description": "",
+            "name": "Expansion Terran 05a: Emperor's Fall (Ground Zero)",
+            "description": "UED command center, near the outskirts of\n\nAugustgrad; capital city of Korhal",
             "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX05a.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX05a.SC2Map"
         },
         {
-            "name": "TerranX05b",
-            "description": "",
+            "name": "Expansion Terran 05b: Emperor's Fall (Birds of War)",
+            "description": "UED command center, near the outskirts of\n\nAugustgrad; capital city of Korhal",
             "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX05b.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX05b.SC2Map"
         },
         {
-            "name": "TerranX06",
-            "description": "",
+            "name": "Expansion Terran 06: Emperor's Flight",
+            "description": "UED flagship, Aleksander, en route to the\n\nplanet Aiur",
             "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX06.SC2Map"
         },
         {
-            "name": "TerranX07",
-            "description": "",
+            "name": "Expansion Terran 07: Patriot's Blood",
+            "description": "UED flagship, Aleksander, holding perimeter\n\norbit over the planet Braxis",
             "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX07.SC2Map"
         },
         {
-            "name": "TerranX08",
-            "description": "",
+            "name": "Expansion Terran 08: To Chain the Beast",
+            "description": "UED flagship, Aleksander, low orbit over the\n\nplanet Char",
             "destination": "maps/Starcraft Mass Recall/5. The Iron Fist/TerranX08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/5. The Iron Fist/TerranX08.SC2Map"
         },
         {
-            "name": "ZergX01",
-            "description": "",
+            "name": "Expansion Zerg 01: Vile Disruption",
+            "description": "Kerrigan's Fortress, on the planet Tarsonis",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX01.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX01.SC2Map"
         },
         {
-            "name": "ZergX02",
-            "description": "",
+            "name": "Expansion Zerg 02: Reign of Fire",
+            "description": "High orbit over the planet Braxis",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX02.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX02.SC2Map"
         },
         {
-            "name": "ZergX03",
-            "description": "",
+            "name": "Expansion Zerg 03: The Kel-Morian Combine",
+            "description": "Command ship Hyperion, orbiting the planet Moria",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX03.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX03.SC2Map"
         },
         {
-            "name": "ZergX04",
-            "description": "",
+            "name": "Expansion Zerg 04: The Liberation of Korhal",
+            "description": "High orbit over the UED capitol world, Korhal",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX04.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX04.SC2Map"
         },
         {
-            "name": "ZergX05",
-            "description": "",
+            "name": "Expansion Zerg 05: True Colors",
+            "description": "Outskirts of Augustgrad\n- Early morning",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX05.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX05.SC2Map"
         },
         {
-            "name": "ZergX06",
-            "description": "",
+            "name": "Expansion Zerg 06: Fury of the Swarm",
+            "description": "Kerrigan's Fortress, on the planet Tarsonis\n- Two days later",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX06.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX06.SC2Map"
         },
         {
-            "name": "ZergX07",
-            "description": "",
+            "name": "Expansion Zerg 07: Drawing of the Web",
+            "description": "Holding orbit over the planet Shakuras",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX07.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX07.SC2Map"
         },
         {
-            "name": "ZergX08",
-            "description": "",
+            "name": "Expansion Zerg 08: To Slay the Beast",
+            "description": "Infested platform over the planet Char\n- Kerrigan's base of operation",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX08.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX08.SC2Map"
         },
         {
-            "name": "ZergX09",
-            "description": "",
+            "name": "Expansion Zerg 09: The Reckoning",
+            "description": "Somewhere on the planet Char\n- Six hours later",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX09.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX09.SC2Map"
         },
         {
-            "name": "ZergX09S",
+            "name": "Expansion Zerg Bonus: Dark Origin",
             "description": "",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX09S.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
@@ -586,8 +587,8 @@
             "fileEntry": "Starcraft Mass Recall/6. Queen of Blades/ZergX09S.SC2Map"
         },
         {
-            "name": "ZergX10",
-            "description": "",
+            "name": "Expansion Zerg 10: Omega",
+            "description": "Infested platform over the planet Char\n- Kerrigan's base of operations",
             "destination": "maps/Starcraft Mass Recall/6. Queen of Blades/ZergX10.SC2Map",
             "source": "https://media.forgecdn.net/files/2857/260/SCMR_v7.3.zip",
             "sourceFormat": "zip",
