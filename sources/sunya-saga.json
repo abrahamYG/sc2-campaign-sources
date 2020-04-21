@@ -13,10 +13,51 @@
             "fileEntry": "Sunya/Launcher.sc2map",
             "source": "https://media.forgecdn.net/files/2893/435/Sunya.zip",
             "sourceFormat": "zip"
+        },
+        {
+            "name": "Sunya 01",
+            "description": "Map 01",
+            "destination": "Sunya/Sunya 01.sc2map",
+            "fileEntry": "Sunya/Sunya 01.sc2map",
+            "source": "https://media.forgecdn.net/files/2893/435/Sunya.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Sunya 02",
+            "description": "Map 02",
+            "destination": "Sunya/Sunya 02.sc2map",
+            "fileEntry": "Sunya/Sunya 02.sc2map",
+            "source": "https://media.forgecdn.net/files/2893/435/Sunya.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Sunya 03",
+            "description": "Map 03",
+            "destination": "Sunya/Sunya 03.sc2map",
+            "fileEntry": "Sunya/Sunya 03.sc2map",
+            "source": "https://media.forgecdn.net/files/2893/435/Sunya.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Sunya 04",
+            "description": "Map 04",
+            "destination": "Sunya/Sunya 04.sc2map",
+            "fileEntry": "Sunya/Sunya 04.sc2map",
+            "source": "https://media.forgecdn.net/files/2893/435/Sunya.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Sunya 05",
+            "description": "Map 05",
+            "destination": "Sunya/Sunya 05.sc2map",
+            "fileEntry": "Sunya/Sunya 05.sc2map",
+            "source": "https://media.forgecdn.net/files/2893/435/Sunya.zip",
+            "sourceFormat": "zip"
         }
+
     ],
     "mods": [],
-    "lastUpdated": "2019-06-27T21:00:14.000Z",
+    "lastUpdated": "2020-03-02T21:00:14.000Z",
     "patchNotes": [],
     "screenshots": [
         {
@@ -28,9 +69,3 @@
     "videos": [],
     "state": "ready"
 }
-/*Sunya\Launcher.sc2map
-Sunya\Sunya 01.sc2map
-Sunya\Sunya 02.sc2map
-Sunya\Sunya 03.sc2map
-Sunya\Sunya 04.sc2map
-Sunya\Sunya 05.sc2map*/
