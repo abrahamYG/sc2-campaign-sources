@@ -59,7 +59,7 @@
         {
             "version": "v0.7.1",
             "date": "2020-04-27",
-            "notes": "-All maps now use renamed MR mod files in order to not conflict with newer versions of vanilla MR\n-Briefing- and victory screens will now fade in instead of just appearing\n-Fixed a nasty bug that caused Duran to do 0 damage to certain armor types on some maps\n-EMP will now properly completely destroy the shields of all unit types \n-The help popups in mission 1 will now reference the fact that Duran can use EMP"
+            "notes": "- All maps now use renamed MR mod files in order to not conflict with newer versions of vanilla MR\n- Briefing and victory screens will now fade in instead of just appearing\n- Fixed a nasty bug that caused Duran to do 0 damage to certain armor types on some maps\n- EMP will now properly completely destroy the shields of all unit types \n- The help popups in mission 1 will now reference the fact that Duran can use EMP"
         },
         {
             "version": "v0.7",
