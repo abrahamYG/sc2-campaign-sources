@@ -1,0 +1,163 @@
+{
+    "id": "ued-first-light",
+    "name": "UED: First Light",
+    "shortName": "UED: First Light",
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/555/122/637898171111481531.jpeg",
+    "description": "![Logo](<https://i.imgur.com/Yw4g0Qg.png>)A custom campaign for StarCraft 2, UED: First Light explores what 'really' happened before the Brood War and Second Great War in the Koprulu Sector. Set 250 years before the events of the original StarCraft, you will command forces of the United Powers League as you defend earth against horrific invaders.\n\nYou will be introduced to a new faction with custom units, voices, animations, and abilities. You will meet several powerful heroes whose names never made it into the history books. At least not the ones published by the UED many years later. This 18 mission single-player campaign will give you 14-16 hours of gameplay, more than 4 hours of voice overs, a custom soundtrack, and is the definitive prequel that answers many questions about why the UED truly went to the Koprulu Sector.\n\nJoin us at [UED: FL Discord](https://discord.gg/J45wUyN468)",
+    "author": "NexusCore",
+    "lastUpdated": "2022-06-20",
+    "screenshots": [
+        {
+            "src": "https://media.forgecdn.net/attachments/251/12/screenshot2019-04-22-12_01_36.jpg"
+        }
+    ],
+    "patchNotes": [
+        {
+            "version": "v0.7.1",
+            "date": "2020-04-27",
+            "notes": "- All maps now use renamed MR mod files in order to not conflict with newer versions of vanilla MR\n- Briefing and victory screens will now fade in instead of just appearing\n- Fixed a nasty bug that caused Duran to do 0 damage to certain armor types on some maps\n- EMP will now properly completely destroy the shields of all unit types \n- The help popups in mission 1 will now reference the fact that Duran can use EMP"
+        }
+    ],
+    "mods": [
+        {
+            "name": "Assets Mod",
+            "description": "",
+            "destination": "mods/UEDFL_Assets.SC2Mod",
+            "source": "https://media.forgecdn.net/files/3834/240/UEDFL_Mods1_2.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "mods/UEDFL_Assets.SC2Mod"
+        },
+        {
+            "name": "Data Mod",
+            "description": "",
+            "destination": "mods/UEDFL_Data.SC2Mod",
+            "source": "https://media.forgecdn.net/files/3834/240/UEDFL_Mods1_2.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "mods/UEDFL_Data.SC2Mod"
+        },
+        {
+            "name": "Campaign Mod",
+            "description": "",
+            "destination": "mods/UEDFL_Campaign.SC2Mod",
+            "source": "https://media.forgecdn.net/files/3834/240/UEDFL_Mods1_2.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "mods/UEDFL_Campaign.SC2Mod"
+        },
+        {
+            "name": "Achievements Mod",
+            "description": "",
+            "destination": "mods/UEDFL_Achievements.SC2Mod",
+            "source": "https://media.forgecdn.net/files/3834/240/UEDFL_Mods1_2.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "mods/UEDFL_Achievements.SC2Mod"
+        }
+    ],
+    "maps": [
+        {
+            "name": "Mission Launcher",
+            "description": "Mission Launcher for Ascension of Duran",
+            "destination": "maps/UEDFL/UEDFL_Launcher.SC2Map",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_Launcher.SC2Map"
+        },
+        {
+            "name":"Prologue",
+            "destination":"maps/UEDFL/UEDFL_EP01M00.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M00.SC2Map"
+        },
+        {
+            "name":"End of Innocence",
+            "destination":"maps/UEDFL/UEDFL_EP01M01.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M01.SC2Map"
+        },
+        {
+            "name":"10-91 Echo",
+            "destination":"maps/UEDFL/UEDFL_Ep01M02_Part1.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_Ep01M02_Part1.SC2Map"
+        },
+        {
+            "name":"Outpost 497",
+            "destination":"maps/UEDFL/UEDFL_EP01M02_Part2.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M02_Part2.SC2Map"
+        },
+        {
+            "name":"Clean and Sweep",
+            "destination":"maps/UEDFL/UEDFL_EP01M03.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M03.SC2Map"
+        },
+        {
+            "name":"Payback Time",
+            "destination":"maps/UEDFL/UEDFL_EP01M04.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M04.SC2Map"
+        },
+        {
+            "name":"Pyrrhic Victory",
+            "destination":"maps/UEDFL/UEDFL_EP01M05.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M05.SC2Map"
+        },
+        {
+            "name":"VIP",
+            "destination":"maps/UEDFL/UEDFL_EP01M06.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M06.SC2Map"
+        },
+        {
+            "name":"August",
+            "destination":"maps/UEDFL/UEDFL_EP01M07.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M07.SC2Map"
+        },
+        {
+            "name":"The Gatekeepers",
+            "destination":"maps/UEDFL/UEDFL_EP01M08.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M08.SC2Map"
+        },
+        {
+            "name":"Abandon Hope",
+            "destination":"maps/UEDFL/UEDFL_EP01M09.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M09.SC2Map"
+        },
+        {
+            "name":"With a Whimper",
+            "destination":"maps/UEDFL/UEDFL_EP01M10.SC2Map",
+            "description":"",
+            "source": "https://media.forgecdn.net/files/3834/830/UEDFL_Maps1_2_3.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "maps/UEDFL/UEDFL_EP01M10.SC2Map"
+        }
+    ],
+    "state": "ready"
+}
