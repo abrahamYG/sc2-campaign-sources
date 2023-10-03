@@ -79,6 +79,46 @@
             "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
             "sourceFormat": "zip"
         },
+        {
+            "name": "Loomings/Loomings1",
+            "description": "Launcher",
+            "destination": "Maps/Loomings/Loomings1.SC2Map",
+            "fileEntry": "Loomings/Loomings1.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Loomings/Loomings2",
+            "description": "Launcher",
+            "destination": "Maps/Loomings/Loomings2.SC2Map",
+            "fileEntry": "Loomings/Loomings2.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Loomings/Loomings3",
+            "description": "Launcher",
+            "destination": "Maps/Loomings/Loomings3.SC2Map",
+            "fileEntry": "Loomings/Loomings3.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Loomings/Loomings4",
+            "description": "Launcher",
+            "destination": "Maps/Loomings/Loomings4.SC2Map",
+            "fileEntry": "Loomings/Loomings4.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Loomings/Loomings5",
+            "description": "Launcher",
+            "destination": "Maps/Loomings/Loomings5.SC2Map",
+            "fileEntry": "Loomings/Loomings5.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "sourceFormat": "zip"
+        }
     ],
     "state": "ready"
 }
