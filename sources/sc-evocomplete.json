@@ -41,7 +41,7 @@
             "name": "Campaign Achievements Mod",
             "description": "Mod File",
             "destination": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_Achievements.SC2Mod",
-            "source": "https://mediafilez.forgecdn.net/files/4770/852/SCEvo_CampaignMods_0_13.zip",
+            "source": "https://mediafilez.forgecdn.net/files/4770/845/SCEvo_CampaignMods_0_6.zip",
             "sourceFormat": "zip",
             "fileEntry": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_Achievements.SC2Mod"
         },
@@ -49,7 +49,7 @@
             "name": "Campaign Assets Mod",
             "description": "Mod File",
             "destination": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_CampaignAssets.SC2Mod",
-            "source": "https://mediafilez.forgecdn.net/files/4770/852/SCEvo_CampaignMods_0_13.zip",
+            "source": "https://mediafilez.forgecdn.net/files/4770/845/SCEvo_CampaignMods_0_6.zip",
             "sourceFormat": "zip",
             "fileEntry": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_CampaignAssets.SC2Mod"
         },
@@ -57,7 +57,7 @@
             "name": "Campaign Mod",
             "description": "Mod File",
             "destination": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_Campaign.SC2Mod",
-            "source": "https://mediafilez.forgecdn.net/files/4770/852/SCEvo_CampaignMods_0_13.zip",
+            "source": "https://mediafilez.forgecdn.net/files/4770/845/SCEvo_CampaignMods_0_6.zip",
             "sourceFormat": "zip",
             "fileEntry": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_Campaign.SC2Mod"
         }
@@ -68,7 +68,7 @@
             "description": "Launcher",
             "destination": "Maps/EvoCompleteLauncher.SC2Map",
             "fileEntry": "EvoCompleteLauncher.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "source": "https://mediafilez.forgecdn.net/files/4770/961/SCEvo_Maps_0_6_2.zip",
             "sourceFormat": "zip"
         },
         {
@@ -76,7 +76,7 @@
             "description": "Launcher",
             "destination": "Maps/Loomings/Loomings0.SC2Map",
             "fileEntry": "Loomings/Loomings0.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "source": "https://mediafilez.forgecdn.net/files/4770/961/SCEvo_Maps_0_6_2.zip",
             "sourceFormat": "zip"
         },
         {
@@ -84,7 +84,7 @@
             "description": "Launcher",
             "destination": "Maps/Loomings/Loomings1.SC2Map",
             "fileEntry": "Loomings/Loomings1.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "source": "https://mediafilez.forgecdn.net/files/4770/961/SCEvo_Maps_0_6_2.zip",
             "sourceFormat": "zip"
         },
         {
@@ -92,7 +92,7 @@
             "description": "Launcher",
             "destination": "Maps/Loomings/Loomings2.SC2Map",
             "fileEntry": "Loomings/Loomings2.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "source": "https://mediafilez.forgecdn.net/files/4770/961/SCEvo_Maps_0_6_2.zip",
             "sourceFormat": "zip"
         },
         {
@@ -100,7 +100,7 @@
             "description": "Launcher",
             "destination": "Maps/Loomings/Loomings3.SC2Map",
             "fileEntry": "Loomings/Loomings3.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "source": "https://mediafilez.forgecdn.net/files/4770/961/SCEvo_Maps_0_6_2.zip",
             "sourceFormat": "zip"
         },
         {
@@ -108,7 +108,7 @@
             "description": "Launcher",
             "destination": "Maps/Loomings/Loomings4.SC2Map",
             "fileEntry": "Loomings/Loomings4.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "source": "https://mediafilez.forgecdn.net/files/4770/961/SCEvo_Maps_0_6_2.zip",
             "sourceFormat": "zip"
         },
         {
@@ -116,7 +116,7 @@
             "description": "Launcher",
             "destination": "Maps/Loomings/Loomings5.SC2Map",
             "fileEntry": "Loomings/Loomings5.SC2Map",
-            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "source": "https://mediafilez.forgecdn.net/files/4770/961/SCEvo_Maps_0_6_2.zip",
             "sourceFormat": "zip"
         }
     ],
