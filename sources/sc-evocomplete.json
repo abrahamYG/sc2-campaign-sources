@@ -1,0 +1,84 @@
+{
+    "id": "sc-evocomplete",
+    "name": "StarCraft: Evolution Complete",
+    "shortName": "StarCraft: Evolution Complete",
+    "installed": false,
+    "summmary": "",
+    "thumbnail": "https://media.forgecdn.net/avatars/813/355/638187829548027990.png",
+    "description": "# What is this?\nThis is the first release of a StarCraft 2 remake of the seminal StarCraft custom campaign known as the Antioch Chronicles. This project is a high-fidelity reproduction of the original campaign with few enhancements taking advantage of the StarCraft 2 editor.\nThis version contains both episode 1 and 2 of the campaign. It uses the StarCraft: Mass Recall mod, which the creators were generous enough to allow us to use.\n\n# What is the Antioch Chronicles?\nIn 1998, not long after StarCraft was released, a mapmaker calling himself Auspex Turmalis (Ruben Moreno) released episode 1 of a custom campaign that he called The Antioch Chronicles. The campaign featured custom audio, perhaps most notable for how well Auspex reproduced the Protoss audio effects. Also impressive was the fact that Auspex recorded all of the character voices himself.\nEpisode 2 was released in 1999. For the second campaign, creative duties were split between Auspex and Zeus Legion (Eric Dieter), with additional voice support acting by Ytse-Jam (Juan Mantilla) and Macbeth (Eric Ladd). By the release of Episode 2, the Antioch Chronicles had gathered a large and active fan base.\n \n## Episode 3\nUnfortunately, a promised Episode 3 was canceled. However, Team Antioch, with the support of the Original Creators, has released our own version, which you can download at https://www.sc2mapster.com/projects/thoughts-in-chaos . Still, the first two episodes did much to shape the early StarCraft modding community and remain in the popular conscious fifteen years later. For more information about the Antioch Chronicles, visit http://antioch.snow-fall.com/wiki.pl?The_Antioch_Chronicles .\n\n# Watch on Youtube\nCommunity-paragon Jayborino has an ongoing series of playthrough videos. Check out the whole playlist and stick around for his other videos!\n\n# Thanks\nThis project wouldn't be possible without the generous support of Auspex Turmalis, the Star Craft: Mass Recall team, the Custom Campaign Initiative, Jayborino, and the entire SC2Mapster community. Thank you.\n\n# Join the Community\nWant to chat about the Antioch Chronicles? Join us on Discord!",
+    "author": "Team Koprulu",
+    "lastUpdated": "2023-09-26T20:06:41.000Z",
+    "screenshots": [       
+        {
+            "src": "https://media.forgecdn.net/attachments/644/613/wvjy8t7.png"
+        }
+    ],
+    "patchNotes": [
+        {
+            "version": "v0.6",
+            "date": "2019-03-28",
+            "notes": " * Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n * Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+    ],
+    "mods": [
+        {
+            "name": "Assets Mod",
+            "description": "Mod File",
+            "destination": "Mods/SC Evolution Complete/SCEvo_Assets.SC2Mod",
+            "source": "https://mediafilez.forgecdn.net/files/4770/852/SCEvo_CoreMods_0_13.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "Mods/SC Evolution Complete/SCEvo_Assets.SC2Mod"
+        },
+        {
+            "name": "Core Mod",
+            "description": "Mod File",
+            "destination": "Mods/SC Evolution Complete/SCEvo_Core.SC2Mod",
+            "source": "https://mediafilez.forgecdn.net/files/4770/852/SCEvo_CoreMods_0_13.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "Mods/SC Evolution Complete/SCEvo_Core.SC2Mod"
+        },
+        {
+            "name": "Campaign Achievements Mod",
+            "description": "Mod File",
+            "destination": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_Achievements.SC2Mod",
+            "source": "https://mediafilez.forgecdn.net/files/4770/852/SCEvo_CampaignMods_0_13.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_Achievements.SC2Mod"
+        },
+        {
+            "name": "Campaign Assets Mod",
+            "description": "Mod File",
+            "destination": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_CampaignAssets.SC2Mod",
+            "source": "https://mediafilez.forgecdn.net/files/4770/852/SCEvo_CampaignMods_0_13.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_CampaignAssets.SC2Mod"
+        },
+        {
+            "name": "Campaign Mod",
+            "description": "Mod File",
+            "destination": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_Campaign.SC2Mod",
+            "source": "https://mediafilez.forgecdn.net/files/4770/852/SCEvo_CampaignMods_0_13.zip",
+            "sourceFormat": "zip",
+            "fileEntry": "Mods/SC Evolution Complete/SCEvo_CampaignMods/SCEvo_Campaign.SC2Mod"
+        }
+    ],
+    "maps": [
+        {
+            "name": "Campaign Launcher",
+            "description": "Launcher",
+            "destination": "Maps/EvoCompleteLauncher.SC2Map",
+            "fileEntry": "EvoCompleteLauncher.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "sourceFormat": "zip"
+        },
+        {
+            "name": "Loomings/Loomings0",
+            "description": "Launcher",
+            "destination": "Maps/Loomings/Loomings0.SC2Map",
+            "fileEntry": "Loomings/Loomings0.SC2Map",
+            "source": "https://edge.forgecdn.net/files/2719/211/SCEvo_Maps_0_13.zip",
+            "sourceFormat": "zip"
+        },
+    ],
+    "state": "ready"
+}
